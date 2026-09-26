@@ -1,4 +1,4 @@
-# Playoff Elimination Tracker v4
+# Playoff Elimination Tracker v5
 
 NHL (1918–2026), NFL (1966–2025), and NBA (1947–2026).
 
@@ -12,7 +12,7 @@ NHL (1918–2026), NFL (1966–2025), and NBA (1947–2026).
 
 [GitHub](https://github.com/elevation-edge-sports-data/playoff-elimination-tracker)
 
-Previous versions: [v1](./archive/v1/), [v2](./archive/v2/), [v3](./archive/v3/).
+Previous versions: [v1](./archive/v1/), [v2](./archive/v2/), [v3](./archive/v3/), [v4](./archive/v4/).
 
 Companion NHL stats live in [nhl-playoff-team-stats](https://github.com/elevation-edge-sports-data/nhl-playoff-team-stats).
 

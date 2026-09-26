@@ -1,0 +1,13 @@
+# Ignore macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace settings
+.vscode/
+
+# Logs
+*.log
+
+# Node.js or Python (if added later)
+node_modules/
+__pycache__/
