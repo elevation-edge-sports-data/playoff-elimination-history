@@ -1,0 +1,30 @@
+{
+  "abbr": "SDR",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 252,
+      "name": "San Diego Rockets"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SDR-NBA-1968-1971.png",
+      "start": 1968,
+      "end": 1971,
+      "title": "San Diego Rockets Primary Logo (1968 - 1971)",
+      "source_team_id": 252,
+      "source_team_name": "San Diego Rockets",
+      "view_url": "https://www.sportslogos.net/logos/view/4788/San-Diego-Rockets-Logo/1968/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/252/thumbs/4788.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/252/full/4788.png",
+      "sha256": "b50ac2d5fda74c6f1de58ae757d2fc179c69cfa61ca3ecb58b419ddf41a0a3da",
+      "bytes": 293439,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 665,
+      "height": 665
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "abbr": "ORL",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 217,
+      "name": "Orlando Magic"
+    }
+  ],
+  "logos": [
+    {
+      "file": "ORL-NBA-1990-1998.png",
+      "start": 1990,
+      "end": 1998,
+      "title": "Orlando Magic Primary Logo (1990 - 1998)",
+      "source_team_id": 217,
+      "source_team_name": "Orlando Magic",
+      "view_url": "https://www.sportslogos.net/logos/view/xbimzdw5yiu03525o34bvqg9g/Orlando-Magic-Logo/1990/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/217/thumbs/xbimzdw5yiu03525o34bvqg9g.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/217/full/xbimzdw5yiu03525o34bvqg9g.gif",
+      "sha256": "bf3e241038461607c864eda685698ab50cc9b7e674a7e13397260a9f372b4747",
+      "bytes": 296427,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4798,
+      "width": 835,
+      "height": 300
+    },
+    {
+      "file": "ORL-NBA-1999-2000.png",
+      "start": 1999,
+      "end": 2000,
+      "title": "Orlando Magic Primary Logo (1999 - 2000)",
+      "source_team_id": 217,
+      "source_team_name": "Orlando Magic",
+      "view_url": "https://www.sportslogos.net/logos/view/21765991999/Orlando-Magic-Logo/1999/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/217/thumbs/21765991999.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/217/full/orlando_magic_logo_primary_1999_sportslogosnet-6599.png",
+      "sha256": "a6f6c0e880af4be5c8c0ba46a47b7e093fd2244434813b1c4e4788d2a184dbb3",
+      "bytes": 85566,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6779,
+      "width": 905,
+      "height": 330
+    },
+    {
+      "file": "ORL-NBA-2001-2010.png",
+      "start": 2001,
+      "end": 2010,
+      "title": "Orlando Magic Primary Logo (2001 - 2010)",
+      "source_team_id": 217,
+      "source_team_name": "Orlando Magic",
+      "view_url": "https://www.sportslogos.net/logos/view/th2p1ysxo6xd5i4er1vomjghe/Orlando-Magic-Logo/2001/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/217/thumbs/th2p1ysxo6xd5i4er1vomjghe.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/217/full/th2p1ysxo6xd5i4er1vomjghe.gif",
+      "sha256": "f5b34690ee7522b7c6b70f4d079cda9b2461267a1ed0fec55061985b2bb5aac6",
+      "bytes": 149074,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0001,
+      "width": 700,
+      "height": 681
+    },
+    {
+      "file": "ORL-NBA-2011-2025.png",
+      "start": 2011,
+      "end": 2025,
+      "title": "Orlando Magic Primary Logo (2011 - 2025)",
+      "source_team_id": 217,
+      "source_team_name": "Orlando Magic",
+      "view_url": "https://www.sportslogos.net/logos/view/wd9ic7qafgfb0yxs7tem7n5g4/Orlando-Magic-Logo/2011/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/217/thumbs/wd9ic7qafgfb0yxs7tem7n5g4.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/217/full/wd9ic7qafgfb0yxs7tem7n5g4.gif",
+      "sha256": "243a85903fdbc9728fafdb45c44ef7fb049eadebd4b0b4e7914b48a864d96637",
+      "bytes": 174852,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4475,
+      "width": 750,
+      "height": 521
+    },
+    {
+      "file": "ORL-NBA-2026-pres.png",
+      "start": 2026,
+      "end": null,
+      "title": "Orlando Magic Primary Logo (2026 - Pres)",
+      "source_team_id": 217,
+      "source_team_name": "Orlando Magic",
+      "view_url": "https://www.sportslogos.net/logos/view/21794952026/Orlando-Magic-Logo/2026/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/217/thumbs/orlando-magic-logo-primary-2026-21794952026-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/217/full/orlando-magic-logo-primary-2026-21794952026.png",
+      "sha256": "0bd851ee6258b4f3e10e7d41881645f255558aa3526bb3886230df705b87b206",
+      "bytes": 385654,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 630
+    }
+  ]
+}

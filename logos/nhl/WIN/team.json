@@ -1,0 +1,48 @@
+{
+  "abbr": "WIN",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 37,
+      "name": "Winnipeg Jets (original)"
+    }
+  ],
+  "logos": [
+    {
+      "file": "WIN-NHL-1980-1990.png",
+      "start": 1980,
+      "end": 1990,
+      "title": "Winnipeg Jets Primary Logo (1980 - 1990)",
+      "source_team_id": 37,
+      "source_team_name": "Winnipeg Jets (original)",
+      "view_url": "https://www.sportslogos.net/logos/view/xpnaasvhr3xaabg4knz278a8d/Winnipeg-Jets-Logo/1980/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/37/thumbs/xpnaasvhr3xaabg4knz278a8d.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/37/full/xpnaasvhr3xaabg4knz278a8d.png",
+      "sha256": "8519ec8262a55e4442dcf5dbd809195f379be4df51e9d4a0c59b46f9314c56f6",
+      "bytes": 122752,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2731,
+      "width": 905,
+      "height": 905
+    },
+    {
+      "file": "WIN-NHL-1991-1996.png",
+      "start": 1991,
+      "end": 1996,
+      "title": "Winnipeg Jets Primary Logo (1991 - 1996)",
+      "source_team_id": 37,
+      "source_team_name": "Winnipeg Jets (original)",
+      "view_url": "https://www.sportslogos.net/logos/view/dhhc15gfgtog1qo5b5uwpz8h0/Winnipeg-Jets-Logo/1991/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/37/thumbs/dhhc15gfgtog1qo5b5uwpz8h0.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/37/full/dhhc15gfgtog1qo5b5uwpz8h0.png",
+      "sha256": "aaf1332fc5ec38b1c1bd45cdbb331376f7506c7308a9434ff3d19efb3a924aa3",
+      "bytes": 282564,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3665,
+      "width": 905,
+      "height": 775
+    }
+  ]
+}

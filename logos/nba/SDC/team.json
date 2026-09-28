@@ -1,0 +1,48 @@
+{
+  "abbr": "SDC",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 254,
+      "name": "San Diego Clippers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SDC-NBA-1979-1982.png",
+      "start": 1979,
+      "end": 1982,
+      "title": "San Diego Clippers Primary Logo (1979 - 1982)",
+      "source_team_id": 254,
+      "source_team_name": "San Diego Clippers",
+      "view_url": "https://www.sportslogos.net/logos/view/5452/San-Diego-Clippers-Logo/1979/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/254/thumbs/5452.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/254/full/5452.gif",
+      "sha256": "de0336209efc49c77dc8581f4fa0c94e0720d6fe90425f4b3fc9d7572a07b09b",
+      "bytes": 105569,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.588,
+      "width": 603,
+      "height": 603
+    },
+    {
+      "file": "SDC-NBA-1983-1984.png",
+      "start": 1983,
+      "end": 1984,
+      "title": "San Diego Clippers Primary Logo (1983 - 1984)",
+      "source_team_id": 254,
+      "source_team_name": "San Diego Clippers",
+      "view_url": "https://www.sportslogos.net/logos/view/5465/San-Diego-Clippers-Logo/1983/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/254/thumbs/5465.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/254/full/5465.gif",
+      "sha256": "d1e9f2a8f9240ec787acabd4cac94c0f96ee5f71e6f815264a50d86d0fcf9161",
+      "bytes": 88380,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6836,
+      "width": 750,
+      "height": 507
+    }
+  ]
+}

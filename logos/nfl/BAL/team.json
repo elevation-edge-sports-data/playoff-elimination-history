@@ -1,0 +1,48 @@
+{
+  "abbr": "BAL",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 153,
+      "name": "Baltimore Ravens"
+    }
+  ],
+  "logos": [
+    {
+      "file": "BAL-NFL-1996-1998.png",
+      "start": 1996,
+      "end": 1998,
+      "title": "Baltimore Ravens Primary Logo (1996 - 1998)",
+      "source_team_id": 153,
+      "source_team_name": "Baltimore Ravens",
+      "view_url": "https://www.sportslogos.net/logos/view/30cb4f54ns3sg4ufjgwlqthkj/Baltimore-Ravens-Logo/1996/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/153/thumbs/30cb4f54ns3sg4ufjgwlqthkj.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/153/full/30cb4f54ns3sg4ufjgwlqthkj.png",
+      "sha256": "0b2bd42e90447cd5657deeb1203165a795d4405e7bc6455c28ae58e8b7f83432",
+      "bytes": 95835,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1064,
+      "width": 751,
+      "height": 686
+    },
+    {
+      "file": "BAL-NFL-1999-pres.png",
+      "start": 1999,
+      "end": null,
+      "title": "Baltimore Ravens Primary Logo (1999 - Pres)",
+      "source_team_id": 153,
+      "source_team_name": "Baltimore Ravens",
+      "view_url": "https://www.sportslogos.net/logos/view/318/Baltimore-Ravens-Logo/1999/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/153/thumbs/318.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/153/full/318.png",
+      "sha256": "4b3632b4a213c93b7b973f6b39bb06b7d6d6135641d30613b8dded86db492482",
+      "bytes": 41720,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5649,
+      "width": 900,
+      "height": 435
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "abbr": "SD",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 3071,
+      "name": "San Diego Chargers (AFL)"
+    },
+    {
+      "id": 164,
+      "name": "San Diego Chargers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SD-NFL-1961-1973.png",
+      "start": 1961,
+      "end": 1973,
+      "title": "San Diego Chargers Primary Logo (1961 - 1973)",
+      "source_team_id": 3071,
+      "source_team_name": "San Diego Chargers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/hinooehlb07wrotq26b2pvpey/San-Diego-Chargers-Logo/1961/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/99/3071/thumbs/hinooehlb07wrotq26b2pvpey.gif",
+      "download_url": "https://content.sportslogos.net/logos/99/3071/full/hinooehlb07wrotq26b2pvpey.gif",
+      "sha256": "6a562fe142ab4951952bd8866fd21a8969f3b05e60c9309f6e542620728a5c58",
+      "bytes": 19655,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.237,
+      "width": 311,
+      "height": 448
+    },
+    {
+      "file": "SD-NFL-1974-1987.png",
+      "start": 1974,
+      "end": 1987,
+      "title": "San Diego Chargers Primary Logo (1974 - 1987)",
+      "source_team_id": 3071,
+      "source_team_name": "San Diego Chargers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/pt034et9e0bd4ft9fygsew7ar/San-Diego-Chargers-Logo/1974/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/164/thumbs/pt034et9e0bd4ft9fygsew7ar.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/164/full/pt034et9e0bd4ft9fygsew7ar.gif",
+      "sha256": "a7aab61e177649f836cab16c64ec6219bf650c87043a8b8d8aed2e6885f18f6c",
+      "bytes": 21288,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3798,
+      "width": 336,
+      "height": 300
+    },
+    {
+      "file": "SD-NFL-1988-2001.png",
+      "start": 1988,
+      "end": 2001,
+      "title": "San Diego Chargers Primary Logo (1988 - 2001)",
+      "source_team_id": 3071,
+      "source_team_name": "San Diego Chargers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/gzf9qxmxpfcsohcrhxb1ncxi4/San-Diego-Chargers-Logo/1988/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/164/thumbs/gzf9qxmxpfcsohcrhxb1ncxi4.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/164/full/gzf9qxmxpfcsohcrhxb1ncxi4.gif",
+      "sha256": "f799fbc32b136dc56aedf27728469ec2363757a26d07617f18004b177624415c",
+      "bytes": 35519,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3146,
+      "width": 391,
+      "height": 300
+    },
+    {
+      "file": "SD-NFL-2002-2006.png",
+      "start": 2002,
+      "end": 2006,
+      "title": "San Diego Chargers Primary Logo (2002 - 2006)",
+      "source_team_id": 3071,
+      "source_team_name": "San Diego Chargers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/0bdftvuea6709flwel7m81zee/San-Diego-Chargers-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/164/thumbs/0bdftvuea6709flwel7m81zee.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/164/full/0bdftvuea6709flwel7m81zee.gif",
+      "sha256": "8a2d05052531509d8b8dfd762dbd4360dc1a158db8e0f4a743e13cbf5feec1e9",
+      "bytes": 13430,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6395,
+      "width": 553,
+      "height": 300
+    },
+    {
+      "file": "SD-NFL-2007-2016.png",
+      "start": 2007,
+      "end": 2016,
+      "title": "San Diego Chargers Primary Logo (2007 - 2016)",
+      "source_team_id": 3071,
+      "source_team_name": "San Diego Chargers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/8e1jhgblydtow4m3okwzxh67k/San-Diego-Chargers-Logo/2007/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/164/thumbs/8e1jhgblydtow4m3okwzxh67k.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/164/full/8e1jhgblydtow4m3okwzxh67k.png",
+      "sha256": "35ae3d10f2adf4384e491102588bc5fba32f3d3792fe66276441162875fba9e9",
+      "bytes": 40762,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6536,
+      "width": 1095,
+      "height": 601
+    }
+  ]
+}

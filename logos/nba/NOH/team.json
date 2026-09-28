@@ -1,0 +1,88 @@
+{
+  "abbr": "NOH",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 226,
+      "name": "New Orleans Hornets"
+    },
+    {
+      "id": 990,
+      "name": "NO/Oklahoma City Hornets"
+    }
+  ],
+  "logos": [
+    {
+      "file": "NOH-NBA-2003-2005.png",
+      "start": 2003,
+      "end": 2005,
+      "title": "New Orleans Hornets Primary Logo (2003 - 2005)",
+      "source_team_id": 226,
+      "source_team_name": "New Orleans Hornets",
+      "view_url": "https://www.sportslogos.net/logos/view/811/New-Orleans-Hornets-Logo/2003/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/226/thumbs/811.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/226/full/811.gif",
+      "sha256": "006804c8ed8f5835b1ea8d755f054daad32e8b0988089ed1044e5f172841eeed",
+      "bytes": 38565,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 545,
+      "height": 530
+    },
+    {
+      "file": "NOH-NBA-2006-2007.png",
+      "start": 2006,
+      "end": 2007,
+      "title": "NO/Oklahoma City Hornets Primary Logo (2006 - 2007)",
+      "source_team_id": 990,
+      "source_team_name": "NO/Oklahoma City Hornets",
+      "view_url": "https://www.sportslogos.net/logos/view/ipmey2bn8qgparp4tf89/NOOklahoma-City-Hornets-Logo/2006/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/990/thumbs/ipmey2bn8qgparp4tf89.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/990/full/ipmey2bn8qgparp4tf89.gif",
+      "sha256": "006804c8ed8f5835b1ea8d755f054daad32e8b0988089ed1044e5f172841eeed",
+      "bytes": 38565,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 545,
+      "height": 530
+    },
+    {
+      "file": "NOH-NBA-2008-2008.png",
+      "start": 2008,
+      "end": 2008,
+      "title": "New Orleans Hornets Primary Logo (2008 - 2008)",
+      "source_team_id": 226,
+      "source_team_name": "New Orleans Hornets",
+      "view_url": "https://www.sportslogos.net/logos/view/q8cgr5dizhfukxvgzk5zf3dt6/New-Orleans-Hornets-Logo/2008/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/226/thumbs/q8cgr5dizhfukxvgzk5zf3dt6.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/226/full/q8cgr5dizhfukxvgzk5zf3dt6.gif",
+      "sha256": "006804c8ed8f5835b1ea8d755f054daad32e8b0988089ed1044e5f172841eeed",
+      "bytes": 38565,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 545,
+      "height": 530
+    },
+    {
+      "file": "NOH-NBA-2009-2013.png",
+      "start": 2009,
+      "end": 2013,
+      "title": "New Orleans Hornets Primary Logo (2009 - 2013)",
+      "source_team_id": 226,
+      "source_team_name": "New Orleans Hornets",
+      "view_url": "https://www.sportslogos.net/logos/view/legngwiheii4eld1u0agakxhc/New-Orleans-Hornets-Logo/2009/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/226/thumbs/legngwiheii4eld1u0agakxhc.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/226/full/legngwiheii4eld1u0agakxhc.gif",
+      "sha256": "77c3d5f64f5bb702a670aaf0377411a1dfd34e6bacff08a2d91bd474c76ae59c",
+      "bytes": 92737,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4299,
+      "width": 487,
+      "height": 524
+    }
+  ]
+}

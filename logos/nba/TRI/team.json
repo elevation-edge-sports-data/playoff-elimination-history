@@ -1,0 +1,30 @@
+{
+  "abbr": "TRI",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 1124,
+      "name": "Tri-Cities Blackhawks"
+    }
+  ],
+  "logos": [
+    {
+      "file": "TRI-NBA-1950-1951.png",
+      "start": 1950,
+      "end": 1951,
+      "title": "Tri-Cities Blackhawks Primary Logo (1950 - 1951)",
+      "source_team_id": 1124,
+      "source_team_name": "Tri-Cities Blackhawks",
+      "view_url": "https://www.sportslogos.net/logos/view/5658/Tri-Cities-Blackhawks-Logo/1950/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/1124/thumbs/5658.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/1124/full/5658.gif",
+      "sha256": "3ba27f916a7636d27858ee9079556c4b08d0041db2d9e88a4dd6f69515ecb947",
+      "bytes": 48990,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0157,
+      "width": 300,
+      "height": 311
+    }
+  ]
+}

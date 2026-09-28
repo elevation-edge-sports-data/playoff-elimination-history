@@ -1,0 +1,84 @@
+{
+  "abbr": "SAS",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 233,
+      "name": "San Antonio Spurs"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SAS-NBA-1977-1989.png",
+      "start": 1977,
+      "end": 1989,
+      "title": "San Antonio Spurs Primary Logo (1977 - 1989)",
+      "source_team_id": 233,
+      "source_team_name": "San Antonio Spurs",
+      "view_url": "https://www.sportslogos.net/logos/view/4719/San-Antonio-Spurs-Logo/1977/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/233/thumbs/4719.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/233/full/4719.gif",
+      "sha256": "0734928d9ca29ca785e00873f972f2975c1daf78da354c0272cb3e074df84117",
+      "bytes": 70361,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6626,
+      "width": 750,
+      "height": 421
+    },
+    {
+      "file": "SAS-NBA-1990-2002.png",
+      "start": 1990,
+      "end": 2002,
+      "title": "San Antonio Spurs Primary Logo (1990 - 2002)",
+      "source_team_id": 233,
+      "source_team_name": "San Antonio Spurs",
+      "view_url": "https://www.sportslogos.net/logos/view/e04ylwkfdofkr2ctlerjov26s/San-Antonio-Spurs-Logo/1990/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/233/thumbs/e04ylwkfdofkr2ctlerjov26s.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/233/full/e04ylwkfdofkr2ctlerjov26s.png",
+      "sha256": "a9ff0d160055bd7bc56b022330338040c9e57f4e3451f9c424dc34488bd4bc8e",
+      "bytes": 104676,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 905,
+      "height": 460
+    },
+    {
+      "file": "SAS-NBA-2003-2017.png",
+      "start": 2003,
+      "end": 2017,
+      "title": "San Antonio Spurs Primary Logo (2003 - 2017)",
+      "source_team_id": 233,
+      "source_team_name": "San Antonio Spurs",
+      "view_url": "https://www.sportslogos.net/logos/view/827/San-Antonio-Spurs-Logo/2003/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/233/thumbs/827.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/233/full/827.png",
+      "sha256": "385f1d113f80fc01bf8e30641d8874d6abc528a4bd43b26453cef35dffe5daf3",
+      "bytes": 182687,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 905,
+      "height": 490
+    },
+    {
+      "file": "SAS-NBA-2018-pres.png",
+      "start": 2018,
+      "end": null,
+      "title": "San Antonio Spurs Primary Logo (2018 - Pres)",
+      "source_team_id": 233,
+      "source_team_name": "San Antonio Spurs",
+      "view_url": "https://www.sportslogos.net/logos/view/23325472018/San-Antonio-Spurs-Logo/2018/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/233/thumbs/23325472018.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/233/full/2547_san_antonio_spurs-primary-2018.png",
+      "sha256": "0d09cff48632387d31dbe4f640370af6001a3f8f576843b2bc693c5322609850",
+      "bytes": 65840,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7674,
+      "width": 905,
+      "height": 410
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "abbr": "CHA",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 258,
+      "name": "Charlotte Bobcats"
+    },
+    {
+      "id": 5120,
+      "name": "Charlotte Hornets (2014-)"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CHA-NBA-1989-2002.png",
+      "start": 1989,
+      "end": 2002,
+      "title": "Charlotte Hornets Primary Logo (1989 - 2002)",
+      "source_team_id": 5120,
+      "source_team_name": "Charlotte Hornets (2014-)",
+      "view_url": "https://www.sportslogos.net/logos/view/3097/Charlotte-Hornets-Logo/1989/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/256/thumbs/3097.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/256/full/3097.png",
+      "sha256": "32e9a4abf2d48fce2c88fb3ab3e2de9b24dd65ca925e51fec160165da669fa64",
+      "bytes": 120941,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 460,
+      "height": 595
+    },
+    {
+      "file": "CHA-NBA-2005-2007.png",
+      "start": 2005,
+      "end": 2007,
+      "title": "Charlotte Bobcats Primary Logo (2005 - 2007)",
+      "source_team_id": 258,
+      "source_team_name": "Charlotte Bobcats",
+      "view_url": "https://www.sportslogos.net/logos/view/8qy7zreof44lznm0kfwvjmvge/Charlotte-Bobcats-Logo/2005/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/258/thumbs/8qy7zreof44lznm0kfwvjmvge.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/258/full/8qy7zreof44lznm0kfwvjmvge.gif",
+      "sha256": "a5033b84b823e7a5a760cafaa43a168e5d4e4d77946d47dd029dec073eb09726",
+      "bytes": 60647,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 740,
+      "height": 540
+    },
+    {
+      "file": "CHA-NBA-2008-2012.png",
+      "start": 2008,
+      "end": 2012,
+      "title": "Charlotte Bobcats Primary Logo (2008 - 2012)",
+      "source_team_id": 258,
+      "source_team_name": "Charlotte Bobcats",
+      "view_url": "https://www.sportslogos.net/logos/view/tytgxvgwe3r0hwqaehb3lxef7/Charlotte-Bobcats-Logo/2008/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/258/thumbs/tytgxvgwe3r0hwqaehb3lxef7.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/258/full/tytgxvgwe3r0hwqaehb3lxef7.gif",
+      "sha256": "ba3fafcdd9698e6084794a6dfc24086ff6c35bbd166813bc1e86d81151dac3a3",
+      "bytes": 56520,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 740,
+      "height": 541
+    },
+    {
+      "file": "CHA-NBA-2013-2014.png",
+      "start": 2013,
+      "end": 2014,
+      "title": "Charlotte Bobcats Primary Logo (2013 - 2014)",
+      "source_team_id": 258,
+      "source_team_name": "Charlotte Bobcats",
+      "view_url": "https://www.sportslogos.net/logos/view/tmjfk4voqo1v34rm65982p2hu/Charlotte-Bobcats-Logo/2013/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/258/thumbs/tmjfk4voqo1v34rm65982p2hu.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/258/full/456_charlotte-bobcats-primary-2013.gif",
+      "sha256": "a058b82c33ad3420281e76458c90148041a780f01b9d46840b11b61654d6cffd",
+      "bytes": 10601,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4966,
+      "width": 740,
+      "height": 541
+    },
+    {
+      "file": "CHA-NBA-2015-pres.png",
+      "start": 2015,
+      "end": null,
+      "title": "Charlotte Hornets Primary Logo (2015 - Pres)",
+      "source_team_id": 5120,
+      "source_team_name": "Charlotte Hornets (2014-)",
+      "view_url": "https://www.sportslogos.net/logos/view/512019262015/Charlotte-Hornets-Logo/2015/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/5120/thumbs/512019262015.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/5120/full/1926_charlotte__hornets_-primary-2015.png",
+      "sha256": "acc075436a61dc28b478ce51cfb49fe39d10cf9e09c55f587648e4780b4a2bce",
+      "bytes": 9120,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7004,
+      "width": 875,
+      "height": 840
+    }
+  ]
+}

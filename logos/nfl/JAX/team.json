@@ -1,0 +1,66 @@
+{
+  "abbr": "JAX",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 159,
+      "name": "Jacksonville Jaguars"
+    }
+  ],
+  "logos": [
+    {
+      "file": "JAX-NFL-1995-2001.png",
+      "start": 1995,
+      "end": 2001,
+      "title": "Jacksonville Jaguars Primary Logo (1995 - 2001)",
+      "source_team_id": 159,
+      "source_team_name": "Jacksonville Jaguars",
+      "view_url": "https://www.sportslogos.net/logos/view/eakbhfhxnv31fffgnct3ltlrd/Jacksonville-Jaguars-Logo/1995/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/159/thumbs/eakbhfhxnv31fffgnct3ltlrd.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/159/full/eakbhfhxnv31fffgnct3ltlrd.gif",
+      "sha256": "b3863f6bdc503609ad35d85d0ec2ac1676a324f2f1a5ca7cd7a5e02e5594f8cb",
+      "bytes": 30167,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3558,
+      "width": 513,
+      "height": 410
+    },
+    {
+      "file": "JAX-NFL-2002-2012.png",
+      "start": 2002,
+      "end": 2012,
+      "title": "Jacksonville Jaguars Primary Logo (2002 - 2012)",
+      "source_team_id": 159,
+      "source_team_name": "Jacksonville Jaguars",
+      "view_url": "https://www.sportslogos.net/logos/view/15913822002/Jacksonville-Jaguars-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/159/thumbs/15913822002.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/159/full/1382_jacksonville_jaguars-primary-2002.png",
+      "sha256": "d0bc0cd3621a89846673773f3d306c4bba31bc86154a30d729c284e34559f04b",
+      "bytes": 8694,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4699,
+      "width": 905,
+      "height": 726
+    },
+    {
+      "file": "JAX-NFL-2013-pres.png",
+      "start": 2013,
+      "end": null,
+      "title": "Jacksonville Jaguars Primary Logo (2013 - Pres)",
+      "source_team_id": 159,
+      "source_team_name": "Jacksonville Jaguars",
+      "view_url": "https://www.sportslogos.net/logos/view/15988562013/Jacksonville-Jaguars-Logo/2013/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/159/thumbs/15988562013.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/159/full/jacksonville_jaguars_logo_primary_20132171.png",
+      "sha256": "5bf1d716bbb9add50f6bb56c110a378ee4c18f4ffeedd7b4f6c4f1f437b16995",
+      "bytes": 11607,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4515,
+      "width": 905,
+      "height": 680
+    }
+  ]
+}

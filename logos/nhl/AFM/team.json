@@ -1,0 +1,30 @@
+{
+  "abbr": "AFM",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 31,
+      "name": "Atlanta Flames"
+    }
+  ],
+  "logos": [
+    {
+      "file": "AFM-NHL-1973-1980.png",
+      "start": 1973,
+      "end": 1980,
+      "title": "Atlanta Flames Primary Logo (1973 - 1980)",
+      "source_team_id": 31,
+      "source_team_name": "Atlanta Flames",
+      "view_url": "https://www.sportslogos.net/logos/view/e4kr3gf55zwgfkkyahnt0kif0/Atlanta-Flames-Logo/1973/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/31/thumbs/atlanta-flames-logo-primary-1973-6835-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/31/full/atlanta-flames-logo-primary-1973-6835.png",
+      "sha256": "dcb2b8e763bc9a5f252cfa7c7eec3b82d998cda696bb5da4ae7cefdb044f25c1",
+      "bytes": 3223,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 700
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "abbr": "TAN",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 996,
+      "name": "Toronto Hockey Club"
+    },
+    {
+      "id": 6551,
+      "name": "Toronto Arenas"
+    }
+  ],
+  "logos": [
+    {
+      "file": "TAN-NHL-1918-1918.png",
+      "start": 1918,
+      "end": 1918,
+      "title": "Toronto Hockey Club Primary Logo (1918 - 1918)",
+      "source_team_id": 996,
+      "source_team_name": "Toronto Hockey Club",
+      "view_url": "https://www.sportslogos.net/logos/view/lgtkven0lgs74prrf26p6rmes/Toronto-Hockey-Club-Logo/1918/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/996/thumbs/lgtkven0lgs74prrf26p6rmes.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/996/full/lgtkven0lgs74prrf26p6rmes.png",
+      "sha256": "f3f5bb81955809b3f6adf8b05bc14c1287c9a985d664b080ae643996b4fc11ee",
+      "bytes": 9773,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5929,
+      "width": 830,
+      "height": 905
+    },
+    {
+      "file": "TAN-NHL-1919-1919.png",
+      "start": 1919,
+      "end": 1919,
+      "title": "Toronto Arenas Primary Logo (1919 - 1919)",
+      "source_team_id": 996,
+      "source_team_name": "Toronto Hockey Club",
+      "view_url": "https://www.sportslogos.net/logos/view/655116831919/Toronto-Arenas-Logo/1919/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/6551/thumbs/655116831919.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/6551/full/1683_toronto_arenas-primary-1919.png",
+      "sha256": "7cc1898532ed8959af1ab7420e953f755cbfd734affbd13053e6ae0d85c96acc",
+      "bytes": 5296,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6733,
+      "width": 790,
+      "height": 485
+    }
+  ]
+}

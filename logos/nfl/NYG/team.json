@@ -1,0 +1,84 @@
+{
+  "abbr": "NYG",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 166,
+      "name": "New York Giants"
+    }
+  ],
+  "logos": [
+    {
+      "file": "NYG-NFL-1961-1974.png",
+      "start": 1961,
+      "end": 1974,
+      "title": "New York Giants Primary Logo (1961 - 1974)",
+      "source_team_id": 166,
+      "source_team_name": "New York Giants",
+      "view_url": "https://www.sportslogos.net/logos/view/ea3128090ktaafqne5s0/New-York-Giants-Logo/1961/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/166/thumbs/ea3128090ktaafqne5s0.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/166/full/ea3128090ktaafqne5s0.gif",
+      "sha256": "c61f9b4fea3f6d1dec5271f13224b6b44013534498b5d6f02a417f09537d64c7",
+      "bytes": 4138,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 545,
+      "height": 424
+    },
+    {
+      "file": "NYG-NFL-1975-1975.png",
+      "start": 1975,
+      "end": 1975,
+      "title": "New York Giants Primary Logo (1975 - 1975)",
+      "source_team_id": 166,
+      "source_team_name": "New York Giants",
+      "view_url": "https://www.sportslogos.net/logos/view/918/New-York-Giants-Logo/1975/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/166/thumbs/918.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/166/full/918.gif",
+      "sha256": "94e6020a377bd148853a232666cca3cc48c13d5c7620bfc992ed59e943eb41fc",
+      "bytes": 1998,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3867,
+      "width": 464,
+      "height": 325
+    },
+    {
+      "file": "NYG-NFL-1976-1999.png",
+      "start": 1976,
+      "end": 1999,
+      "title": "New York Giants Primary Logo (1976 - 1999)",
+      "source_team_id": 166,
+      "source_team_name": "New York Giants",
+      "view_url": "https://www.sportslogos.net/logos/view/nafrv1dliq98g46e9ksl/New-York-Giants-Logo/1976/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/166/thumbs/nafrv1dliq98g46e9ksl.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/166/full/nafrv1dliq98g46e9ksl.gif",
+      "sha256": "8015d727291694ed43ed6caa9c1b48cca6f3a26d98d537eb984495f01718c591",
+      "bytes": 21277,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 786,
+      "height": 300
+    },
+    {
+      "file": "NYG-NFL-2000-pres.png",
+      "start": 2000,
+      "end": null,
+      "title": "New York Giants Primary Logo (2000 - Pres)",
+      "source_team_id": 166,
+      "source_team_name": "New York Giants",
+      "view_url": "https://www.sportslogos.net/logos/view/919/New-York-Giants-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/166/thumbs/919.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/166/full/919.gif",
+      "sha256": "c2f020f03549a59ae1561a0bb9b1d9434d965c90c708d887f26f04696bf5d5dc",
+      "bytes": 7397,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0034,
+      "width": 545,
+      "height": 421
+    }
+  ]
+}

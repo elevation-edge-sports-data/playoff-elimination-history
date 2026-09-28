@@ -1,0 +1,30 @@
+{
+  "abbr": "MWN",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 41,
+      "name": "Montreal Wanderers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MWN-NHL-1918-1918.png",
+      "start": 1918,
+      "end": 1918,
+      "title": "Montr\u00e9al Wanderers Primary Logo (1918 - 1918)",
+      "source_team_id": 41,
+      "source_team_name": "Montreal Wanderers",
+      "view_url": "https://www.sportslogos.net/logos/view/2czmhnx4hthnb22089ck9kd9d/Montr\u00e9al-Wanderers-Logo/1918/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/41/thumbs/2czmhnx4hthnb22089ck9kd9d.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/41/full/2czmhnx4hthnb22089ck9kd9d.png",
+      "sha256": "ee89acec8156fce6214fb1431ded9417805c70d20a0b4ddd84a6a8df11ef7b9d",
+      "bytes": 98445,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2289,
+      "width": 905,
+      "height": 900
+    }
+  ]
+}

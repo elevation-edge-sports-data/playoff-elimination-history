@@ -1,0 +1,66 @@
+{
+  "abbr": "MMR",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 40,
+      "name": "Montreal Maroons"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MMR-NHL-1925-1925.png",
+      "start": 1925,
+      "end": 1925,
+      "title": "Montr\u00e9al Maroons Primary Logo (1925 - 1925)",
+      "source_team_id": 40,
+      "source_team_name": "Montreal Maroons",
+      "view_url": "https://www.sportslogos.net/logos/view/4070721925/Montr\u00e9al-Maroons-Logo/1925/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/40/thumbs/4070721925.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/40/full/7072_montreal_maroons-primary-1925.png",
+      "sha256": "0141abaa2451275bb874b1f07bacf7b9cd05139869481f987ea6161e94d36673",
+      "bytes": 3083,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7774,
+      "width": 1468,
+      "height": 300
+    },
+    {
+      "file": "MMR-NHL-1926-1935.png",
+      "start": 1926,
+      "end": 1935,
+      "title": "Montr\u00e9al Maroons Primary Logo (1926 - 1935)",
+      "source_team_id": 40,
+      "source_team_name": "Montreal Maroons",
+      "view_url": "https://www.sportslogos.net/logos/view/4039161926/Montr\u00e9al-Maroons-Logo/1926/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/40/thumbs/4039161926.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/40/full/3916_montreal_maroons-primary-1926.png",
+      "sha256": "12ec5ad6dec8a03462ca991458b0896412678d3d07fec365c3863a37f75584d6",
+      "bytes": 6637,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4072,
+      "width": 580,
+      "height": 470
+    },
+    {
+      "file": "MMR-NHL-1936-1938.png",
+      "start": 1936,
+      "end": 1938,
+      "title": "Montr\u00e9al Maroons Primary Logo (1936 - 1938)",
+      "source_team_id": 40,
+      "source_team_name": "Montreal Maroons",
+      "view_url": "https://www.sportslogos.net/logos/view/255/Montr\u00e9al-Maroons-Logo/1936/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/40/thumbs/255.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/40/full/255.png",
+      "sha256": "4aed5ef46703b01d3422d9942a5debfc60580d3a027b3757de534e1d42f771cb",
+      "bytes": 14976,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3308,
+      "width": 475,
+      "height": 525
+    }
+  ]
+}

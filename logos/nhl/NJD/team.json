@@ -1,0 +1,84 @@
+{
+  "abbr": "NJD",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 18,
+      "name": "New Jersey Devils"
+    }
+  ],
+  "logos": [
+    {
+      "file": "NJD-NHL-1983-1986.png",
+      "start": 1983,
+      "end": 1986,
+      "title": "New Jersey Devils Primary Logo (1983 - 1986)",
+      "source_team_id": 18,
+      "source_team_name": "New Jersey Devils",
+      "view_url": "https://www.sportslogos.net/logos/view/4739/New-Jersey-Devils-Logo/1983/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/18/thumbs/4739.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/18/full/4739.png",
+      "sha256": "9292bb733e6d4369425db5e6dce797594169a3093d671da51fe4f2afa8d3c5f9",
+      "bytes": 147990,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3615,
+      "width": 733,
+      "height": 750
+    },
+    {
+      "file": "NJD-NHL-1987-1992.png",
+      "start": 1987,
+      "end": 1992,
+      "title": "New Jersey Devils Primary Logo (1987 - 1992)",
+      "source_team_id": 18,
+      "source_team_name": "New Jersey Devils",
+      "view_url": "https://www.sportslogos.net/logos/view/1834131987/New-Jersey-Devils-Logo/1987/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/18/thumbs/1834131987.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/18/full/3413_new_jersey_devils-primary-1987.png",
+      "sha256": "59e59e44ef5c93eeb5a9ea93068288bda45dda105732627dd9c61c73f19ef518",
+      "bytes": 7561,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5796,
+      "width": 733,
+      "height": 750
+    },
+    {
+      "file": "NJD-NHL-1993-1999.png",
+      "start": 1993,
+      "end": 1999,
+      "title": "New Jersey Devils Primary Logo (1993 - 1999)",
+      "source_team_id": 18,
+      "source_team_name": "New Jersey Devils",
+      "view_url": "https://www.sportslogos.net/logos/view/127/New-Jersey-Devils-Logo/1993/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/18/thumbs/127.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/18/full/127.png",
+      "sha256": "82d8fe4e698422e270496257eb09e06f2b74c5b6bef85515b39e97784c5b42d5",
+      "bytes": 145392,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3774,
+      "width": 733,
+      "height": 750
+    },
+    {
+      "file": "NJD-NHL-2000-pres.png",
+      "start": 2000,
+      "end": null,
+      "title": "New Jersey Devils Primary Logo (2000 - Pres)",
+      "source_team_id": 18,
+      "source_team_name": "New Jersey Devils",
+      "view_url": "https://www.sportslogos.net/logos/view/32tfs723a3bes0p0hb4hgcy1u/New-Jersey-Devils-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/18/thumbs/32tfs723a3bes0p0hb4hgcy1u.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/18/full/32tfs723a3bes0p0hb4hgcy1u.png",
+      "sha256": "54e59811995d54bee43ec5220f634b3b7550286d6f350e38aa7992db7117cbc8",
+      "bytes": 143074,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3774,
+      "width": 733,
+      "height": 750
+    }
+  ]
+}

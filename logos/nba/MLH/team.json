@@ -1,0 +1,48 @@
+{
+  "abbr": "MLH",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 242,
+      "name": "Milwaukee Hawks"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MLH-NBA-1952-1954.png",
+      "start": 1952,
+      "end": 1954,
+      "title": "Milwaukee Hawks Primary Logo (1952 - 1954)",
+      "source_team_id": 242,
+      "source_team_name": "Milwaukee Hawks",
+      "view_url": "https://www.sportslogos.net/logos/view/24215541952/Milwaukee-Hawks-Logo/1952/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/242/thumbs/24215541952.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/242/full/1554_milwaukee_hawks-primary-1952.png",
+      "sha256": "1cef90a7f7ec7478d60f86bc7e6633d4bb33e84960b5daf39748a36a260ec670",
+      "bytes": 7632,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.8046,
+      "width": 300,
+      "height": 495
+    },
+    {
+      "file": "MLH-NBA-1955-1955.png",
+      "start": 1955,
+      "end": 1955,
+      "title": "Milwaukee Hawks Primary Logo (1955 - 1955)",
+      "source_team_id": 242,
+      "source_team_name": "Milwaukee Hawks",
+      "view_url": "https://www.sportslogos.net/logos/view/5659/Milwaukee-Hawks-Logo/1955/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/242/thumbs/5659.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/242/full/5659.gif",
+      "sha256": "f06b1f94999ab464521e52cb89a5541c735fd6a7fe683ab778f95f47f921d4a4",
+      "bytes": 26690,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 300,
+      "height": 507
+    }
+  ]
+}

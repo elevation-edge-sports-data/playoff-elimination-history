@@ -1,0 +1,66 @@
+{
+  "abbr": "CGY",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 5,
+      "name": "Calgary Flames"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CGY-NHL-1981-1994.png",
+      "start": 1981,
+      "end": 1994,
+      "title": "Calgary Flames Primary Logo (1981 - 1994)",
+      "source_team_id": 5,
+      "source_team_name": "Calgary Flames",
+      "view_url": "https://www.sportslogos.net/logos/view/231/Calgary-Flames-Logo/1981/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/5/thumbs/231.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/5/full/231.png",
+      "sha256": "c9c386620c9fd3961776588b2e9ed46c40eef037789f79a4dc404934f0b12e6f",
+      "bytes": 55792,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3826,
+      "width": 570,
+      "height": 485
+    },
+    {
+      "file": "CGY-NHL-1995-2020.png",
+      "start": 1995,
+      "end": 2020,
+      "title": "Calgary Flames Primary Logo (1995 - 2020)",
+      "source_team_id": 5,
+      "source_team_name": "Calgary Flames",
+      "view_url": "https://www.sportslogos.net/logos/view/50/Calgary-Flames-Logo/1995/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/5/thumbs/50.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/5/full/50.png",
+      "sha256": "cc35f7ad10b31b528c3fa64220a43e74a76dc6054baa18635b449778feeb6ee5",
+      "bytes": 73041,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3562,
+      "width": 584,
+      "height": 500
+    },
+    {
+      "file": "CGY-NHL-2021-pres.png",
+      "start": 2021,
+      "end": null,
+      "title": "Calgary Flames Primary Logo (2021 - Pres)",
+      "source_team_id": 5,
+      "source_team_name": "Calgary Flames",
+      "view_url": "https://www.sportslogos.net/logos/view/548202021/Calgary-Flames-Logo/2021/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/5/thumbs/548202021.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/5/full/calgary_flames_logo_primary_20212695.png",
+      "sha256": "b584e8c5837a0e72aef372bf9ec197d6d703acbbf224960ee36627fafe6c77e7",
+      "bytes": 8371,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5283,
+      "width": 905,
+      "height": 790
+    }
+  ]
+}

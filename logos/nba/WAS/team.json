@@ -1,0 +1,84 @@
+{
+  "abbr": "WAS",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 219,
+      "name": "Washington Wizards"
+    }
+  ],
+  "logos": [
+    {
+      "file": "WAS-NBA-1998-2007.png",
+      "start": 1998,
+      "end": 2007,
+      "title": "Washington Wizards Primary Logo (1998 - 2007)",
+      "source_team_id": 219,
+      "source_team_name": "Washington Wizards",
+      "view_url": "https://www.sportslogos.net/logos/view/852/Washington-Wizards-Logo/1998/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/219/thumbs/washington-wizards-logo-primary-1998-7405-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/219/full/washington-wizards-logo-primary-1998-7405.png",
+      "sha256": "d6fd8f584cfa2cb69cf002facb4c1b202f7d7db5824515e7872a3a18a40fa60e",
+      "bytes": 87774,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0731,
+      "width": 750,
+      "height": 547
+    },
+    {
+      "file": "WAS-NBA-2008-2011.png",
+      "start": 2008,
+      "end": 2011,
+      "title": "Washington Wizards Primary Logo (2008 - 2011)",
+      "source_team_id": 219,
+      "source_team_name": "Washington Wizards",
+      "view_url": "https://www.sportslogos.net/logos/view/6knfe8lffkm40auemws7iev9m/Washington-Wizards-Logo/2008/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/219/thumbs/washington-wizards-logo-primary-2008-7112-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/219/full/washington-wizards-logo-primary-2008-7112.png",
+      "sha256": "0eae0506b6f48c08afdb151476fd40c5915174e0c83b2ced3d4a89819392240e",
+      "bytes": 86627,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 547
+    },
+    {
+      "file": "WAS-NBA-2012-2015.png",
+      "start": 2012,
+      "end": 2015,
+      "title": "Washington Wizards Primary Logo (2012 - 2015)",
+      "source_team_id": 219,
+      "source_team_name": "Washington Wizards",
+      "view_url": "https://www.sportslogos.net/logos/view/b3619brnphtx65s2th4p9eggf/Washington-Wizards-Logo/2012/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/219/thumbs/washington-wizards-logo-primary-2012-7003-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/219/full/washington-wizards-logo-primary-2012-7003.png",
+      "sha256": "a724f341f9aef03859ea3d8d6dbb784cc76c07b6d88ffea861ee9c63ddeb3ce5",
+      "bytes": 101768,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1081,
+      "width": 750,
+      "height": 663
+    },
+    {
+      "file": "WAS-NBA-2016-pres.png",
+      "start": 2016,
+      "end": null,
+      "title": "Washington Wizards Primary Logo (2016 - Pres)",
+      "source_team_id": 219,
+      "source_team_name": "Washington Wizards",
+      "view_url": "https://www.sportslogos.net/logos/view/21956712016/Washington-Wizards-Logo/2016/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/219/thumbs/washington-wizards-logo-primary-2016-8780-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/219/full/washington-wizards-logo-primary-2016-8780.png",
+      "sha256": "d59c2d917fb91b59729d7665c80a1f4cd0dd2cd26ebd718bd95e249540445632",
+      "bytes": 162155,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 750
+    }
+  ]
+}

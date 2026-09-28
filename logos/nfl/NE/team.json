@@ -1,0 +1,106 @@
+{
+  "abbr": "NE",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 3063,
+      "name": "Boston Patriots (AFL)"
+    },
+    {
+      "id": 151,
+      "name": "New England Patriots"
+    }
+  ],
+  "logos": [
+    {
+      "file": "NE-NFL-1960-1971.png",
+      "start": 1960,
+      "end": 1971,
+      "title": "Boston Patriots Primary Logo (1960 - 1971)",
+      "source_team_id": 3063,
+      "source_team_name": "Boston Patriots (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/306394091960/Boston-Patriots-Logo/1960/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/99/3063/thumbs/306394091960.gif",
+      "download_url": "https://content.sportslogos.net/logos/99/3063/full/9409_boston_patriots-primary-1960.png",
+      "sha256": "15c7a42ac359751f39b8b339657a3c2f7568fa8ec0e18288aeb9b1e3a3ad2378",
+      "bytes": 13101,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7181,
+      "width": 832,
+      "height": 880
+    },
+    {
+      "file": "NE-NFL-1972-1988.png",
+      "start": 1972,
+      "end": 1988,
+      "title": "New England Patriots Primary Logo (1972 - 1988)",
+      "source_team_id": 3063,
+      "source_team_name": "Boston Patriots (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/jeic0a9nlfygshzxtkrfx1ipp/New-England-Patriots-Logo/1972/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/151/thumbs/jeic0a9nlfygshzxtkrfx1ipp.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/151/full/jeic0a9nlfygshzxtkrfx1ipp.png",
+      "sha256": "1b254b2ec590a7cc691f7423a9adbb0d9bba8ddba71fd064bdb2f816e2a95cb6",
+      "bytes": 193429,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.571,
+      "width": 840,
+      "height": 905
+    },
+    {
+      "file": "NE-NFL-1989-1992.png",
+      "start": 1989,
+      "end": 1992,
+      "title": "Boston Patriots Primary Logo (1989 - 1992)",
+      "source_team_id": 3063,
+      "source_team_name": "Boston Patriots (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/306324451989/Boston-Patriots-Logo/1989/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/99/3063/thumbs/306324451989.gif",
+      "download_url": "https://content.sportslogos.net/logos/99/3063/full/2445_boston_patriots-primary-1989.png",
+      "sha256": "cee577f80223a754838192e899c8e5d858f90a2cca29fcf0d0c7ca6f2bb53410",
+      "bytes": 7779,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7257,
+      "width": 840,
+      "height": 905
+    },
+    {
+      "file": "NE-NFL-1993-1999.png",
+      "start": 1993,
+      "end": 1999,
+      "title": "New England Patriots Primary Logo (1993 - 1999)",
+      "source_team_id": 3063,
+      "source_team_name": "Boston Patriots (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/tfj1deqds0ryxeaz9hjq2gkeg/New-England-Patriots-Logo/1993/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/151/thumbs/new-england-patriots-logo-primary-1993-5103-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/7/151/full/new-england-patriots-logo-primary-1993-5103.png",
+      "sha256": "38e1a49e26ae992384c583596229445edd58479e3dc9c854052231245a1f4510",
+      "bytes": 8330,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1008,
+      "width": 905,
+      "height": 440
+    },
+    {
+      "file": "NE-NFL-2000-pres.png",
+      "start": 2000,
+      "end": null,
+      "title": "New England Patriots Primary Logo (2000 - Pres)",
+      "source_team_id": 3063,
+      "source_team_name": "Boston Patriots (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/y71myf8mlwlk8lbgagh3fd5e0/New-England-Patriots-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/151/thumbs/y71myf8mlwlk8lbgagh3fd5e0.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/151/full/y71myf8mlwlk8lbgagh3fd5e0.png",
+      "sha256": "4e585b1eceb59e17f38aef7f960328e476777b92cf5c97083fe2827d38b6cd46",
+      "bytes": 46784,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6543,
+      "width": 905,
+      "height": 415
+    }
+  ]
+}

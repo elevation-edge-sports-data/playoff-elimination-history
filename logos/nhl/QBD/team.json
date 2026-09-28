@@ -1,0 +1,30 @@
+{
+  "abbr": "QBD",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 42,
+      "name": "Quebec Athletics / Bulldogs"
+    }
+  ],
+  "logos": [
+    {
+      "file": "QBD-NHL-1920-1920.png",
+      "start": 1920,
+      "end": 1920,
+      "title": "Qu\u00e9bec Athletics Primary Logo (1920 - 1920)",
+      "source_team_id": 42,
+      "source_team_name": "Quebec Athletics / Bulldogs",
+      "view_url": "https://www.sportslogos.net/logos/view/4249701920/Qu\u00e9bec-Athletics-Logo/1920/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/42/thumbs/4249701920.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/42/full/4970_quebec_bulldogs-primary-1920.png",
+      "sha256": "2aa752b5945268e86f27d8b7e6d0d3ff12d0ec61c091f5444164775059d15e85",
+      "bytes": 3013,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5533,
+      "width": 620,
+      "height": 690
+    }
+  ]
+}

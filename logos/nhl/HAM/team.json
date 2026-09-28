@@ -1,0 +1,66 @@
+{
+  "abbr": "HAM",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 43,
+      "name": "Hamilton Tigers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "HAM-NHL-1921-1921.png",
+      "start": 1921,
+      "end": 1921,
+      "title": "Hamilton Tigers Primary Logo (1921 - 1921)",
+      "source_team_id": 43,
+      "source_team_name": "Hamilton Tigers",
+      "view_url": "https://www.sportslogos.net/logos/view/xuwdkh8ypy4qe3h3nr6uqnhf0/Hamilton-Tigers-Logo/1921/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/43/thumbs/xuwdkh8ypy4qe3h3nr6uqnhf0.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/43/full/xuwdkh8ypy4qe3h3nr6uqnhf0.png",
+      "sha256": "ec05971c535d9118f80f3c93869454c3ebb77b8e56d20e21629cb9dd709ab1e2",
+      "bytes": 266095,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2965,
+      "width": 905,
+      "height": 775
+    },
+    {
+      "file": "HAM-NHL-1922-1923.png",
+      "start": 1922,
+      "end": 1923,
+      "title": "Hamilton Tigers Primary Logo (1922 - 1923)",
+      "source_team_id": 43,
+      "source_team_name": "Hamilton Tigers",
+      "view_url": "https://www.sportslogos.net/logos/view/z6k2ifu5yjhbrffneoslajvfv/Hamilton-Tigers-Logo/1922/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/43/thumbs/z6k2ifu5yjhbrffneoslajvfv.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/43/full/z6k2ifu5yjhbrffneoslajvfv.gif",
+      "sha256": "40710ec38a42fef807118b469f2cef3512e96eb60a8b50fced0186d0c1b036a4",
+      "bytes": 39391,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 751,
+      "height": 355
+    },
+    {
+      "file": "HAM-NHL-1924-1925.png",
+      "start": 1924,
+      "end": 1925,
+      "title": "Hamilton Tigers Primary Logo (1924 - 1925)",
+      "source_team_id": 43,
+      "source_team_name": "Hamilton Tigers",
+      "view_url": "https://www.sportslogos.net/logos/view/9tltb0pek6mw9h5qbyeqxi7nx/Hamilton-Tigers-Logo/1924/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/43/thumbs/9tltb0pek6mw9h5qbyeqxi7nx.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/43/full/9tltb0pek6mw9h5qbyeqxi7nx.png",
+      "sha256": "a22cc13735382b2c8372e221f8e8765fc08c208fcd6495e97f13ead3d9787e0d",
+      "bytes": 32395,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3424,
+      "width": 905,
+      "height": 845
+    }
+  ]
+}

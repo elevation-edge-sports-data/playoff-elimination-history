@@ -1,0 +1,84 @@
+{
+  "abbr": "DAL",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 165,
+      "name": "Dallas Cowboys"
+    }
+  ],
+  "logos": [
+    {
+      "file": "DAL-NFL-1960-1966.png",
+      "start": 1960,
+      "end": 1966,
+      "title": "Dallas Cowboys Primary Logo (1960 - 1966)",
+      "source_team_id": 165,
+      "source_team_name": "Dallas Cowboys",
+      "view_url": "https://www.sportslogos.net/logos/view/4612/Dallas-Cowboys-Logo/1960/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/165/thumbs/4612.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/165/full/4612.gif",
+      "sha256": "99697c4c7024c6e4308490c244fee46074d6f403cbaf2eb7b99c566fab6e4a44",
+      "bytes": 5223,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6557,
+      "width": 545,
+      "height": 504
+    },
+    {
+      "file": "DAL-NFL-1967-1996.png",
+      "start": 1967,
+      "end": 1996,
+      "title": "Dallas Cowboys Primary Logo (1967 - 1996)",
+      "source_team_id": 165,
+      "source_team_name": "Dallas Cowboys",
+      "view_url": "https://www.sportslogos.net/logos/view/16556161964/Dallas-Cowboys-Logo/1967/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/165/thumbs/16556161964.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/165/full/dallas_cowboys_logo_primary_1964_sportslogosnet-5616.png",
+      "sha256": "d2e36b8c12fbffceaa167dfc549757247309fe0f5adfa802aabfeb8936a0a180",
+      "bytes": 4010,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7645,
+      "width": 905,
+      "height": 860
+    },
+    {
+      "file": "DAL-NFL-1997-2001.png",
+      "start": 1997,
+      "end": 2001,
+      "title": "Dallas Cowboys Primary Logo (1997 - 2001)",
+      "source_team_id": 165,
+      "source_team_name": "Dallas Cowboys",
+      "view_url": "https://www.sportslogos.net/logos/view/16541901997/Dallas-Cowboys-Logo/1997/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/165/thumbs/16541901997.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/165/full/dallas_cowboys_logo_primary_1997_sportslogosnet-4190.png",
+      "sha256": "a98e05e14ba5643ae6683ee26dba75214e54bdf325a14d8399f0f757e48f05f1",
+      "bytes": 3741,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7646,
+      "width": 905,
+      "height": 860
+    },
+    {
+      "file": "DAL-NFL-2002-pres.png",
+      "start": 2002,
+      "end": null,
+      "title": "Dallas Cowboys Primary Logo (2002 - Pres)",
+      "source_team_id": 165,
+      "source_team_name": "Dallas Cowboys",
+      "view_url": "https://www.sportslogos.net/logos/view/406/Dallas-Cowboys-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/165/thumbs/406.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/165/full/406.png",
+      "sha256": "ff29709e4fb7cb6493181fcb62bf923f829d568dce39592f623781566cf6cec1",
+      "bytes": 21214,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6754,
+      "width": 905,
+      "height": 860
+    }
+  ]
+}

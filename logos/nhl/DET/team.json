@@ -1,0 +1,48 @@
+{
+  "abbr": "DET",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 11,
+      "name": "Detroit Red Wings"
+    }
+  ],
+  "logos": [
+    {
+      "file": "DET-NHL-1933-1948.png",
+      "start": 1933,
+      "end": 1948,
+      "title": "Detroit Red Wings Primary Logo (1933 - 1948)",
+      "source_team_id": 11,
+      "source_team_name": "Detroit Red Wings",
+      "view_url": "https://www.sportslogos.net/logos/view/6627/Detroit-Red-Wings-Logo/1933/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/11/thumbs/6627.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/11/full/6627.png",
+      "sha256": "9d9e0a3263ff722dafc45ab92253e1e3f63556d62d0954fa6740e3ae118545e2",
+      "bytes": 112180,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.375,
+      "width": 655,
+      "height": 480
+    },
+    {
+      "file": "DET-NHL-1949-pres.png",
+      "start": 1949,
+      "end": null,
+      "title": "Detroit Red Wings Primary Logo (1949 - Pres)",
+      "source_team_id": 11,
+      "source_team_name": "Detroit Red Wings",
+      "view_url": "https://www.sportslogos.net/logos/view/yo3wysbjtagzmwj37tb11u0fh/Detroit-Red-Wings-Logo/1949/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/11/thumbs/yo3wysbjtagzmwj37tb11u0fh.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/11/full/yo3wysbjtagzmwj37tb11u0fh.png",
+      "sha256": "8a3cc137130920b3e81820508a25f95e6073b9bb401d999130a2702ae9b351c4",
+      "bytes": 121195,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4617,
+      "width": 1110,
+      "height": 825
+    }
+  ]
+}

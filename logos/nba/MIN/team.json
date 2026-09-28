@@ -1,0 +1,84 @@
+{
+  "abbr": "MIN",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 232,
+      "name": "Minnesota Timberwolves"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MIN-NBA-1990-1996.png",
+      "start": 1990,
+      "end": 1996,
+      "title": "Minnesota Timberwolves Primary Logo (1990 - 1996)",
+      "source_team_id": 232,
+      "source_team_name": "Minnesota Timberwolves",
+      "view_url": "https://www.sportslogos.net/logos/view/pqln6egfczzzkgvyshwoi2ozu/Minnesota-Timberwolves-Logo/1990/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/232/thumbs/minnesota-timberwolves-logo-primary-1990-1177-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/232/full/minnesota-timberwolves-logo-primary-1990-1177.png",
+      "sha256": "3ee96394b51ae2c50b4e9964fdd30fb17e5b0c5a69a1d6e0869c740f7b126e70",
+      "bytes": 240636,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 584,
+      "height": 750
+    },
+    {
+      "file": "MIN-NBA-1997-2008.png",
+      "start": 1997,
+      "end": 2008,
+      "title": "Minnesota Timberwolves Primary Logo (1997 - 2008)",
+      "source_team_id": 232,
+      "source_team_name": "Minnesota Timberwolves",
+      "view_url": "https://www.sportslogos.net/logos/view/t5mgc3aeqfofhslwi8yzua6ro/Minnesota-Timberwolves-Logo/1997/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/232/thumbs/minnesota-timberwolves-logo-primary-1997-7919-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/232/full/minnesota-timberwolves-logo-primary-1997-7919.png",
+      "sha256": "8117dd3b665871587418baeda842c0d84321391e4ab7067978e78ace39c005d5",
+      "bytes": 287188,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 559
+    },
+    {
+      "file": "MIN-NBA-2009-2017.png",
+      "start": 2009,
+      "end": 2017,
+      "title": "Minnesota Timberwolves Primary Logo (2009 - 2017)",
+      "source_team_id": 232,
+      "source_team_name": "Minnesota Timberwolves",
+      "view_url": "https://www.sportslogos.net/logos/view/zq8qkfni1g087f4245egc32po/Minnesota-Timberwolves-Logo/2009/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/232/thumbs/minnesota-timberwolves-logo-primary-2009-8349-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/232/full/minnesota-timberwolves-logo-primary-2009-8349.png",
+      "sha256": "92b7653c1ad1d8f0f3c6a9b06617499fdf51f59837c34fff600c4c0cb062d187",
+      "bytes": 249538,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 551
+    },
+    {
+      "file": "MIN-NBA-2018-2026.png",
+      "start": 2018,
+      "end": 2026,
+      "title": "Minnesota Timberwolves Primary Logo (2018 - 2026)",
+      "source_team_id": 232,
+      "source_team_name": "Minnesota Timberwolves",
+      "view_url": "https://www.sportslogos.net/logos/view/23296692018/Minnesota-Timberwolves-Logo/2018/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/232/thumbs/minnesota-timberwolves-logo-primary-2018-7496-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/232/full/minnesota-timberwolves-logo-primary-2018-7496.png",
+      "sha256": "323239e4ec1557c05bfb4a443f33982ad2a5d36eafd4c8b3928f303770f596e2",
+      "bytes": 201687,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 750
+    }
+  ]
+}

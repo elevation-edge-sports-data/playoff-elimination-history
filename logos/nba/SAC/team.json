@@ -1,0 +1,66 @@
+{
+  "abbr": "SAC",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 240,
+      "name": "Sacramento Kings"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SAC-NBA-1986-1994.png",
+      "start": 1986,
+      "end": 1994,
+      "title": "Sacramento Kings Primary Logo (1986 - 1994)",
+      "source_team_id": 240,
+      "source_team_name": "Sacramento Kings",
+      "view_url": "https://www.sportslogos.net/logos/view/zqifh03wxc54qk5ecexgk9ayg/Sacramento-Kings-Logo/1986/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/240/thumbs/zqifh03wxc54qk5ecexgk9ayg.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/240/full/zqifh03wxc54qk5ecexgk9ayg.gif",
+      "sha256": "b1ca5b2f4caa747e832eb7002b2e773197dcf7472508e574c04815c39ad013b8",
+      "bytes": 33891,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3275,
+      "width": 387,
+      "height": 498
+    },
+    {
+      "file": "SAC-NBA-1995-2016.png",
+      "start": 1995,
+      "end": 2016,
+      "title": "Sacramento Kings Primary Logo (1995 - 2016)",
+      "source_team_id": 240,
+      "source_team_name": "Sacramento Kings",
+      "view_url": "https://www.sportslogos.net/logos/view/832/Sacramento-Kings-Logo/1995/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/240/thumbs/832.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/240/full/832.png",
+      "sha256": "14e985445e37bbaddf011475f86c6a02b1f709c6c540de1f509eb08f3ed7ae04",
+      "bytes": 216089,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 675,
+      "height": 820
+    },
+    {
+      "file": "SAC-NBA-2017-pres.png",
+      "start": 2017,
+      "end": null,
+      "title": "Sacramento Kings Primary Logo (2017 - Pres)",
+      "source_team_id": 240,
+      "source_team_name": "Sacramento Kings",
+      "view_url": "https://www.sportslogos.net/logos/view/24040432017/Sacramento-Kings-Logo/2017/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/240/thumbs/24040432017.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/240/full/4043_sacramento_kings-primary-2017.png",
+      "sha256": "9da0b6d2d838709e8390498c861acfa56864aec4bbad5815f0f64f1b66314b44",
+      "bytes": 6985,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5999,
+      "width": 815,
+      "height": 905
+    }
+  ]
+}

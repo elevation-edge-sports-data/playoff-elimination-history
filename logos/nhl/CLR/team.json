@@ -1,0 +1,30 @@
+{
+  "abbr": "CLR",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 36,
+      "name": "Colorado Rockies"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CLR-NHL-1977-1982.png",
+      "start": 1977,
+      "end": 1982,
+      "title": "Colorado Rockies Primary Logo (1977 - 1982)",
+      "source_team_id": 36,
+      "source_team_name": "Colorado Rockies",
+      "view_url": "https://www.sportslogos.net/logos/view/233/Colorado-Rockies-Logo/1977/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/36/thumbs/233.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/36/full/233.png",
+      "sha256": "6e47f7be00b13559cffb2738f029cede7f047899b4a2ab315854337c23c06c89",
+      "bytes": 48970,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4894,
+      "width": 850,
+      "height": 815
+    }
+  ]
+}

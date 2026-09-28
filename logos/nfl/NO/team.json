@@ -1,0 +1,102 @@
+{
+  "abbr": "NO",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 175,
+      "name": "New Orleans Saints"
+    }
+  ],
+  "logos": [
+    {
+      "file": "NO-NFL-1967-1999.png",
+      "start": 1967,
+      "end": 1999,
+      "title": "New Orleans Saints Primary Logo (1967 - 1999)",
+      "source_team_id": 175,
+      "source_team_name": "New Orleans Saints",
+      "view_url": "https://www.sportslogos.net/logos/view/909/New-Orleans-Saints-Logo/1967/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/175/thumbs/909.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/175/full/909.gif",
+      "sha256": "5a7c131fd044c89f4ab338cddb901e65a72bb253347176cb176103d381ac0456",
+      "bytes": 19042,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6572,
+      "width": 492,
+      "height": 545
+    },
+    {
+      "file": "NO-NFL-2000-2001.png",
+      "start": 2000,
+      "end": 2001,
+      "title": "New Orleans Saints Primary Logo (2000 - 2001)",
+      "source_team_id": 175,
+      "source_team_name": "New Orleans Saints",
+      "view_url": "https://www.sportslogos.net/logos/view/17532342000/New-Orleans-Saints-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/175/thumbs/17532342000.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/175/full/3234_new_orleans_saints-primary-2000.png",
+      "sha256": "d9d54abba1e51ba2ee6b4e87b7cbb506885cf3f3bebb5512d1c5a5263d9ec5a4",
+      "bytes": 6491,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7617,
+      "width": 745,
+      "height": 905
+    },
+    {
+      "file": "NO-NFL-2002-2011.png",
+      "start": 2002,
+      "end": 2011,
+      "title": "New Orleans Saints Primary Logo (2002 - 2011)",
+      "source_team_id": 175,
+      "source_team_name": "New Orleans Saints",
+      "view_url": "https://www.sportslogos.net/logos/view/17522212002/New-Orleans-Saints-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/175/thumbs/17522212002.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/175/full/2221_new_orleans_saints-primary-2002.png",
+      "sha256": "8f62a0ac7a4d15e2ad37eaa50c4de2c9f8a1133198f77ae1d4ffd585e60ecb2a",
+      "bytes": 6761,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7617,
+      "width": 745,
+      "height": 905
+    },
+    {
+      "file": "NO-NFL-2012-2016.png",
+      "start": 2012,
+      "end": 2016,
+      "title": "New Orleans Saints Primary Logo (2012 - 2016)",
+      "source_team_id": 175,
+      "source_team_name": "New Orleans Saints",
+      "view_url": "https://www.sportslogos.net/logos/view/17533932012/New-Orleans-Saints-Logo/2012/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/175/thumbs/17533932012.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/175/full/3393_new_orleans_saints-primary-2012.png",
+      "sha256": "71b009ecc51ebed252fa48b58c0706e5f84f13375a3d1b0a5f8a4991c4514239",
+      "bytes": 7338,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7617,
+      "width": 745,
+      "height": 905
+    },
+    {
+      "file": "NO-NFL-2017-pres.png",
+      "start": 2017,
+      "end": null,
+      "title": "New Orleans Saints Primary Logo (2017 - Pres)",
+      "source_team_id": 175,
+      "source_team_name": "New Orleans Saints",
+      "view_url": "https://www.sportslogos.net/logos/view/907/New-Orleans-Saints-Logo/2017/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/175/thumbs/907.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/175/full/907.png",
+      "sha256": "ff169d89949f496e936caf9e0f7e476ed981e1a905ee9455d184364b5d16c0e2",
+      "bytes": 131085,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5768,
+      "width": 745,
+      "height": 905
+    }
+  ]
+}

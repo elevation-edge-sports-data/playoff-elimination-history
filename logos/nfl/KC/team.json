@@ -1,0 +1,88 @@
+{
+  "abbr": "KC",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 3062,
+      "name": "Kansas City Chiefs (AFL)"
+    },
+    {
+      "id": 162,
+      "name": "Kansas City Chiefs"
+    }
+  ],
+  "logos": [
+    {
+      "file": "KC-NFL-1963-1966.png",
+      "start": 1963,
+      "end": 1966,
+      "title": "Kansas City Chiefs Primary Logo (1963 - 1966)",
+      "source_team_id": 3062,
+      "source_team_name": "Kansas City Chiefs (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/306279351963/Kansas-City-Chiefs-Logo/1963/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/99/3062/thumbs/kansas_city_chiefs_logo_primary_1963sportslogosnet7935.gif",
+      "download_url": "https://content.sportslogos.net/logos/99/3062/full/kansas_city_chiefs_logo_primary_1963sportslogosnet7935.png",
+      "sha256": "f5c46362eacd5a504a36b007a878577342d695d0077eb81bc35d35b7ee1337c9",
+      "bytes": 397227,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 905,
+      "height": 900
+    },
+    {
+      "file": "KC-NFL-1967-1968.png",
+      "start": 1967,
+      "end": 1968,
+      "title": "Kansas City Chiefs Primary Logo (1967 - 1968)",
+      "source_team_id": 3062,
+      "source_team_name": "Kansas City Chiefs (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/306215391967/Kansas-City-Chiefs-Logo/1967/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/99/3062/thumbs/kansas_city_chiefs_logo_primary_1967sportslogosnet2226.gif",
+      "download_url": "https://content.sportslogos.net/logos/99/3062/full/kansas_city_chiefs_logo_primary_1967sportslogosnet2226.png",
+      "sha256": "d7aa091fc148a791b95d35f2ff58207a3cee296e56dbf7c625adea9cd853391f",
+      "bytes": 304855,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 890,
+      "height": 905
+    },
+    {
+      "file": "KC-NFL-1969-1971.png",
+      "start": 1969,
+      "end": 1971,
+      "title": "Kansas City Chiefs Primary Logo (1969 - 1971)",
+      "source_team_id": 3062,
+      "source_team_name": "Kansas City Chiefs (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/16244181970/Kansas-City-Chiefs-Logo/1969/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/162/thumbs/kansas_city_chiefs_logo_primary_1970sportslogosnet4418.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/162/full/kansas_city_chiefs_logo_primary_1970sportslogosnet4418.png",
+      "sha256": "c8adeb2033956a47a10e33f278d17b4d001740a53fb9f6f6b0e136c37ac55de1",
+      "bytes": 68107,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 905,
+      "height": 620
+    },
+    {
+      "file": "KC-NFL-1972-pres.png",
+      "start": 1972,
+      "end": null,
+      "title": "Kansas City Chiefs Primary Logo (1972 - Pres)",
+      "source_team_id": 3062,
+      "source_team_name": "Kansas City Chiefs (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/857/Kansas-City-Chiefs-Logo/1972/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/162/thumbs/kansas_city_chiefs_logo_primary_1972sportslogosnet6237.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/162/full/kansas_city_chiefs_logo_primary_1972sportslogosnet6237.png",
+      "sha256": "0ca62ae7550b6c84d7caff240daaf1d009f5fefc4d8919ab5ed9c21567c1e4ed",
+      "bytes": 80546,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 905,
+      "height": 590
+    }
+  ]
+}

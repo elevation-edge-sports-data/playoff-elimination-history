@@ -1,0 +1,48 @@
+{
+  "abbr": "MIA",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 214,
+      "name": "Miami Heat"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MIA-NBA-1989-1999.png",
+      "start": 1989,
+      "end": 1999,
+      "title": "Miami Heat Primary Logo (1989 - 1999)",
+      "source_team_id": 214,
+      "source_team_name": "Miami Heat",
+      "view_url": "https://www.sportslogos.net/logos/view/5569/Miami-Heat-Logo/1989/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/214/thumbs/5569.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/214/full/5569.png",
+      "sha256": "0eee47edc4bf4906cee94dfa4889273dafa029f2d642acbaf9534c8059bc8169",
+      "bytes": 49779,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 600,
+      "height": 750
+    },
+    {
+      "file": "MIA-NBA-2000-pres.png",
+      "start": 2000,
+      "end": null,
+      "title": "Miami Heat Primary Logo (2000 - Pres)",
+      "source_team_id": 214,
+      "source_team_name": "Miami Heat",
+      "view_url": "https://www.sportslogos.net/logos/view/burm5gh2wvjti3xhei5h16k8e/Miami-Heat-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/214/thumbs/burm5gh2wvjti3xhei5h16k8e.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/214/full/burm5gh2wvjti3xhei5h16k8e.gif",
+      "sha256": "c117afd84dba910b1fbb091043fae2090b822f6e3c9499440aafa18fe4e2d9b3",
+      "bytes": 56919,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0001,
+      "width": 543,
+      "height": 750
+    }
+  ]
+}

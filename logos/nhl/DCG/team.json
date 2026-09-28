@@ -1,0 +1,48 @@
+{
+  "abbr": "DCG",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 994,
+      "name": "Detroit Cougars"
+    }
+  ],
+  "logos": [
+    {
+      "file": "DCG-NHL-1927-1927.png",
+      "start": 1927,
+      "end": 1927,
+      "title": "Detroit Cougars Primary Logo (1927 - 1927)",
+      "source_team_id": 994,
+      "source_team_name": "Detroit Cougars",
+      "view_url": "https://www.sportslogos.net/logos/view/238/Detroit-Cougars-Logo/1927/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/994/thumbs/238.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/994/full/238.png",
+      "sha256": "57f13464e8b01c598c6e68e0a8e99902fa4756448ee604f26f7ec20e43adc01c",
+      "bytes": 57343,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4025,
+      "width": 435,
+      "height": 505
+    },
+    {
+      "file": "DCG-NHL-1927-1930.png",
+      "start": 1927,
+      "end": 1930,
+      "title": "Detroit Cougars Primary Logo (1927 - 1930)",
+      "source_team_id": 994,
+      "source_team_name": "Detroit Cougars",
+      "view_url": "https://www.sportslogos.net/logos/view/6625/Detroit-Cougars-Logo/1927/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/994/thumbs/6625.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/994/full/6625.gif",
+      "sha256": "ca8a4d37897fdb0e9ed5a972e6e34b1e1a9f47d1e89f3a51da36c5569b95187a",
+      "bytes": 43717,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 375,
+      "height": 350
+    }
+  ]
+}

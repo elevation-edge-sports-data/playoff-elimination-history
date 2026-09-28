@@ -1,0 +1,70 @@
+{
+  "abbr": "WSB",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 588,
+      "name": "Capital Bullets"
+    },
+    {
+      "id": 587,
+      "name": "Washington Bullets"
+    }
+  ],
+  "logos": [
+    {
+      "file": "WSB-NBA-1974-1974.png",
+      "start": 1974,
+      "end": 1974,
+      "title": "Capital Bullets Primary Logo (1974 - 1974)",
+      "source_team_id": 588,
+      "source_team_name": "Capital Bullets",
+      "view_url": "https://www.sportslogos.net/logos/view/5602/Capital-Bullets-Logo/1974/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/588/thumbs/capital-bullets-logo-primary-1974-3670-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/588/full/capital-bullets-logo-primary-1974-3670.png",
+      "sha256": "6151f92b6a62de819f0a133ecaf1facd751c1cdfc1b3ae6fdd75aa667ad0f9be",
+      "bytes": 6109,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 302
+    },
+    {
+      "file": "WSB-NBA-1975-1987.png",
+      "start": 1975,
+      "end": 1987,
+      "title": "Washington Bullets Primary Logo (1975 - 1987)",
+      "source_team_id": 588,
+      "source_team_name": "Capital Bullets",
+      "view_url": "https://www.sportslogos.net/logos/view/5603/Washington-Bullets-Logo/1975/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/587/thumbs/washington-bullets-logo-primary-1975-3194-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/587/full/washington-bullets-logo-primary-1975-3194.png",
+      "sha256": "b4a45c7f9e8780ab94f82270fb24f40c0b979a53cacad94534b129104013be32",
+      "bytes": 6320,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 302
+    },
+    {
+      "file": "WSB-NBA-1988-1997.png",
+      "start": 1988,
+      "end": 1997,
+      "title": "Washington Bullets Primary Logo (1988 - 1997)",
+      "source_team_id": 588,
+      "source_team_name": "Capital Bullets",
+      "view_url": "https://www.sportslogos.net/logos/view/emb4en3mu4f9hr0hhhkfkapxc/Washington-Bullets-Logo/1988/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/587/thumbs/washington-bullets-logo-primary-1988-2087-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/587/full/washington-bullets-logo-primary-1988-2087.png",
+      "sha256": "779a24aba5210cd95a28a970e53f6971c4c473d745122c07cc74477386f20eb1",
+      "bytes": 9210,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 302
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "abbr": "DNN",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 1121,
+      "name": "Denver Nuggets (1949-50)"
+    }
+  ],
+  "logos": [
+    {
+      "file": "DNN-NBA-1950-1950.png",
+      "start": 1950,
+      "end": 1950,
+      "title": "Denver Nuggets Primary Logo (1950 - 1950)",
+      "source_team_id": 1121,
+      "source_team_name": "Denver Nuggets (1949-50)",
+      "view_url": "https://www.sportslogos.net/logos/view/5089/Denver-Nuggets-Logo/1950/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/1121/thumbs/5089.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/1121/full/5089.gif",
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 300,
+      "height": 361
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "abbr": "MNS",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 34,
+      "name": "Minnesota North Stars"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MNS-NHL-1968-1985.png",
+      "start": 1968,
+      "end": 1985,
+      "title": "Minnesota North Stars Primary Logo (1968 - 1985)",
+      "source_team_id": 34,
+      "source_team_name": "Minnesota North Stars",
+      "view_url": "https://www.sportslogos.net/logos/view/3453531968/Minnesota-North-Stars-Logo/1968/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/34/thumbs/minnesota-north-stars-logo-primary-1968-8073-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/34/full/minnesota-north-stars-logo-primary-1968-8073.png",
+      "sha256": "e2123eadffe2281f1963fe6890eaa0606c40e6bbf0bc6cd83a95f36e02b85027",
+      "bytes": 9454,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 662
+    },
+    {
+      "file": "MNS-NHL-1986-1991.png",
+      "start": 1986,
+      "end": 1991,
+      "title": "Minnesota North Stars Primary Logo (1986 - 1991)",
+      "source_team_id": 34,
+      "source_team_name": "Minnesota North Stars",
+      "view_url": "https://www.sportslogos.net/logos/view/391/Minnesota-North-Stars-Logo/1986/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/34/thumbs/minnesota-north-stars-logo-primary-1986-1120-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/34/full/minnesota-north-stars-logo-primary-1986-1120.png",
+      "sha256": "80010404c3879ec6d2665807d57db71d0117ff8fdd80c40c9b1b43b1873ecb04",
+      "bytes": 11684,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 687,
+      "height": 750
+    },
+    {
+      "file": "MNS-NHL-1992-1993.png",
+      "start": 1992,
+      "end": 1993,
+      "title": "Minnesota North Stars Primary Logo (1992 - 1993)",
+      "source_team_id": 34,
+      "source_team_name": "Minnesota North Stars",
+      "view_url": "https://www.sportslogos.net/logos/view/phyt5a8iygbqgox2dopwh6orm/Minnesota-North-Stars-Logo/1992/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/34/thumbs/minnesota-north-stars-logo-primary-1992-9303-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/34/full/minnesota-north-stars-logo-primary-1992-9303.png",
+      "sha256": "0302ee957bc0fe15ba7de143b26561b4e43ed709bf82ccd89c5427a980f0f675",
+      "bytes": 8463,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 464
+    }
+  ]
+}

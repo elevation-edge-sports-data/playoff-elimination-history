@@ -1,0 +1,78 @@
+{
+  "abbr": "OAK",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 3072,
+      "name": "Oakland Raiders (AFL)"
+    },
+    {
+      "id": 585,
+      "name": "Oakland Raiders (1970-1981)"
+    },
+    {
+      "id": 584,
+      "name": "Los Angeles Raiders"
+    },
+    {
+      "id": 163,
+      "name": "Oakland Raiders (1995-2019)"
+    }
+  ],
+  "logos": [
+    {
+      "file": "OAK-NFL-1964-1981.png",
+      "start": 1964,
+      "end": 1981,
+      "title": "Oakland Raiders Primary Logo (1964 - 1981)",
+      "source_team_id": 3072,
+      "source_team_name": "Oakland Raiders (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/2341/Oakland-Raiders-Logo/1964/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/585/thumbs/2341.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/585/full/2341.gif",
+      "sha256": "9363fef217ec25ff244738a884b3407483a1e45c54f098ea4de17761ac42712b",
+      "bytes": 24036,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1122,
+      "width": 513,
+      "height": 545
+    },
+    {
+      "file": "OAK-NFL-1982-1994.png",
+      "start": 1982,
+      "end": 1994,
+      "title": "Los Angeles Raiders Primary Logo (1982 - 1994)",
+      "source_team_id": 584,
+      "source_team_name": "Los Angeles Raiders",
+      "view_url": "https://www.sportslogos.net/logos/view/2337/Los-Angeles-Raiders-Logo/1982/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/584/thumbs/2337.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/584/full/2337.gif",
+      "sha256": "9363fef217ec25ff244738a884b3407483a1e45c54f098ea4de17761ac42712b",
+      "bytes": 24036,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1122,
+      "width": 513,
+      "height": 545
+    },
+    {
+      "file": "OAK-NFL-1995-2019.png",
+      "start": 1995,
+      "end": 2019,
+      "title": "Oakland Raiders Primary Logo (1995 - 2019)",
+      "source_team_id": 3072,
+      "source_team_name": "Oakland Raiders (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/g9mgk6x3ge26t44cccm9oq1vl/Oakland-Raiders-Logo/1995/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/163/thumbs/g9mgk6x3ge26t44cccm9oq1vl.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/163/full/g9mgk6x3ge26t44cccm9oq1vl.png",
+      "sha256": "a221e2e4390c0491958c17ed7d0f74c52bd0358840b034097d4e6a4fd26ac3cb",
+      "bytes": 50000,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3662,
+      "width": 847,
+      "height": 900
+    }
+  ]
+}

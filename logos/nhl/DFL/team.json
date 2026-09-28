@@ -1,0 +1,30 @@
+{
+  "abbr": "DFL",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 995,
+      "name": "Detroit Falcons"
+    }
+  ],
+  "logos": [
+    {
+      "file": "DFL-NHL-1931-1932.png",
+      "start": 1931,
+      "end": 1932,
+      "title": "Detroit Falcons Primary Logo (1931 - 1932)",
+      "source_team_id": 995,
+      "source_team_name": "Detroit Falcons",
+      "view_url": "https://www.sportslogos.net/logos/view/iunfqghm9pjzrslmry1sqxk37/Detroit-Falcons-Logo/1931/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/995/thumbs/iunfqghm9pjzrslmry1sqxk37.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/995/full/iunfqghm9pjzrslmry1sqxk37.png",
+      "sha256": "ee727ecc6e226f5d7564b40ee8d1640784f356e06bdc66e91196ab296ad4046b",
+      "bytes": 50480,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6036,
+      "width": 896,
+      "height": 432
+    }
+  ]
+}

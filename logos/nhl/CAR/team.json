@@ -1,0 +1,48 @@
+{
+  "abbr": "CAR",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 6,
+      "name": "Carolina Hurricanes"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CAR-NHL-1998-1999.png",
+      "start": 1998,
+      "end": 1999,
+      "title": "Carolina Hurricanes Primary Logo (1998 - 1999)",
+      "source_team_id": 6,
+      "source_team_name": "Carolina Hurricanes",
+      "view_url": "https://www.sportslogos.net/logos/view/hmtieeyhlstetwwn9oknkngfx/Carolina-Hurricanes-Logo/1998/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/6/thumbs/hmtieeyhlstetwwn9oknkngfx.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/6/full/hmtieeyhlstetwwn9oknkngfx.png",
+      "sha256": "0a156a1243625462186b3b6c41c7d3929e8ca2e1add8222411ef6f33baea3c75",
+      "bytes": 98819,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2493,
+      "width": 750,
+      "height": 451
+    },
+    {
+      "file": "CAR-NHL-2000-pres.png",
+      "start": 2000,
+      "end": null,
+      "title": "Carolina Hurricanes Primary Logo (2000 - Pres)",
+      "source_team_id": 6,
+      "source_team_name": "Carolina Hurricanes",
+      "view_url": "https://www.sportslogos.net/logos/view/fotih31tn5r345nufo5xxayh3/Carolina-Hurricanes-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/6/thumbs/fotih31tn5r345nufo5xxayh3.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/6/full/fotih31tn5r345nufo5xxayh3.png",
+      "sha256": "a444a4932bbb735ae7d62ce5bcdfe82990092207cfd99bada15bed1cf3d924b1",
+      "bytes": 163687,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2493,
+      "width": 750,
+      "height": 451
+    }
+  ]
+}

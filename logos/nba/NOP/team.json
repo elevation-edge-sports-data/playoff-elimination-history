@@ -1,0 +1,48 @@
+{
+  "abbr": "NOP",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 4962,
+      "name": "New Orleans Pelicans"
+    }
+  ],
+  "logos": [
+    {
+      "file": "NOP-NBA-2014-2023.png",
+      "start": 2014,
+      "end": 2023,
+      "title": "New Orleans Pelicans Primary Logo (2014 - 2023)",
+      "source_team_id": 4962,
+      "source_team_name": "New Orleans Pelicans",
+      "view_url": "https://www.sportslogos.net/logos/view/496226812014/New-Orleans-Pelicans-Logo/2014/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/4962/thumbs/496226812014.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/4962/full/2681_new_orleans_pelicans-primary-2014.png",
+      "sha256": "422bfd20be70d798002a167c0bf3961d88a76553ee5e8580f09726307849eb37",
+      "bytes": 75049,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3894,
+      "width": 750,
+      "height": 561
+    },
+    {
+      "file": "NOP-NBA-2024-pres.png",
+      "start": 2024,
+      "end": null,
+      "title": "New Orleans Pelicans Primary Logo (2024 - Pres)",
+      "source_team_id": 4962,
+      "source_team_name": "New Orleans Pelicans",
+      "view_url": "https://www.sportslogos.net/logos/view/496292922024/New-Orleans-Pelicans-Logo/2024/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/4962/thumbs/496292922024.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/4962/full/new_orleans_pelicans_logo_primary_2024_sportslogosnet-9292.png",
+      "sha256": "e51ffbcdf5ac85297eba7a93ea6ad0c8f4d99ac7545bffe1ba497177f8f7c165",
+      "bytes": 169520,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5298,
+      "width": 905,
+      "height": 575
+    }
+  ]
+}

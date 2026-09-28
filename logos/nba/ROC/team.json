@@ -1,0 +1,30 @@
+{
+  "abbr": "ROC",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 246,
+      "name": "Rochester Royals"
+    }
+  ],
+  "logos": [
+    {
+      "file": "ROC-NBA-1946-1957.png",
+      "start": 1946,
+      "end": 1957,
+      "title": "Rochester Royals Primary Logo (1946 - 1957)",
+      "source_team_id": 246,
+      "source_team_name": "Rochester Royals",
+      "view_url": "https://www.sportslogos.net/logos/view/5377/Rochester-Royals-Logo/1946/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/246/thumbs/5377.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/246/full/5377.gif",
+      "sha256": "13b86c73edf96564cfdfdc5940fb98b34a077584a99cb1f0d3d632602832213a",
+      "bytes": 69470,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 300,
+      "height": 304
+    }
+  ]
+}

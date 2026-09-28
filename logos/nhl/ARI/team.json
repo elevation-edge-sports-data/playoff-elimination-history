@@ -1,0 +1,84 @@
+{
+  "abbr": "ARI",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 5263,
+      "name": "Arizona Coyotes"
+    }
+  ],
+  "logos": [
+    {
+      "file": "ARI-NHL-1997-1999.png",
+      "start": 1997,
+      "end": 1999,
+      "title": "Phoenix Coyotes Primary Logo (1997 - 1999)",
+      "source_team_id": 5263,
+      "source_team_name": "Arizona Coyotes",
+      "view_url": "https://www.sportslogos.net/logos/view/2321441997/Phoenix-Coyotes-Logo/1997/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/23/thumbs/2321441997.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/23/full/phoenix_coyotes_logo_primary_1997_sportslogosnet-2144.png",
+      "sha256": "97dec39987597af4b76dbb3ea5e50926bdc9b42ce8bf1a7450e399651f28ec5f",
+      "bytes": 8838,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7253,
+      "width": 870,
+      "height": 905
+    },
+    {
+      "file": "ARI-NHL-2000-2003.png",
+      "start": 2000,
+      "end": 2003,
+      "title": "Phoenix Coyotes Primary Logo (2000 - 2003)",
+      "source_team_id": 5263,
+      "source_team_name": "Arizona Coyotes",
+      "view_url": "https://www.sportslogos.net/logos/view/86liul9vxxfapth3dt9z3cx6b/Phoenix-Coyotes-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/23/thumbs/86liul9vxxfapth3dt9z3cx6b.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/23/full/86liul9vxxfapth3dt9z3cx6b.png",
+      "sha256": "99f27e30f52a95e0ae17096e8acf15f3b6b53e0c6dae815b187dc5f7d1e2e519",
+      "bytes": 123644,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5269,
+      "width": 650,
+      "height": 715
+    },
+    {
+      "file": "ARI-NHL-2004-2021.png",
+      "start": 2004,
+      "end": 2021,
+      "title": "Phoenix/Arizona Coyotes Primary Logo (2004 - 2021)",
+      "source_team_id": 5263,
+      "source_team_name": "Arizona Coyotes",
+      "view_url": "https://www.sportslogos.net/logos/view/526378072015/PhoenixArizona-Coyotes-Logo/2004/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/5263/thumbs/526378072015.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/5263/full/7807_arizona_coyotes-primary-20151.png",
+      "sha256": "abf599d8a06f6bc468973482b1c110fa1785b61e50c1b7e3d746a2aec2eb6c65",
+      "bytes": 6486,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7364,
+      "width": 875,
+      "height": 905
+    },
+    {
+      "file": "ARI-NHL-2022-2024.png",
+      "start": 2022,
+      "end": 2024,
+      "title": "Arizona Coyotes Primary Logo (2022 - 2024)",
+      "source_team_id": 5263,
+      "source_team_name": "Arizona Coyotes",
+      "view_url": "https://www.sportslogos.net/logos/view/526382732022/Arizona-Coyotes-Logo/2022/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/5263/thumbs/526382732022.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/5263/full/arizona_coyotes_logo_primary_2022_sportslogosnet-8273.png",
+      "sha256": "eb192948e12060e27ebaf80474a5e76eb336b3fb711930db3976bc7d362ef5de",
+      "bytes": 11218,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6976,
+      "width": 865,
+      "height": 905
+    }
+  ]
+}

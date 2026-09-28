@@ -1,0 +1,48 @@
+{
+  "abbr": "HOU",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 157,
+      "name": "Houston Texans"
+    }
+  ],
+  "logos": [
+    {
+      "file": "HOU-NFL-2002-2023.png",
+      "start": 2002,
+      "end": 2023,
+      "title": "Houston Texans Primary Logo (2002 - 2023)",
+      "source_team_id": 157,
+      "source_team_name": "Houston Texans",
+      "view_url": "https://www.sportslogos.net/logos/view/570/Houston-Texans-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/157/thumbs/570.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/157/full/570.png",
+      "sha256": "5978e510bae51f1d7540d8592fcaacb501f73e24956f666d926ad0659f29a380",
+      "bytes": 66123,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6028,
+      "width": 905,
+      "height": 825
+    },
+    {
+      "file": "HOU-NFL-2024-pres.png",
+      "start": 2024,
+      "end": null,
+      "title": "Houston Texans Primary Logo (2024 - Pres)",
+      "source_team_id": 157,
+      "source_team_name": "Houston Texans",
+      "view_url": "https://www.sportslogos.net/logos/view/15758902024/Houston-Texans-Logo/2024/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/157/thumbs/15758902024.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/157/full/houston_texans_logo_primary_2024_sportslogosnet-5890.png",
+      "sha256": "d1ce128995391caf6d1e72763a769694a3d1a28681169416cfa4ff81d4d11991",
+      "bytes": 3731,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7346,
+      "width": 905,
+      "height": 830
+    }
+  ]
+}

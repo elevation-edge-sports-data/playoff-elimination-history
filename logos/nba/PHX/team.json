@@ -1,0 +1,84 @@
+{
+  "abbr": "PHX",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 238,
+      "name": "Phoenix Suns"
+    }
+  ],
+  "logos": [
+    {
+      "file": "PHX-NBA-1969-1992.png",
+      "start": 1969,
+      "end": 1992,
+      "title": "Phoenix Suns Primary Logo (1969 - 1992)",
+      "source_team_id": 238,
+      "source_team_name": "Phoenix Suns",
+      "view_url": "https://www.sportslogos.net/logos/view/5328/Phoenix-Suns-Logo/1969/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/238/thumbs/5328.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/238/full/5328.gif",
+      "sha256": "30413a7b6ebca1ac188fabc381b3408c53583c11529f12ebaf56253b2507fe76",
+      "bytes": 22602,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2683,
+      "width": 335,
+      "height": 495
+    },
+    {
+      "file": "PHX-NBA-1993-2000.png",
+      "start": 1993,
+      "end": 2000,
+      "title": "Phoenix Suns Primary Logo (1993 - 2000)",
+      "source_team_id": 238,
+      "source_team_name": "Phoenix Suns",
+      "view_url": "https://www.sportslogos.net/logos/view/5329/Phoenix-Suns-Logo/1993/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/238/thumbs/5329.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/238/full/5329.gif",
+      "sha256": "2c09ecf9a9e41cf1505e7fd316359cd4af2e1fb3f3e72df4589fe3420f15f08d",
+      "bytes": 148724,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4795,
+      "width": 640,
+      "height": 750
+    },
+    {
+      "file": "PHX-NBA-2001-2013.png",
+      "start": 2001,
+      "end": 2013,
+      "title": "Phoenix Suns Primary Logo (2001 - 2013)",
+      "source_team_id": 238,
+      "source_team_name": "Phoenix Suns",
+      "view_url": "https://www.sportslogos.net/logos/view/g9agfgof0kzui4u445wrsj3e5/Phoenix-Suns-Logo/2001/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/238/thumbs/g9agfgof0kzui4u445wrsj3e5.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/238/full/g9agfgof0kzui4u445wrsj3e5.gif",
+      "sha256": "84ee3412f363a5f76577187f53eafe139b8c8489b644c5153ff4ed86903ab656",
+      "bytes": 61820,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 700,
+      "height": 712
+    },
+    {
+      "file": "PHX-NBA-2014-pres.png",
+      "start": 2014,
+      "end": null,
+      "title": "Phoenix Suns Primary Logo (2014 - Pres)",
+      "source_team_id": 238,
+      "source_team_name": "Phoenix Suns",
+      "view_url": "https://www.sportslogos.net/logos/view/23843702014/Phoenix-Suns-Logo/2014/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/238/thumbs/23843702014.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/238/full/phoenix_suns_logo_primary_20143696.png",
+      "sha256": "f8bc18fd8ba3331dfa13d793c2d63ae865fd01e86dc62de09c0502cbff0043b1",
+      "bytes": 60133,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5085,
+      "width": 745,
+      "height": 755
+    }
+  ]
+}

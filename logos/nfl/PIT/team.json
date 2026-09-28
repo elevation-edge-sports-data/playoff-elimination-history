@@ -1,0 +1,66 @@
+{
+  "abbr": "PIT",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 156,
+      "name": "Pittsburgh Steelers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "PIT-NFL-1962-1968.png",
+      "start": 1962,
+      "end": 1968,
+      "title": "Pittsburgh Steelers Primary Logo (1962 - 1968)",
+      "source_team_id": 156,
+      "source_team_name": "Pittsburgh Steelers",
+      "view_url": "https://www.sportslogos.net/logos/view/yg3ajf7lt77h2agajh81/Pittsburgh-Steelers-Logo/1962/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/156/thumbs/yg3ajf7lt77h2agajh81.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/156/full/yg3ajf7lt77h2agajh81.gif",
+      "sha256": "b87ed9ff5571eb4eec0e15d968937d9ff19a4eb43ff42559bf649493a1582287",
+      "bytes": 167957,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5323,
+      "width": 504,
+      "height": 557
+    },
+    {
+      "file": "PIT-NFL-1969-2001.png",
+      "start": 1969,
+      "end": 2001,
+      "title": "Pittsburgh Steelers Primary Logo (1969 - 2001)",
+      "source_team_id": 156,
+      "source_team_name": "Pittsburgh Steelers",
+      "view_url": "https://www.sportslogos.net/logos/view/uj6np8mdxk9be07trzcea485x/Pittsburgh-Steelers-Logo/1969/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/156/thumbs/uj6np8mdxk9be07trzcea485x.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/156/full/uj6np8mdxk9be07trzcea485x.gif",
+      "sha256": "4f485626084e031267b3d4ab22f9c2b62ad2d331970e2a7f60c5599ccb9cf0f4",
+      "bytes": 16912,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2135,
+      "width": 321,
+      "height": 321
+    },
+    {
+      "file": "PIT-NFL-2002-pres.png",
+      "start": 2002,
+      "end": null,
+      "title": "Pittsburgh Steelers Primary Logo (2002 - Pres)",
+      "source_team_id": 156,
+      "source_team_name": "Pittsburgh Steelers",
+      "view_url": "https://www.sportslogos.net/logos/view/970/Pittsburgh-Steelers-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/156/thumbs/970.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/156/full/970.png",
+      "sha256": "67a347b70aaa0f4b79230dbb04ae72a90d0ae86a0bd6a83d28f4b3aa00dcd828",
+      "bytes": 97861,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.222,
+      "width": 905,
+      "height": 905
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "abbr": "OAK",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 1875,
+      "name": "Oakland Seals"
+    }
+  ],
+  "logos": [
+    {
+      "file": "OAK-NHL-1968-1968.png",
+      "start": 1968,
+      "end": 1968,
+      "title": "California Seals Primary Logo (1968 - 1968)",
+      "source_team_id": 1875,
+      "source_team_name": "Oakland Seals",
+      "view_url": "https://www.sportslogos.net/logos/view/pi0ghail1fxdk03d9dugghe6b/California-Seals-Logo/1968/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/1874/thumbs/pi0ghail1fxdk03d9dugghe6b.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/1874/full/pi0ghail1fxdk03d9dugghe6b.gif",
+      "sha256": "8d41a607d679ef124a0e2cedcc40a17e97c8494ae6350a1b102dde067e8b5f7e",
+      "bytes": 62695,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 598,
+      "height": 500
+    },
+    {
+      "file": "OAK-NHL-1968-1970.png",
+      "start": 1968,
+      "end": 1970,
+      "title": "Oakland Seals Primary Logo (1968 - 1970)",
+      "source_team_id": 1875,
+      "source_team_name": "Oakland Seals",
+      "view_url": "https://www.sportslogos.net/logos/view/8883uojgyvl8vmimu8vqwiyuk/Oakland-Seals-Logo/1968/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/1875/thumbs/8883uojgyvl8vmimu8vqwiyuk.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/1875/full/8883uojgyvl8vmimu8vqwiyuk.png",
+      "sha256": "31f3f9345c3cc7391a500bd8720274a32ab168f0412c936d311bcbe03164e645",
+      "bytes": 159672,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2166,
+      "width": 905,
+      "height": 905
+    },
+    {
+      "file": "OAK-NHL-1971-1971.png",
+      "start": 1971,
+      "end": 1971,
+      "title": "Bay Area Seals Primary Logo (1971 - 1971)",
+      "source_team_id": 1875,
+      "source_team_name": "Oakland Seals",
+      "view_url": "https://www.sportslogos.net/logos/view/645635171971/Bay-Area-Seals-Logo/1971/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/6456/thumbs/645635171971.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/6456/full/3517_bay_area_seals-primary-1971.png",
+      "sha256": "3113e716abcd71c2efa5bb1acba45a8126f9e44ab1d0c51adc6370942a246b8c",
+      "bytes": 7845,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5445,
+      "width": 905,
+      "height": 670
+    },
+    {
+      "file": "OAK-NHL-1971-1974.png",
+      "start": 1971,
+      "end": 1974,
+      "title": "California Golden Seals Primary Logo (1971 - 1974)",
+      "source_team_id": 1875,
+      "source_team_name": "Oakland Seals",
+      "view_url": "https://www.sportslogos.net/logos/view/3821431971/California-Golden-Seals-Logo/1971/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/38/thumbs/3821431971.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/38/full/2143_california_golden_seals-secondary-1971.png",
+      "sha256": "c0f975fc7f86aaf0dab6c82900fc7e9027155ab345a46d833e46881f66cc3a75",
+      "bytes": 5036,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7601,
+      "width": 2592,
+      "height": 948
+    },
+    {
+      "file": "OAK-NHL-1975-1976.png",
+      "start": 1975,
+      "end": 1976,
+      "title": "California Golden Seals Primary Logo (1975 - 1976)",
+      "source_team_id": 1875,
+      "source_team_name": "Oakland Seals",
+      "view_url": "https://www.sportslogos.net/logos/view/lsqbnflx2ssqtdz8on09/California-Golden-Seals-Logo/1975/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/38/thumbs/lsqbnflx2ssqtdz8on09.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/38/full/lsqbnflx2ssqtdz8on09.png",
+      "sha256": "8b3b8e1943098acf1d1c6487b8a6c82c9d3e1eac83ed6e49961278d976906bda",
+      "bytes": 113256,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5968,
+      "width": 2592,
+      "height": 948
+    }
+  ]
+}

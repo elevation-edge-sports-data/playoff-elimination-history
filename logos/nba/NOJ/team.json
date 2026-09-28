@@ -1,0 +1,30 @@
+{
+  "abbr": "NOJ",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 255,
+      "name": "New Orleans Jazz"
+    }
+  ],
+  "logos": [
+    {
+      "file": "NOJ-NBA-1975-1979.png",
+      "start": 1975,
+      "end": 1979,
+      "title": "New Orleans Jazz Primary Logo (1975 - 1979)",
+      "source_team_id": 255,
+      "source_team_name": "New Orleans Jazz",
+      "view_url": "https://www.sportslogos.net/logos/view/5776/New-Orleans-Jazz-Logo/1975/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/255/thumbs/5776.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/255/full/5776.gif",
+      "sha256": "d5ed97e193e7744743b6ada450fd834a1d4f1a92471114d056183fc962832484",
+      "bytes": 45239,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0035,
+      "width": 695,
+      "height": 300
+    }
+  ]
+}

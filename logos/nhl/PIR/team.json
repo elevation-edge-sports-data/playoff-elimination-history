@@ -1,0 +1,48 @@
+{
+  "abbr": "PIR",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 47,
+      "name": "Pittsburgh Pirates"
+    }
+  ],
+  "logos": [
+    {
+      "file": "PIR-NHL-1926-1928.png",
+      "start": 1926,
+      "end": 1928,
+      "title": "Pittsburgh Pirates Primary Logo (1926 - 1928)",
+      "source_team_id": 47,
+      "source_team_name": "Pittsburgh Pirates",
+      "view_url": "https://www.sportslogos.net/logos/view/4713001926/Pittsburgh-Pirates-Logo/1926/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/47/thumbs/4713001926.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/47/full/1300_pittsburgh_pirates-primary-1926.png",
+      "sha256": "f144b355dba309160205f8b1ef9071bad3bdeca1101cced04bb5cc72e231fb83",
+      "bytes": 2045,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7099,
+      "width": 555,
+      "height": 705
+    },
+    {
+      "file": "PIR-NHL-1929-1930.png",
+      "start": 1929,
+      "end": 1930,
+      "title": "Pittsburgh Pirates Primary Logo (1929 - 1930)",
+      "source_team_id": 47,
+      "source_team_name": "Pittsburgh Pirates",
+      "view_url": "https://www.sportslogos.net/logos/view/4744571929/Pittsburgh-Pirates-Logo/1929/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/47/thumbs/4744571929.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/47/full/4457_pittsburgh_pirates-primary-1929.png",
+      "sha256": "9eec6b3681c9c41bc079c082365a42f589e1b1122559aec2b5edf3ca1a1484af",
+      "bytes": 12055,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5105,
+      "width": 880,
+      "height": 905
+    }
+  ]
+}

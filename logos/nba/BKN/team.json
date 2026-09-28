@@ -1,0 +1,48 @@
+{
+  "abbr": "BKN",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 3786,
+      "name": "Brooklyn Nets"
+    }
+  ],
+  "logos": [
+    {
+      "file": "BKN-NBA-2013-2024.png",
+      "start": 2013,
+      "end": 2024,
+      "title": "Brooklyn Nets Primary Logo (2013 - 2024)",
+      "source_team_id": 3786,
+      "source_team_name": "Brooklyn Nets",
+      "view_url": "https://www.sportslogos.net/logos/view/hsuff5m3dgiv20kovde422r1f/Brooklyn-Nets-Logo/2013/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/3786/thumbs/hsuff5m3dgiv20kovde422r1f.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/3786/full/brooklyn_nets_logo_primary_20135043.png",
+      "sha256": "b915610a6c9130b440ceccd1be5c4680cdf7f2e6482cc43073963334a1f2c044",
+      "bytes": 115069,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6469,
+      "width": 685,
+      "height": 905
+    },
+    {
+      "file": "BKN-NBA-2025-pres.png",
+      "start": 2025,
+      "end": null,
+      "title": "Brooklyn Nets Primary Logo (2025 - Pres)",
+      "source_team_id": 3786,
+      "source_team_name": "Brooklyn Nets",
+      "view_url": "https://www.sportslogos.net/logos/view/378615012025/Brooklyn-Nets-Logo/2025/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/3786/thumbs/378615012025.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/3786/full/brooklyn_nets_logo_primary_2025_sportslogosnet-1501.png",
+      "sha256": "6d458bf734e44b7e29a733c4263f399d162130bf857715ba14e321d1f347df55",
+      "bytes": 125825,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4936,
+      "width": 900,
+      "height": 905
+    }
+  ]
+}

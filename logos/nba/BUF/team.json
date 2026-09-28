@@ -1,0 +1,48 @@
+{
+  "abbr": "BUF",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 253,
+      "name": "Buffalo Braves"
+    }
+  ],
+  "logos": [
+    {
+      "file": "BUF-NBA-1971-1971.png",
+      "start": 1971,
+      "end": 1971,
+      "title": "Buffalo Braves Primary Logo (1971 - 1971)",
+      "source_team_id": 253,
+      "source_team_name": "Buffalo Braves",
+      "view_url": "https://www.sportslogos.net/logos/view/5450/Buffalo-Braves-Logo/1971/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/253/thumbs/5450.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/253/full/5450.gif",
+      "sha256": "76db522116667184f09a27faeb199363b525b9cac3d9c834262985143e7858dc",
+      "bytes": 40617,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3434,
+      "width": 383,
+      "height": 484
+    },
+    {
+      "file": "BUF-NBA-1972-1978.png",
+      "start": 1972,
+      "end": 1978,
+      "title": "Buffalo Braves Primary Logo (1972 - 1978)",
+      "source_team_id": 253,
+      "source_team_name": "Buffalo Braves",
+      "view_url": "https://www.sportslogos.net/logos/view/5451/Buffalo-Braves-Logo/1972/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/253/thumbs/5451.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/253/full/5451.gif",
+      "sha256": "9994d8d1e3e635c536dd31c8d0efb5cc31be26445b78e832a03fafea093a4ed4",
+      "bytes": 51814,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4913,
+      "width": 565,
+      "height": 549
+    }
+  ]
+}

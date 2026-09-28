@@ -1,0 +1,48 @@
+{
+  "abbr": "CBJ",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 9,
+      "name": "Columbus Blue Jackets"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CBJ-NHL-2001-2007.png",
+      "start": 2001,
+      "end": 2007,
+      "title": "Columbus Blue Jackets Primary Logo (2001 - 2007)",
+      "source_team_id": 9,
+      "source_team_name": "Columbus Blue Jackets",
+      "view_url": "https://www.sportslogos.net/logos/view/47/Columbus-Blue-Jackets-Logo/2001/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/9/thumbs/47.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/9/full/47.png",
+      "sha256": "13cd25ca9bfa2cab28f05b01e1c3cf0c0ae9b90801633c5ee1f146ec38df5d9b",
+      "bytes": 62897,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3465,
+      "width": 528,
+      "height": 458
+    },
+    {
+      "file": "CBJ-NHL-2008-pres.png",
+      "start": 2008,
+      "end": null,
+      "title": "Columbus Blue Jackets Primary Logo (2008 - Pres)",
+      "source_team_id": 9,
+      "source_team_name": "Columbus Blue Jackets",
+      "view_url": "https://www.sportslogos.net/logos/view/jhepegs329pc7ugyypebl28wg/Columbus-Blue-Jackets-Logo/2008/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/9/thumbs/jhepegs329pc7ugyypebl28wg.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/9/full/jhepegs329pc7ugyypebl28wg.png",
+      "sha256": "753484dc818a76f2282f606d62fc10bbd24add1c2e24a3e312f7f74650dbbebd",
+      "bytes": 173841,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4522,
+      "width": 734,
+      "height": 633
+    }
+  ]
+}

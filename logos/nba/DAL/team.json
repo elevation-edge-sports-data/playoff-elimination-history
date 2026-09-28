@@ -1,0 +1,84 @@
+{
+  "abbr": "DAL",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 228,
+      "name": "Dallas Mavericks"
+    }
+  ],
+  "logos": [
+    {
+      "file": "DAL-NBA-1981-1993.png",
+      "start": 1981,
+      "end": 1993,
+      "title": "Dallas Mavericks Primary Logo (1981 - 1993)",
+      "source_team_id": 228,
+      "source_team_name": "Dallas Mavericks",
+      "view_url": "https://www.sportslogos.net/logos/view/22892541981/Dallas-Mavericks-Logo/1981/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/228/thumbs/22892541981.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/228/full/9254_dallas_mavericks-primary-1981.png",
+      "sha256": "caaaee493bf67a3c33f6f0232feba418e432617de99c5520d7e668451332e48c",
+      "bytes": 11776,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6261,
+      "width": 760,
+      "height": 350
+    },
+    {
+      "file": "DAL-NBA-1994-2001.png",
+      "start": 1994,
+      "end": 2001,
+      "title": "Dallas Mavericks Primary Logo (1994 - 2001)",
+      "source_team_id": 228,
+      "source_team_name": "Dallas Mavericks",
+      "view_url": "https://www.sportslogos.net/logos/view/9bjmx5zlk506mle5slggyeepe/Dallas-Mavericks-Logo/1994/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/228/thumbs/9bjmx5zlk506mle5slggyeepe.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/228/full/9bjmx5zlk506mle5slggyeepe.png",
+      "sha256": "b653b907d1873dd5f74e18e1946c8a8c18cb77971dbca12860e156051c279066",
+      "bytes": 85107,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 854,
+      "height": 350
+    },
+    {
+      "file": "DAL-NBA-2002-2017.png",
+      "start": 2002,
+      "end": 2017,
+      "title": "Dallas Mavericks Primary Logo (2002 - 2017)",
+      "source_team_id": 228,
+      "source_team_name": "Dallas Mavericks",
+      "view_url": "https://www.sportslogos.net/logos/view/ifk08eam05rwxr3yhol3whdcm/Dallas-Mavericks-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/228/thumbs/ifk08eam05rwxr3yhol3whdcm.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/228/full/ifk08eam05rwxr3yhol3whdcm.png",
+      "sha256": "c082978930f1658e8538250f7849148cc1cc7c56b7028babf96533d82433587f",
+      "bytes": 335045,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 866,
+      "height": 905
+    },
+    {
+      "file": "DAL-NBA-2018-pres.png",
+      "start": 2018,
+      "end": null,
+      "title": "Dallas Mavericks Primary Logo (2018 - Pres)",
+      "source_team_id": 228,
+      "source_team_name": "Dallas Mavericks",
+      "view_url": "https://www.sportslogos.net/logos/view/22834632018/Dallas-Mavericks-Logo/2018/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/228/thumbs/22834632018.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/228/full/3463_dallas_mavericks-primary-2018.png",
+      "sha256": "d520736eb0327e9a314a43dee4be11ed430125c108fa22d9bcfc44e9687140e1",
+      "bytes": 13079,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5879,
+      "width": 866,
+      "height": 905
+    }
+  ]
+}

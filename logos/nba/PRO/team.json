@@ -1,0 +1,30 @@
+{
+  "abbr": "PRO",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 1122,
+      "name": "Providence Steam Rollers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "PRO-NBA-1947-1949.png",
+      "start": 1947,
+      "end": 1949,
+      "title": "Providence Steam Rollers Primary Logo (1947 - 1949)",
+      "source_team_id": 1122,
+      "source_team_name": "Providence Steam Rollers",
+      "view_url": "https://www.sportslogos.net/logos/view/5041/Providence-Steam-Rollers-Logo/1947/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/1122/thumbs/5041.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/1122/full/5041.gif",
+      "sha256": "cf8f28d4e579015aab56ddf58625fdad65868de4ebd5888e6f0695dd82cebec5",
+      "bytes": 74710,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 302,
+      "height": 300
+    }
+  ]
+}

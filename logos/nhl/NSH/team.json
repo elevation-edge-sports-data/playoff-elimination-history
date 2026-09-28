@@ -1,0 +1,48 @@
+{
+  "abbr": "NSH",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 17,
+      "name": "Nashville Predators"
+    }
+  ],
+  "logos": [
+    {
+      "file": "NSH-NHL-1999-2011.png",
+      "start": 1999,
+      "end": 2011,
+      "title": "Nashville Predators Primary Logo (1999 - 2011)",
+      "source_team_id": 17,
+      "source_team_name": "Nashville Predators",
+      "view_url": "https://www.sportslogos.net/logos/view/129/Nashville-Predators-Logo/1999/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/17/thumbs/129.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/17/full/129.png",
+      "sha256": "634828f6d57624c32f48b722920386ea114797e68b9209a6ce32bd9e316c9887",
+      "bytes": 140588,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4399,
+      "width": 1250,
+      "height": 725
+    },
+    {
+      "file": "NSH-NHL-2012-pres.png",
+      "start": 2012,
+      "end": null,
+      "title": "Nashville Predators Primary Logo (2012 - Pres)",
+      "source_team_id": 17,
+      "source_team_name": "Nashville Predators",
+      "view_url": "https://www.sportslogos.net/logos/view/lvchw3qfsun2e7oc02kh2zxb6/Nashville-Predators-Logo/2012/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/17/thumbs/lvchw3qfsun2e7oc02kh2zxb6.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/17/full/lvchw3qfsun2e7oc02kh2zxb6.png",
+      "sha256": "08b7ef1bd99ca50ddd5035efe7adaa1f3e09108844b1442958378e23a91c362a",
+      "bytes": 147433,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4615,
+      "width": 760,
+      "height": 450
+    }
+  ]
+}

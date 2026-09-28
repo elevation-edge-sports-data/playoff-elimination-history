@@ -20,18 +20,24 @@ Expanded territory is Hawaii. Hawaii stays in the base region set and `fc()` dro
 
 Claim rule lives in the same zustand store as `fillMode` and `logoStyle` (`claimRule`, default `centroid`, `setClaimRule`). The header writes it. Both maps call `cl({ ..., rule: claimRule })`. `cl()` assigns `region.owner` through `globalThis.claimRegion` for State/Territory fills and for the color-adjacency graph. City / Voronoi does not use it. The clip box `Zs` (`minLat` 24.5, `maxLon` -52) applies only to Alaska, Yukon, Northwest Territories, and Nunavut.
 
-Checked in headless Chrome against `http://127.0.0.1` serving this folder. NFL 2015, 32 of 32 clubs still alive, 2D region label: Centroid and Later eliminated paint New Jersey for the Jets; Earlier eliminated paints it for the Giants. Expanded off is 63 regions and the 3D camera stays East–West 69, North–South 173, Z 0, Rotate 8°, Tilt 28°, Zoom 1.3×. Expanded on keeps that camera and adds Hawaii. Recenter restores 69 / 173 / 1.3×. Season preserve, colors, camera sliders, and logo style were left as they were.
+Checked in headless Chrome against `http://127.0.0.1` serving this folder. NFL 2015, 32 of 32 clubs still alive, 2D region label: Centroid and Later eliminated paint New Jersey for the Jets; Earlier eliminated paints it for the Giants. Expanded off is 63 regions. The default 3D camera is East–West 60, North–South 93, Z 0, Rotate 354°, Tilt 38°, Zoom 1.2×, and City (`fillMode` `split`) is the default fill. Expanded on keeps that camera and adds Hawaii. Recenter restores 60 / 93 / 0 / 354° / 38° / 1.2×. Season preserve, colors, and logo style were left as they were.
 
 ## Files changed
 
 `test/claim-rule.test.js` locks the contract: the bundle must pass `claimRule` into `cl()` / `claimRegion`, and drop Hawaii only when expanded territory is off.
 
+## Logo files
+
+`logos/{sport}/{abbr}/{ABBR}-{SPORT}-{start}-{end|pres}.png`
+
+`catalog/season_lookup.json` maps sport + abbr + season-end year to that filename. `catalog/season_lookup.js` assigns that table before the map starts, and `resolveLogoUrl` reads it. A missing row falls back to `./logos/{SPORT}{year}/{abbr}.png`.
+
 ## How to verify locally
 
 Serve this folder over HTTP. Do not use the GitHub Pages URL.
 
-1. NFL, season 2015, rewind so every club is still alive. State fill, not City.
+1. NFL, season 2015, rewind so every club is still alive. Switch the fill to State/Territory. City is the default.
 2. New Jersey: Centroid and Later eliminated are the Jets. Earlier eliminated is the Giants.
 3. Expanded territory off: the old CONUS + Canada + clipped Alaska frame. Hawaii is not drawn.
 4. Expanded territory on: Hawaii is in the scene. The camera numbers do not change.
-5. Frame expanded includes Hawaii. Recenter restores the old frame.
+5. Frame expanded includes Hawaii. Recenter restores East–West 60, North–South 93, Z 0, Rotate 354°, Tilt 38°, Zoom 1.2×.

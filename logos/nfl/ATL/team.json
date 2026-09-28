@@ -1,0 +1,66 @@
+{
+  "abbr": "ATL",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 173,
+      "name": "Atlanta Falcons"
+    }
+  ],
+  "logos": [
+    {
+      "file": "ATL-NFL-1966-1988.png",
+      "start": 1966,
+      "end": 1988,
+      "title": "Atlanta Falcons Primary Logo (1966 - 1988)",
+      "source_team_id": 173,
+      "source_team_name": "Atlanta Falcons",
+      "view_url": "https://www.sportslogos.net/logos/view/301/Atlanta-Falcons-Logo/1966/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/173/thumbs/301.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/173/full/301.png",
+      "sha256": "92ceb35d53799ee50e4ee6d4ed5714a3291e9705a4e86fa91753e5940a28c288",
+      "bytes": 17237,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6607,
+      "width": 675,
+      "height": 900
+    },
+    {
+      "file": "ATL-NFL-1989-2002.png",
+      "start": 1989,
+      "end": 2002,
+      "title": "Atlanta Falcons Primary Logo (1989 - 2002)",
+      "source_team_id": 173,
+      "source_team_name": "Atlanta Falcons",
+      "view_url": "https://www.sportslogos.net/logos/view/298/Atlanta-Falcons-Logo/1989/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/173/thumbs/298.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/173/full/298.gif",
+      "sha256": "283a998c5a8e7b2caea97b54cc1787bbd8fa90ceab1994f6b2aa5e9c18f64f0f",
+      "bytes": 15125,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0001,
+      "width": 409,
+      "height": 545
+    },
+    {
+      "file": "ATL-NFL-2003-pres.png",
+      "start": 2003,
+      "end": null,
+      "title": "Atlanta Falcons Primary Logo (2003 - Pres)",
+      "source_team_id": 173,
+      "source_team_name": "Atlanta Falcons",
+      "view_url": "https://www.sportslogos.net/logos/view/299/Atlanta-Falcons-Logo/2003/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/173/thumbs/299.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/173/full/299.png",
+      "sha256": "1112f155d6306dd580c009efee0aa4641cc93998d60e0289cac29fc0d61657bb",
+      "bytes": 99033,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5512,
+      "width": 730,
+      "height": 695
+    }
+  ]
+}

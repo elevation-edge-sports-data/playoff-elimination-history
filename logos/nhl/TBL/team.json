@@ -1,0 +1,84 @@
+{
+  "abbr": "TBL",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 27,
+      "name": "Tampa Bay Lightning"
+    }
+  ],
+  "logos": [
+    {
+      "file": "TBL-NHL-1993-2001.png",
+      "start": 1993,
+      "end": 2001,
+      "title": "Tampa Bay Lightning Primary Logo (1993 - 2001)",
+      "source_team_id": 27,
+      "source_team_name": "Tampa Bay Lightning",
+      "view_url": "https://www.sportslogos.net/logos/view/ve7oj40hakrfpe6a5ju8fr3p4/Tampa-Bay-Lightning-Logo/1993/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/27/thumbs/ve7oj40hakrfpe6a5ju8fr3p4.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/27/full/ve7oj40hakrfpe6a5ju8fr3p4.png",
+      "sha256": "dc66128d89424799e7dbf703eb650f83c04a632e631e5e1cb9eb2ddea1c8e7eb",
+      "bytes": 88615,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2068,
+      "width": 751,
+      "height": 738
+    },
+    {
+      "file": "TBL-NHL-2002-2007.png",
+      "start": 2002,
+      "end": 2007,
+      "title": "Tampa Bay Lightning Primary Logo (2002 - 2007)",
+      "source_team_id": 27,
+      "source_team_name": "Tampa Bay Lightning",
+      "view_url": "https://www.sportslogos.net/logos/view/uulllstj3jvqtwx6ie6kbnzoh/Tampa-Bay-Lightning-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/27/thumbs/uulllstj3jvqtwx6ie6kbnzoh.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/27/full/uulllstj3jvqtwx6ie6kbnzoh.png",
+      "sha256": "a83718981d1b499351d5a40a27896ea95facb3118e4238cbe9ae9bd0b70cbe9c",
+      "bytes": 85401,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2383,
+      "width": 743,
+      "height": 751
+    },
+    {
+      "file": "TBL-NHL-2008-2011.png",
+      "start": 2008,
+      "end": 2011,
+      "title": "Tampa Bay Lightning Primary Logo (2008 - 2011)",
+      "source_team_id": 27,
+      "source_team_name": "Tampa Bay Lightning",
+      "view_url": "https://www.sportslogos.net/logos/view/2uir3bokojm47gzgsigrgrje7/Tampa-Bay-Lightning-Logo/2008/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/27/thumbs/2uir3bokojm47gzgsigrgrje7.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/27/full/2uir3bokojm47gzgsigrgrje7.png",
+      "sha256": "cc14f5ce2eccffca73c389aebcd1391925c5af1edf8312198f611bf0c0e802f0",
+      "bytes": 67490,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1358,
+      "width": 751,
+      "height": 726
+    },
+    {
+      "file": "TBL-NHL-2012-pres.png",
+      "start": 2012,
+      "end": null,
+      "title": "Tampa Bay Lightning Primary Logo (2012 - Pres)",
+      "source_team_id": 27,
+      "source_team_name": "Tampa Bay Lightning",
+      "view_url": "https://www.sportslogos.net/logos/view/97hhvk8e5if0riesnex30etgz/Tampa-Bay-Lightning-Logo/2012/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/27/thumbs/97hhvk8e5if0riesnex30etgz.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/27/full/97hhvk8e5if0riesnex30etgz.png",
+      "sha256": "0591dbe444b7613230e244b5a16815a59667f466a78cd2f8295a243b4734b69e",
+      "bytes": 30593,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5349,
+      "width": 685,
+      "height": 640
+    }
+  ]
+}

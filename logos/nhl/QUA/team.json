@@ -1,0 +1,30 @@
+{
+  "abbr": "QUA",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 48,
+      "name": "Philadelphia Quakers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "QUA-NHL-1931-1931.png",
+      "start": 1931,
+      "end": 1931,
+      "title": "Philadelphia Quakers Primary Logo (1931 - 1931)",
+      "source_team_id": 48,
+      "source_team_name": "Philadelphia Quakers",
+      "view_url": "https://www.sportslogos.net/logos/view/hvegege8x6kshi5e0e7fk5k3j/Philadelphia-Quakers-Logo/1931/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/48/thumbs/hvegege8x6kshi5e0e7fk5k3j.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/48/full/hvegege8x6kshi5e0e7fk5k3j.png",
+      "sha256": "388b852f2f491677d0471615f9772bfdd44c8df01c50d8d1b0ff69f1db504240",
+      "bytes": 77424,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7731,
+      "width": 905,
+      "height": 855
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "abbr": "ATL",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 2,
+      "name": "Atlanta Thrashers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "ATL-NHL-2000-2011.png",
+      "start": 2000,
+      "end": 2011,
+      "title": "Atlanta Thrashers Primary Logo (2000 - 2011)",
+      "source_team_id": 2,
+      "source_team_name": "Atlanta Thrashers",
+      "view_url": "https://www.sportslogos.net/logos/view/17/Atlanta-Thrashers-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/2/thumbs/17.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/2/full/17.png",
+      "sha256": "e08d69974a852d0f990f6ada248d2b67cd1f2aa6b5f1f9ca399a82d81b556074",
+      "bytes": 64025,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 751,
+      "height": 634
+    }
+  ]
+}

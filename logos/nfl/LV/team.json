@@ -1,0 +1,30 @@
+{
+  "abbr": "LV",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 6708,
+      "name": "Las Vegas Raiders"
+    }
+  ],
+  "logos": [
+    {
+      "file": "LV-NFL-2020-pres.png",
+      "start": 2020,
+      "end": null,
+      "title": "Las Vegas Raiders Primary Logo (2020 - Pres)",
+      "source_team_id": 6708,
+      "source_team_name": "Las Vegas Raiders",
+      "view_url": "https://www.sportslogos.net/logos/view/670885212020/Las-Vegas-Raiders-Logo/2020/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/6708/thumbs/670885212020.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/6708/full/8521_las_vegas_raiders-primary-20201.png",
+      "sha256": "e895f9f9bce16bcaa29a11d862171b9431ecd25087008fd97504b6c577a70cc2",
+      "bytes": 65541,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5353,
+      "width": 855,
+      "height": 905
+    }
+  ]
+}

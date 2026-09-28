@@ -1,0 +1,66 @@
+{
+  "abbr": "PHI",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 167,
+      "name": "Philadelphia Eagles"
+    }
+  ],
+  "logos": [
+    {
+      "file": "PHI-NFL-1948-1988.png",
+      "start": 1948,
+      "end": 1988,
+      "title": "Philadelphia Eagles Primary Logo (1948 - 1988)",
+      "source_team_id": 167,
+      "source_team_name": "Philadelphia Eagles",
+      "view_url": "https://www.sportslogos.net/logos/view/uzhay2wfh9tu4gkdlrq1/Philadelphia-Eagles-Logo/1948/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/167/thumbs/uzhay2wfh9tu4gkdlrq1.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/167/full/uzhay2wfh9tu4gkdlrq1.png",
+      "sha256": "0bd3c1394ef2eb72ce43a35ddd3ed0e05c3490696189fcd950ecb1ed399eee90",
+      "bytes": 10152,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7178,
+      "width": 786,
+      "height": 447
+    },
+    {
+      "file": "PHI-NFL-1989-1995.png",
+      "start": 1989,
+      "end": 1995,
+      "title": "Philadelphia Eagles Primary Logo (1989 - 1995)",
+      "source_team_id": 167,
+      "source_team_name": "Philadelphia Eagles",
+      "view_url": "https://www.sportslogos.net/logos/view/961/Philadelphia-Eagles-Logo/1989/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/167/thumbs/961.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/167/full/961.gif",
+      "sha256": "43e38078e8d13ff9e34698c727a702e2ec6a2ffba3e3771de19daf0d4cbf7f70",
+      "bytes": 16110,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6769,
+      "width": 830,
+      "height": 300
+    },
+    {
+      "file": "PHI-NFL-1996-pres.png",
+      "start": 1996,
+      "end": null,
+      "title": "Philadelphia Eagles Primary Logo (1996 - Pres)",
+      "source_team_id": 167,
+      "source_team_name": "Philadelphia Eagles",
+      "view_url": "https://www.sportslogos.net/logos/view/960/Philadelphia-Eagles-Logo/1996/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/167/thumbs/960.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/167/full/960.png",
+      "sha256": "78b72332a814e1e00a950c9b44ca25ff831cdc81584faa732f34d98d5e8b3db8",
+      "bytes": 52654,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5378,
+      "width": 900,
+      "height": 620
+    }
+  ]
+}

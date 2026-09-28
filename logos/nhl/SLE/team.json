@@ -1,0 +1,30 @@
+{
+  "abbr": "SLE",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 46,
+      "name": "St. Louis Eagles"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SLE-NHL-1935-1935.png",
+      "start": 1935,
+      "end": 1935,
+      "title": "St. Louis Eagles Primary Logo (1935 - 1935)",
+      "source_team_id": 46,
+      "source_team_name": "St. Louis Eagles",
+      "view_url": "https://www.sportslogos.net/logos/view/fghii3ec1mopa4aqvglcl7m0j/St-Louis-Eagles-Logo/1935/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/46/thumbs/fghii3ec1mopa4aqvglcl7m0j.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/46/full/fghii3ec1mopa4aqvglcl7m0j.png",
+      "sha256": "8564cdc40a6720fd54e400034b4b08410eed3a0e038f0a27bedf12743a5f85d1",
+      "bytes": 292470,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4263,
+      "width": 905,
+      "height": 895
+    }
+  ]
+}

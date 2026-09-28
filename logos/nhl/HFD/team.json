@@ -1,0 +1,66 @@
+{
+  "abbr": "HFD",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 32,
+      "name": "Hartford Whalers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "HFD-NHL-1973-1979.png",
+      "start": 1973,
+      "end": 1979,
+      "title": "New England Whalers Primary Logo (1973 - 1979)",
+      "source_team_id": 32,
+      "source_team_name": "Hartford Whalers",
+      "view_url": "https://www.sportslogos.net/logos/view/ny6jh5ebeegavpttesj7qp9hv/New-England-Whalers-Logo/1973/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/12/350/thumbs/ny6jh5ebeegavpttesj7qp9hv.gif",
+      "download_url": "https://content.sportslogos.net/logos/12/350/full/ny6jh5ebeegavpttesj7qp9hv.png",
+      "sha256": "88869fd20909412cd9a422ca6525829a9900c023749d41ac4ec2cfac1d671421",
+      "bytes": 131333,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2393,
+      "width": 750,
+      "height": 750
+    },
+    {
+      "file": "HFD-NHL-1980-1992.png",
+      "start": 1980,
+      "end": 1992,
+      "title": "Hartford Whalers Primary Logo (1980 - 1992)",
+      "source_team_id": 32,
+      "source_team_name": "Hartford Whalers",
+      "view_url": "https://www.sportslogos.net/logos/view/9zt534ipbfprlfs2vsqfugw41/Hartford-Whalers-Logo/1980/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/32/thumbs/9zt534ipbfprlfs2vsqfugw41.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/32/full/9zt534ipbfprlfs2vsqfugw41.png",
+      "sha256": "9fadda64fd1cbbe9fba59919f866b3acc515e30c27f4846a4ab87a3fd1acd9e9",
+      "bytes": 26163,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3242,
+      "width": 1001,
+      "height": 984
+    },
+    {
+      "file": "HFD-NHL-1993-1997.png",
+      "start": 1993,
+      "end": 1997,
+      "title": "Hartford Whalers Primary Logo (1993 - 1997)",
+      "source_team_id": 32,
+      "source_team_name": "Hartford Whalers",
+      "view_url": "https://www.sportslogos.net/logos/view/clzty1tgf8glzas62fq6fyphr/Hartford-Whalers-Logo/1993/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/32/thumbs/clzty1tgf8glzas62fq6fyphr.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/32/full/clzty1tgf8glzas62fq6fyphr.png",
+      "sha256": "92330bed9b9417d7d70952eba3e7416b44a65808a6db6399a623a5d3fe1e6a44",
+      "bytes": 99887,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1354,
+      "width": 662,
+      "height": 630
+    }
+  ]
+}

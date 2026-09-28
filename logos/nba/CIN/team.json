@@ -1,0 +1,48 @@
+{
+  "abbr": "CIN",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 247,
+      "name": "Cincinnati Royals"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CIN-NBA-1958-1971.png",
+      "start": 1958,
+      "end": 1971,
+      "title": "Cincinnati Royals Primary Logo (1958 - 1971)",
+      "source_team_id": 247,
+      "source_team_name": "Cincinnati Royals",
+      "view_url": "https://www.sportslogos.net/logos/view/5379/Cincinnati-Royals-Logo/1958/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/247/thumbs/5379.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/247/full/5379.png",
+      "sha256": "cb7fa46eea847f7b92fa61cdf90d113994b38916fe1646071b87a7325e858874",
+      "bytes": 95791,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0001,
+      "width": 403,
+      "height": 571
+    },
+    {
+      "file": "CIN-NBA-1972-1972.png",
+      "start": 1972,
+      "end": 1972,
+      "title": "Cincinnati Royals Primary Logo (1972 - 1972)",
+      "source_team_id": 247,
+      "source_team_name": "Cincinnati Royals",
+      "view_url": "https://www.sportslogos.net/logos/view/5380/Cincinnati-Royals-Logo/1972/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/247/thumbs/5380.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/247/full/5380.png",
+      "sha256": "bba021bbee9108e604b66068cfe5dd3635668fe207bbcc0bbd876c1e3c8e1467",
+      "bytes": 153068,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 645,
+      "height": 900
+    }
+  ]
+}

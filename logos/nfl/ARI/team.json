@@ -1,0 +1,92 @@
+{
+  "abbr": "ARI",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 187,
+      "name": "St. Louis Cardinals"
+    },
+    {
+      "id": 923,
+      "name": "Phoenix Cardinals"
+    },
+    {
+      "id": 177,
+      "name": "Arizona Cardinals"
+    }
+  ],
+  "logos": [
+    {
+      "file": "ARI-NFL-1962-1969.png",
+      "start": 1962,
+      "end": 1969,
+      "title": "St. Louis Cardinals Primary Logo (1962 - 1969)",
+      "source_team_id": 187,
+      "source_team_name": "St. Louis Cardinals",
+      "view_url": "https://www.sportslogos.net/logos/view/1036/St-Louis-Cardinals-Logo/1962/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/187/thumbs/1036.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/187/full/1036.gif",
+      "sha256": "9d75faa3c6cf0c0a9362197ff8fa283c16d2b85238693e36e89a1c666d106847",
+      "bytes": 185538,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5809,
+      "width": 605,
+      "height": 576
+    },
+    {
+      "file": "ARI-NFL-1970-1987.png",
+      "start": 1970,
+      "end": 1987,
+      "title": "St. Louis Cardinals Primary Logo (1970 - 1987)",
+      "source_team_id": 187,
+      "source_team_name": "St. Louis Cardinals",
+      "view_url": "https://www.sportslogos.net/logos/view/1038/St-Louis-Cardinals-Logo/1970/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/187/thumbs/1038.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/187/full/1038.gif",
+      "sha256": "22b9d1a35524e490034774b5f8233c15c5d19d165f6876fddc6fae6b97333340",
+      "bytes": 10604,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 428,
+      "height": 307
+    },
+    {
+      "file": "ARI-NFL-1988-2004.png",
+      "start": 1988,
+      "end": 2004,
+      "title": "Phoenix/Arizona Cardinals Primary Logo (1988 - 2004)",
+      "source_team_id": 923,
+      "source_team_name": "Phoenix Cardinals",
+      "view_url": "https://www.sportslogos.net/logos/view/290/PhoenixArizona-Cardinals-Logo/1988/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/177/thumbs/290.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/177/full/290.png",
+      "sha256": "002a2d1e9138ab9c004a5750b1f9f14235af5f55c4d691b392fc4450d8ba3012",
+      "bytes": 26012,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5467,
+      "width": 790,
+      "height": 585
+    },
+    {
+      "file": "ARI-NFL-2005-pres.png",
+      "start": 2005,
+      "end": null,
+      "title": "Arizona Cardinals Primary Logo (2005 - Pres)",
+      "source_team_id": 923,
+      "source_team_name": "Phoenix Cardinals",
+      "view_url": "https://www.sportslogos.net/logos/view/kwth8f1cfa2sch5xhjjfaof90/Arizona-Cardinals-Logo/2005/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/177/thumbs/kwth8f1cfa2sch5xhjjfaof90.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/177/full/kwth8f1cfa2sch5xhjjfaof90.png",
+      "sha256": "cff3a6352e65f5d3a00ec7a427cfca4eb97325be70cdf959e10dace996330a82",
+      "bytes": 34133,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5368,
+      "width": 850,
+      "height": 765
+    }
+  ]
+}

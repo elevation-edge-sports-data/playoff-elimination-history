@@ -1,0 +1,48 @@
+{
+  "abbr": "STL",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 243,
+      "name": "St. Louis Hawks"
+    }
+  ],
+  "logos": [
+    {
+      "file": "STL-NBA-1956-1957.png",
+      "start": 1956,
+      "end": 1957,
+      "title": "St. Louis Hawks Primary Logo (1956 - 1957)",
+      "source_team_id": 243,
+      "source_team_name": "St. Louis Hawks",
+      "view_url": "https://www.sportslogos.net/logos/view/5660/St-Louis-Hawks-Logo/1956/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/243/thumbs/5660.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/243/full/5660.gif",
+      "sha256": "29ef6fab5f32f65c2541382775c9c4ba045fe9d667881ea6d69e7fc103bc470c",
+      "bytes": 29119,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 555,
+      "height": 300
+    },
+    {
+      "file": "STL-NBA-1958-1968.png",
+      "start": 1958,
+      "end": 1968,
+      "title": "St. Louis Hawks Primary Logo (1958 - 1968)",
+      "source_team_id": 243,
+      "source_team_name": "St. Louis Hawks",
+      "view_url": "https://www.sportslogos.net/logos/view/lbr7pmgzcio7uqdwkwxch8l30/St-Louis-Hawks-Logo/1958/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/243/thumbs/lbr7pmgzcio7uqdwkwxch8l30.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/243/full/lbr7pmgzcio7uqdwkwxch8l30.gif",
+      "sha256": "9a08b7cddbaff7862567f5145db5bb5c3b49eff75cdeecb44451fbbb0e3647cc",
+      "bytes": 48366,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 751,
+      "height": 712
+    }
+  ]
+}

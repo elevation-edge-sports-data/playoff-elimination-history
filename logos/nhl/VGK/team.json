@@ -1,0 +1,30 @@
+{
+  "abbr": "VGK",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 6114,
+      "name": "Vegas Golden Knights"
+    }
+  ],
+  "logos": [
+    {
+      "file": "VGK-NHL-2018-pres.png",
+      "start": 2018,
+      "end": null,
+      "title": "Vegas Golden Knights Primary Logo (2018 - Pres)",
+      "source_team_id": 6114,
+      "source_team_name": "Vegas Golden Knights",
+      "view_url": "https://www.sportslogos.net/logos/view/611426842018/Vegas-Golden-Knights-Logo/2018/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/6114/thumbs/611426842018.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/6114/full/vegas_golden_knights_logo_primary_20185183.png",
+      "sha256": "0dd989382f26afcafeab74baa3e0306dcce072de5b53026a634bc379b0297d28",
+      "bytes": 5682,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6098,
+      "width": 670,
+      "height": 905
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "abbr": "OTT",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 21,
+      "name": "Ottawa Senators"
+    }
+  ],
+  "logos": [
+    {
+      "file": "OTT-NHL-1993-1997.png",
+      "start": 1993,
+      "end": 1997,
+      "title": "Ottawa Senators Primary Logo (1993 - 1997)",
+      "source_team_id": 21,
+      "source_team_name": "Ottawa Senators",
+      "view_url": "https://www.sportslogos.net/logos/view/6559/Ottawa-Senators-Logo/1993/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/21/thumbs/6559.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/21/full/6559.png",
+      "sha256": "dfc37c5647d3b1ffffab58d1a6be199856e9c1418f8f7b3754b8788b86e4a6b8",
+      "bytes": 196761,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4736,
+      "width": 750,
+      "height": 610
+    },
+    {
+      "file": "OTT-NHL-1998-2007.png",
+      "start": 1998,
+      "end": 2007,
+      "title": "Ottawa Senators Primary Logo (1998 - 2007)",
+      "source_team_id": 21,
+      "source_team_name": "Ottawa Senators",
+      "view_url": "https://www.sportslogos.net/logos/view/152/Ottawa-Senators-Logo/1998/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/21/thumbs/152.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/21/full/152.png",
+      "sha256": "c6e9dcb57c371da1baba6b602594fea1c953be4349df876e9d95d1888b874ffc",
+      "bytes": 192576,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4541,
+      "width": 750,
+      "height": 610
+    },
+    {
+      "file": "OTT-NHL-2008-2020.png",
+      "start": 2008,
+      "end": 2020,
+      "title": "Ottawa Senators Primary Logo (2008 - 2020)",
+      "source_team_id": 21,
+      "source_team_name": "Ottawa Senators",
+      "view_url": "https://www.sportslogos.net/logos/view/2bkf2l3xyxi5p0cavbj8/Ottawa-Senators-Logo/2008/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/21/thumbs/2bkf2l3xyxi5p0cavbj8.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/21/full/2bkf2l3xyxi5p0cavbj8.png",
+      "sha256": "6ed67fb567cbc4210246697ceef5a6d312165060d71831d5aa99798ba4ef1315",
+      "bytes": 98636,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4515,
+      "width": 600,
+      "height": 710
+    },
+    {
+      "file": "OTT-NHL-2021-pres.png",
+      "start": 2021,
+      "end": null,
+      "title": "Ottawa Senators Primary Logo (2021 - Pres)",
+      "source_team_id": 21,
+      "source_team_name": "Ottawa Senators",
+      "view_url": "https://www.sportslogos.net/logos/view/2111292021/Ottawa-Senators-Logo/2021/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/21/thumbs/2111292021.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/21/full/1129_ottawa_senators-primary-2021.png",
+      "sha256": "a34311a12a63889a990ca194cff0f62ef909fc9866df423067c025acf7b913c1",
+      "bytes": 10049,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5201,
+      "width": 905,
+      "height": 730
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "abbr": "MIN",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 15,
+      "name": "Minnesota Wild"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MIN-NHL-2001-2013.png",
+      "start": 2001,
+      "end": 2013,
+      "title": "Minnesota Wild Primary Logo (2001 - 2013)",
+      "source_team_id": 15,
+      "source_team_name": "Minnesota Wild",
+      "view_url": "https://www.sportslogos.net/logos/view/0kcehji928suy4ckk1pdo8s7l/Minnesota-Wild-Logo/2001/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/15/thumbs/0kcehji928suy4ckk1pdo8s7l.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/15/full/0kcehji928suy4ckk1pdo8s7l.png",
+      "sha256": "029014dba2b97dc6e84de6293c33bb1804036492d53f800781564e278b86969b",
+      "bytes": 71333,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5509,
+      "width": 955,
+      "height": 624
+    },
+    {
+      "file": "MIN-NHL-2014-pres.png",
+      "start": 2014,
+      "end": null,
+      "title": "Minnesota Wild Primary Logo (2014 - Pres)",
+      "source_team_id": 15,
+      "source_team_name": "Minnesota Wild",
+      "view_url": "https://www.sportslogos.net/logos/view/1588102014/Minnesota-Wild-Logo/2014/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/15/thumbs/1588102014.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/15/full/8810_minnesota_wild-primary-2014.png",
+      "sha256": "2a0196305eb4b89beef09154dc4ca18423907a5838c9f489e40b5e79412794c5",
+      "bytes": 7366,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4782,
+      "width": 1126,
+      "height": 735
+    }
+  ]
+}

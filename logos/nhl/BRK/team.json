@@ -1,0 +1,102 @@
+{
+  "abbr": "BRK",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 998,
+      "name": "Brooklyn Americans"
+    }
+  ],
+  "logos": [
+    {
+      "file": "BRK-NHL-1926-1933.png",
+      "start": 1926,
+      "end": 1933,
+      "title": "New York Americans Primary Logo (1926 - 1933)",
+      "source_team_id": 998,
+      "source_team_name": "Brooklyn Americans",
+      "view_url": "https://www.sportslogos.net/logos/view/4488091926/New-York-Americans-Logo/1926/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/44/thumbs/4488091926.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/44/full/8809_new_york_americans-primary-1926.png",
+      "sha256": "6c17155af4a93f76f4fc5a6b3053164fa42141b87281550b2a6de798e2a96e26",
+      "bytes": 7601,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5933,
+      "width": 735,
+      "height": 905
+    },
+    {
+      "file": "BRK-NHL-1934-1935.png",
+      "start": 1934,
+      "end": 1935,
+      "title": "New York Americans Primary Logo (1934 - 1935)",
+      "source_team_id": 998,
+      "source_team_name": "Brooklyn Americans",
+      "view_url": "https://www.sportslogos.net/logos/view/6999/New-York-Americans-Logo/1934/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/44/thumbs/6999.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/44/full/6999.gif",
+      "sha256": "a51c0a96222fff52a56f890c2b898bdde23ebc8155118597f4ceabef74013a97",
+      "bytes": 68626,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 389,
+      "height": 500
+    },
+    {
+      "file": "BRK-NHL-1936-1939.png",
+      "start": 1936,
+      "end": 1939,
+      "title": "New York Americans Primary Logo (1936 - 1939)",
+      "source_team_id": 998,
+      "source_team_name": "Brooklyn Americans",
+      "view_url": "https://www.sportslogos.net/logos/view/257/New-York-Americans-Logo/1936/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/44/thumbs/257.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/44/full/257.gif",
+      "sha256": "f43cb410bd3ad16767805ee7e18771cc089a7bdd5196b43845de96654657c05c",
+      "bytes": 12063,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5406,
+      "width": 545,
+      "height": 312
+    },
+    {
+      "file": "BRK-NHL-1940-1941.png",
+      "start": 1940,
+      "end": 1941,
+      "title": "New York Americans Primary Logo (1940 - 1941)",
+      "source_team_id": 998,
+      "source_team_name": "Brooklyn Americans",
+      "view_url": "https://www.sportslogos.net/logos/view/6836/New-York-Americans-Logo/1940/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/44/thumbs/6836.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/44/full/6836.gif",
+      "sha256": "e4577ffc62810ddadece76698faa851c5aed2580baba64b176e3862c9763bdcb",
+      "bytes": 47005,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 437,
+      "height": 300
+    },
+    {
+      "file": "BRK-NHL-1942-1942.png",
+      "start": 1942,
+      "end": 1942,
+      "title": "Brooklyn Americans Primary Logo (1942 - 1942)",
+      "source_team_id": 998,
+      "source_team_name": "Brooklyn Americans",
+      "view_url": "https://www.sportslogos.net/logos/view/99884101942/Brooklyn-Americans-Logo/1942/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/998/thumbs/99884101942.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/998/full/8410_brooklyn_americans-primary-1942.png",
+      "sha256": "dc6ecbbcdcbea02f0e46bf7fb039a219b6e516c257af1f2c0293918b795fee8f",
+      "bytes": 3627,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.8671,
+      "width": 905,
+      "height": 745
+    }
+  ]
+}

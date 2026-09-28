@@ -1,0 +1,84 @@
+{
+  "abbr": "TOR",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 227,
+      "name": "Toronto Raptors"
+    }
+  ],
+  "logos": [
+    {
+      "file": "TOR-NBA-1996-2008.png",
+      "start": 1996,
+      "end": 2008,
+      "title": "Toronto Raptors Primary Logo (1996 - 2008)",
+      "source_team_id": 227,
+      "source_team_name": "Toronto Raptors",
+      "view_url": "https://www.sportslogos.net/logos/view/kqmesaae0efg3atwugmeohxga/Toronto-Raptors-Logo/1996/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/227/thumbs/kqmesaae0efg3atwugmeohxga.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/227/full/kqmesaae0efg3atwugmeohxga.png",
+      "sha256": "4ccde1590a6a34d230c646fd6a169674d33188307cb70335fa172f171cbd99ab",
+      "bytes": 94622,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.374,
+      "width": 700,
+      "height": 610
+    },
+    {
+      "file": "TOR-NBA-2009-2015.png",
+      "start": 2009,
+      "end": 2015,
+      "title": "Toronto Raptors Primary Logo (2009 - 2015)",
+      "source_team_id": 227,
+      "source_team_name": "Toronto Raptors",
+      "view_url": "https://www.sportslogos.net/logos/view/yfypcwqog6qx8658sn5w65huh/Toronto-Raptors-Logo/2009/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/227/thumbs/yfypcwqog6qx8658sn5w65huh.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/227/full/yfypcwqog6qx8658sn5w65huh.png",
+      "sha256": "b19cc5098fd74ffdf4e5862cfde7b6a6ed1960971289b3c2d6ee8b3d61b85411",
+      "bytes": 175313,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3728,
+      "width": 955,
+      "height": 835
+    },
+    {
+      "file": "TOR-NBA-2016-2020.png",
+      "start": 2016,
+      "end": 2020,
+      "title": "Toronto Raptors Primary Logo (2016 - 2020)",
+      "source_team_id": 227,
+      "source_team_name": "Toronto Raptors",
+      "view_url": "https://www.sportslogos.net/logos/view/22745782016/Toronto-Raptors-Logo/2016/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/227/thumbs/toronto-raptors-logo-primary-2016-4003-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/227/full/toronto-raptors-logo-primary-2016-4003.png",
+      "sha256": "fc8d898abd4d9b601c2b952ab9d252d16fbcc7268e07c6e53f3dd25815b9c242",
+      "bytes": 124342,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 750
+    },
+    {
+      "file": "TOR-NBA-2021-pres.png",
+      "start": 2021,
+      "end": null,
+      "title": "Toronto Raptors Primary Logo (2021 - Pres)",
+      "source_team_id": 227,
+      "source_team_name": "Toronto Raptors",
+      "view_url": "https://www.sportslogos.net/logos/view/22770242021/Toronto-Raptors-Logo/2021/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/227/thumbs/22770242021.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/227/full/7024_toronto_raptors-primary-2021.png",
+      "sha256": "b1575c1d6df96993ab86f58a3c79880d2eab83d0ff43f4317292c565abf01ae9",
+      "bytes": 144122,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5285,
+      "width": 905,
+      "height": 905
+    }
+  ]
+}

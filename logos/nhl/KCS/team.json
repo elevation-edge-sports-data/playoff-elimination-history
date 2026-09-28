@@ -1,0 +1,30 @@
+{
+  "abbr": "KCS",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 35,
+      "name": "Kansas City Scouts"
+    }
+  ],
+  "logos": [
+    {
+      "file": "KCS-NHL-1975-1976.png",
+      "start": 1975,
+      "end": 1976,
+      "title": "Kansas City Scouts Primary Logo (1975 - 1976)",
+      "source_team_id": 35,
+      "source_team_name": "Kansas City Scouts",
+      "view_url": "https://www.sportslogos.net/logos/view/hyhk1nf6yl2e5aflm7sxagthl/Kansas-City-Scouts-Logo/1975/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/35/thumbs/kansas-city-scouts-logo-primary-1975-6971-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/35/full/kansas-city-scouts-logo-primary-1975-6971.png",
+      "sha256": "f6635550933bc4b9f9e3c1160cda6da7ac2d402f57b5b91637d004bbdcb76d87",
+      "bytes": 16761,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0494,
+      "width": 750,
+      "height": 750
+    }
+  ]
+}

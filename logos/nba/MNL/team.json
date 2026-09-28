@@ -1,0 +1,30 @@
+{
+  "abbr": "MNL",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 245,
+      "name": "Minneapolis Lakers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MNL-NBA-1948-1960.png",
+      "start": 1948,
+      "end": 1960,
+      "title": "Minneapolis Lakers Primary Logo (1948 - 1960)",
+      "source_team_id": 245,
+      "source_team_name": "Minneapolis Lakers",
+      "view_url": "https://www.sportslogos.net/logos/view/ehdguza6e3dn3h2ay4cbulnpn/Minneapolis-Lakers-Logo/1948/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/245/thumbs/ehdguza6e3dn3h2ay4cbulnpn.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/245/full/ehdguza6e3dn3h2ay4cbulnpn.gif",
+      "sha256": "1df2d6ef25001b839d1b70a45cf948202186302664be5cc596904a87cfad2a6f",
+      "bytes": 116205,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5749,
+      "width": 563,
+      "height": 589
+    }
+  ]
+}

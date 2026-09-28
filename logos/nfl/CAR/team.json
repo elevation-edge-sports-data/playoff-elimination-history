@@ -1,0 +1,48 @@
+{
+  "abbr": "CAR",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 174,
+      "name": "Carolina Panthers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CAR-NFL-1995-2011.png",
+      "start": 1995,
+      "end": 2011,
+      "title": "Carolina Panthers Primary Logo (1995 - 2011)",
+      "source_team_id": 174,
+      "source_team_name": "Carolina Panthers",
+      "view_url": "https://www.sportslogos.net/logos/view/346/Carolina-Panthers-Logo/1995/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/174/thumbs/346.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/174/full/346.gif",
+      "sha256": "962d40d6b4f4ce347c6a23f2e7fc1a6240f81e5c16a3b18277da941d79edbd9f",
+      "bytes": 14337,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0938,
+      "width": 560,
+      "height": 300
+    },
+    {
+      "file": "CAR-NFL-2012-pres.png",
+      "start": 2012,
+      "end": null,
+      "title": "Carolina Panthers Primary Logo (2012 - Pres)",
+      "source_team_id": 174,
+      "source_team_name": "Carolina Panthers",
+      "view_url": "https://www.sportslogos.net/logos/view/f1wggq2k8ql88fe33jzhw641u/Carolina-Panthers-Logo/2012/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/174/thumbs/f1wggq2k8ql88fe33jzhw641u.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/174/full/f1wggq2k8ql88fe33jzhw641u.png",
+      "sha256": "e2c61e42698e6298367d4eb1e7cf4011e573534dce786d8d564223221ee7b712",
+      "bytes": 42416,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4656,
+      "width": 1070,
+      "height": 581
+    }
+  ]
+}

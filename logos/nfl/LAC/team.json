@@ -1,0 +1,48 @@
+{
+  "abbr": "LAC",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 6446,
+      "name": "Los Angeles Chargers (2017-)"
+    }
+  ],
+  "logos": [
+    {
+      "file": "LAC-NFL-2017-2019.png",
+      "start": 2017,
+      "end": 2019,
+      "title": "Los Angeles Chargers Primary Logo (2017 - 2019)",
+      "source_team_id": 6446,
+      "source_team_name": "Los Angeles Chargers (2017-)",
+      "view_url": "https://www.sportslogos.net/logos/view/644624152017/Los-Angeles-Chargers-Logo/2017/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/6446/thumbs/644624152017.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/6446/full/los_angeles_chargers_logo_primary_20176120.png",
+      "sha256": "e14aacdec2151925717aa6754051b36d619c6bf5837cd40d3883cfb3c135c038",
+      "bytes": 6074,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.717,
+      "width": 905,
+      "height": 535
+    },
+    {
+      "file": "LAC-NFL-2020-pres.png",
+      "start": 2020,
+      "end": null,
+      "title": "Los Angeles Chargers Primary Logo (2020 - Pres)",
+      "source_team_id": 6446,
+      "source_team_name": "Los Angeles Chargers (2017-)",
+      "view_url": "https://www.sportslogos.net/logos/view/644616602020/Los-Angeles-Chargers-Logo/2020/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/6446/thumbs/644616602020.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/6446/full/los_angeles_chargers_logo_primary_20203514.png",
+      "sha256": "3f1a8c50c34bcceefb761b0b5dff43fb9c70038d31c38ec2971d77cc9b996cae",
+      "bytes": 3994,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7931,
+      "width": 905,
+      "height": 405
+    }
+  ]
+}

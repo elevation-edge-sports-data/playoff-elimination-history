@@ -1,0 +1,102 @@
+{
+  "abbr": "BAL",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 589,
+      "name": "Baltimore Bullets (1963-73)"
+    }
+  ],
+  "logos": [
+    {
+      "file": "BAL-NBA-1964-1969.png",
+      "start": 1964,
+      "end": 1969,
+      "title": "Baltimore Bullets Primary Logo (1964 - 1969)",
+      "source_team_id": 589,
+      "source_team_name": "Baltimore Bullets (1963-73)",
+      "view_url": "https://www.sportslogos.net/logos/view/5994/Baltimore-Bullets-Logo/1964/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/589/thumbs/5994.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/589/full/5994.gif",
+      "sha256": "03d67c3c39a764805ed58ade9bb3c6f5ca4107dd030fc21269fef1cbdbef826c",
+      "bytes": 66288,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1289,
+      "width": 415,
+      "height": 300
+    },
+    {
+      "file": "BAL-NBA-1969-1969.png",
+      "start": 1969,
+      "end": 1969,
+      "title": "Baltimore Bullets Primary Logo (1969 - 1969)",
+      "source_team_id": 589,
+      "source_team_name": "Baltimore Bullets (1963-73)",
+      "view_url": "https://www.sportslogos.net/logos/view/58925411969/Baltimore-Bullets-Logo/1969/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/589/thumbs/58925411969.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/589/full/2541_baltimore_bullets-primary-1969.png",
+      "sha256": "1f265a253cd83c67d0f75dc8f87a7b37db22064c4fd8096fb9d9355e13362059",
+      "bytes": 5048,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7707,
+      "width": 975,
+      "height": 399
+    },
+    {
+      "file": "BAL-NBA-1970-1971.png",
+      "start": 1970,
+      "end": 1971,
+      "title": "Baltimore Bullets Primary Logo (1970 - 1971)",
+      "source_team_id": 589,
+      "source_team_name": "Baltimore Bullets (1963-73)",
+      "view_url": "https://www.sportslogos.net/logos/view/58987951970/Baltimore-Bullets-Logo/1970/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/589/thumbs/58987951970.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/589/full/8795_baltimore_bullets-primary-1970.png",
+      "sha256": "d58103705999bb9230973cb7bf58591590086d19623bc85f63860a993cd405fd",
+      "bytes": 5120,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7843,
+      "width": 905,
+      "height": 370
+    },
+    {
+      "file": "BAL-NBA-1972-1972.png",
+      "start": 1972,
+      "end": 1972,
+      "title": "Baltimore Bullets Primary Logo (1972 - 1972)",
+      "source_team_id": 589,
+      "source_team_name": "Baltimore Bullets (1963-73)",
+      "view_url": "https://www.sportslogos.net/logos/view/5601/Baltimore-Bullets-Logo/1972/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/589/thumbs/5601.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/589/full/5601.png",
+      "sha256": "9e746b576c0b14fe60230f0b5e926fcb16ba86a089404c30661771f985869909",
+      "bytes": 85759,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 905,
+      "height": 370
+    },
+    {
+      "file": "BAL-NBA-1973-1973.png",
+      "start": 1973,
+      "end": 1973,
+      "title": "Baltimore Bullets Primary Logo (1973 - 1973)",
+      "source_team_id": 589,
+      "source_team_name": "Baltimore Bullets (1963-73)",
+      "view_url": "https://www.sportslogos.net/logos/view/58914071973/Baltimore-Bullets-Logo/1973/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/589/thumbs/58914071973.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/589/full/1407_baltimore_bullets-primary-1973.png",
+      "sha256": "d58103705999bb9230973cb7bf58591590086d19623bc85f63860a993cd405fd",
+      "bytes": 5120,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7843,
+      "width": 905,
+      "height": 370
+    }
+  ]
+}

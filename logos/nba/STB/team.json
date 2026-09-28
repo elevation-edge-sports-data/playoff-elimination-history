@@ -1,0 +1,30 @@
+{
+  "abbr": "STB",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 1125,
+      "name": "St. Louis Bombers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "STB-NBA-1947-1950.png",
+      "start": 1947,
+      "end": 1950,
+      "title": "St. Louis Bombers Primary Logo (1947 - 1950)",
+      "source_team_id": 1125,
+      "source_team_name": "St. Louis Bombers",
+      "view_url": "https://www.sportslogos.net/logos/view/5042/St-Louis-Bombers-Logo/1947/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/1125/thumbs/5042.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/1125/full/5042.gif",
+      "sha256": "e3f70e767808e35f87f6d7e2cb6267882113b24bf8fe7f77d9f3216a152b5dc6",
+      "bytes": 7710,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 984,
+      "height": 300
+    }
+  ]
+}

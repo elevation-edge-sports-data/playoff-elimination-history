@@ -1,0 +1,52 @@
+{
+  "abbr": "KCK",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 2688,
+      "name": "Kansas City-Omaha Kings"
+    },
+    {
+      "id": 248,
+      "name": "Kansas City Kings"
+    }
+  ],
+  "logos": [
+    {
+      "file": "KCK-NBA-1973-1975.png",
+      "start": 1973,
+      "end": 1975,
+      "title": "Kansas City-Omaha Kings Primary Logo (1973 - 1975)",
+      "source_team_id": 2688,
+      "source_team_name": "Kansas City-Omaha Kings",
+      "view_url": "https://www.sportslogos.net/logos/view/5382/Kansas-City-Omaha-Kings-Logo/1973/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/2688/thumbs/5382.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/2688/full/5382.png",
+      "sha256": "f35edaa953a5fa72a3152f5728251ba7fe89fcd20a7808051ed2f82fd97644cd",
+      "bytes": 85230,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 757,
+      "height": 808
+    },
+    {
+      "file": "KCK-NBA-1976-1985.png",
+      "start": 1976,
+      "end": 1985,
+      "title": "Kansas City Kings Primary Logo (1976 - 1985)",
+      "source_team_id": 2688,
+      "source_team_name": "Kansas City-Omaha Kings",
+      "view_url": "https://www.sportslogos.net/logos/view/5383/Kansas-City-Kings-Logo/1976/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/248/thumbs/5383.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/248/full/5383.png",
+      "sha256": "f38232ed8e8b3ed56254d2fb4007d0c8f372daab7b24e1564a1876830d701214",
+      "bytes": 62761,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 642,
+      "height": 796
+    }
+  ]
+}

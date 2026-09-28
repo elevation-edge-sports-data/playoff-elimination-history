@@ -1,0 +1,48 @@
+{
+  "abbr": "FTW",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 244,
+      "name": "Fort Wayne Pistons"
+    }
+  ],
+  "logos": [
+    {
+      "file": "FTW-NBA-1942-1948.png",
+      "start": 1942,
+      "end": 1948,
+      "title": "Fort Wayne Pistons Primary Logo (1942 - 1948)",
+      "source_team_id": 244,
+      "source_team_name": "Fort Wayne Pistons",
+      "view_url": "https://www.sportslogos.net/logos/view/4952/Fort-Wayne-Pistons-Logo/1942/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/244/thumbs/4952.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/244/full/4952.gif",
+      "sha256": "a75c6e95b5b088a9af7ce90ba8465d93354901306b17c3cefdee2d8322bcb15f",
+      "bytes": 50290,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 321,
+      "height": 383
+    },
+    {
+      "file": "FTW-NBA-1949-1957.png",
+      "start": 1949,
+      "end": 1957,
+      "title": "Fort Wayne Pistons Primary Logo (1949 - 1957)",
+      "source_team_id": 244,
+      "source_team_name": "Fort Wayne Pistons",
+      "view_url": "https://www.sportslogos.net/logos/view/4953/Fort-Wayne-Pistons-Logo/1949/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/244/thumbs/4953.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/244/full/4953.gif",
+      "sha256": "c597a679566b11dfdcadbc58c89a58f1c7076b50952f18965161c01a1c571ce3",
+      "bytes": 65356,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 402,
+      "height": 427
+    }
+  ]
+}

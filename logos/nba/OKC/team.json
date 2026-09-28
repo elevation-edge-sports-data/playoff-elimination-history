@@ -1,0 +1,30 @@
+{
+  "abbr": "OKC",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 2687,
+      "name": "Oklahoma City Thunder"
+    }
+  ],
+  "logos": [
+    {
+      "file": "OKC-NBA-2009-pres.png",
+      "start": 2009,
+      "end": null,
+      "title": "Oklahoma City Thunder Primary Logo (2009 - Pres)",
+      "source_team_id": 2687,
+      "source_team_name": "Oklahoma City Thunder",
+      "view_url": "https://www.sportslogos.net/logos/view/khmovcnezy06c3nm05ccn0oj2/Oklahoma-City-Thunder-Logo/2009/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/2687/thumbs/oklahoma-city-thunder-logo-primary-2009-9699-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/6/2687/full/oklahoma-city-thunder-logo-primary-2009-9699.png",
+      "sha256": "a565b998719c56af53d4215e49bb566c4bc433593cf80d71738b31bbc2e4f4d0",
+      "bytes": 139728,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 691
+    }
+  ]
+}

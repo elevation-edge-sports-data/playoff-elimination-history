@@ -1,0 +1,30 @@
+{
+  "abbr": "CHS",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 1120,
+      "name": "Chicago Stags"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CHS-NBA-1947-1950.png",
+      "start": 1947,
+      "end": 1950,
+      "title": "Chicago Stags Primary Logo (1947 - 1950)",
+      "source_team_id": 1120,
+      "source_team_name": "Chicago Stags",
+      "view_url": "https://www.sportslogos.net/logos/view/5044/Chicago-Stags-Logo/1947/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/1120/thumbs/5044.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/1120/full/5044.gif",
+      "sha256": "a71d1be966b485f38888ff980e5f182d2f2cbd4263e3379cec69cdb16dca341c",
+      "bytes": 45101,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 379,
+      "height": 409
+    }
+  ]
+}

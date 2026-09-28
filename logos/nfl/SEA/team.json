@@ -1,0 +1,84 @@
+{
+  "abbr": "SEA",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 180,
+      "name": "Seattle Seahawks"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SEA-NFL-1976-2001.png",
+      "start": 1976,
+      "end": 2001,
+      "title": "Seattle Seahawks Primary Logo (1976 - 2001)",
+      "source_team_id": 180,
+      "source_team_name": "Seattle Seahawks",
+      "view_url": "https://www.sportslogos.net/logos/view/995/Seattle-Seahawks-Logo/1976/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/180/thumbs/995.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/180/full/995.png",
+      "sha256": "6f9c6f9c11ab78952f4b5690312c15f74c6a043647061873d5c3a6832e8382f2",
+      "bytes": 37933,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3159,
+      "width": 585,
+      "height": 300
+    },
+    {
+      "file": "SEA-NFL-2002-2008.png",
+      "start": 2002,
+      "end": 2008,
+      "title": "Seattle Seahawks Primary Logo (2002 - 2008)",
+      "source_team_id": 180,
+      "source_team_name": "Seattle Seahawks",
+      "view_url": "https://www.sportslogos.net/logos/view/994/Seattle-Seahawks-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/180/thumbs/994.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/180/full/994.png",
+      "sha256": "dbd9eb964db06b1a0a4d7fcc2f3fabbe7198cef6b66a735c98b9275a53239569",
+      "bytes": 87123,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.418,
+      "width": 1274,
+      "height": 513
+    },
+    {
+      "file": "SEA-NFL-2009-2011.png",
+      "start": 2009,
+      "end": 2011,
+      "title": "Seattle Seahawks Primary Logo (2009 - 2011)",
+      "source_team_id": 180,
+      "source_team_name": "Seattle Seahawks",
+      "view_url": "https://www.sportslogos.net/logos/view/18038272009/Seattle-Seahawks-Logo/2009/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/180/thumbs/18038272009.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/180/full/seattle_seahawks_logo_primary_2009_sportslogosnet-3827.png",
+      "sha256": "53a53b53d101f1c4d91e5c2fd66306202edb8524daf7a49628f48da1c2cbfa7a",
+      "bytes": 5058,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6595,
+      "width": 905,
+      "height": 410
+    },
+    {
+      "file": "SEA-NFL-2012-pres.png",
+      "start": 2012,
+      "end": null,
+      "title": "Seattle Seahawks Primary Logo (2012 - Pres)",
+      "source_team_id": 180,
+      "source_team_name": "Seattle Seahawks",
+      "view_url": "https://www.sportslogos.net/logos/view/pfiobtreaq7j0pzvadktsc6jv/Seattle-Seahawks-Logo/2012/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/180/thumbs/pfiobtreaq7j0pzvadktsc6jv.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/180/full/pfiobtreaq7j0pzvadktsc6jv.png",
+      "sha256": "2a2b7afe0c34954b0a4d259b1d2213743e73a81c1c3f9c414d731056468fdd8f",
+      "bytes": 51153,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4148,
+      "width": 905,
+      "height": 365
+    }
+  ]
+}

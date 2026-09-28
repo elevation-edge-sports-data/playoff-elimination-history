@@ -1,0 +1,30 @@
+{
+  "abbr": "CLE",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 39,
+      "name": "Cleveland Barons"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CLE-NHL-1977-1978.png",
+      "start": 1977,
+      "end": 1978,
+      "title": "Cleveland Barons Primary Logo (1977 - 1978)",
+      "source_team_id": 39,
+      "source_team_name": "Cleveland Barons",
+      "view_url": "https://www.sportslogos.net/logos/view/6076/Cleveland-Barons-Logo/1977/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/39/thumbs/6076.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/39/full/6076.png",
+      "sha256": "c88228fc3526c3d06904c2bcb661274108b64f4542086bdf3f56e2382b200dcb",
+      "bytes": 164963,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4195,
+      "width": 560,
+      "height": 569
+    }
+  ]
+}

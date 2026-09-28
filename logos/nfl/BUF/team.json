@@ -1,0 +1,70 @@
+{
+  "abbr": "BUF",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 3059,
+      "name": "Buffalo Bills (AFL)"
+    },
+    {
+      "id": 149,
+      "name": "Buffalo Bills"
+    }
+  ],
+  "logos": [
+    {
+      "file": "BUF-NFL-1964-1969.png",
+      "start": 1964,
+      "end": 1969,
+      "title": "Buffalo Bills Primary Logo (1964 - 1969)",
+      "source_team_id": 3059,
+      "source_team_name": "Buffalo Bills (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/6397/Buffalo-Bills-Logo/1964/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/99/3059/thumbs/6397.gif",
+      "download_url": "https://content.sportslogos.net/logos/99/3059/full/6397.gif",
+      "sha256": "38a4a9209238a937e0af219bc753965ddeb958bd15e984bf1e8f5083923770f6",
+      "bytes": 91394,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 500,
+      "height": 300
+    },
+    {
+      "file": "BUF-NFL-1970-1973.png",
+      "start": 1970,
+      "end": 1973,
+      "title": "Buffalo Bills Primary Logo (1970 - 1973)",
+      "source_team_id": 3059,
+      "source_team_name": "Buffalo Bills (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/337/Buffalo-Bills-Logo/1970/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/149/thumbs/337.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/149/full/337.png",
+      "sha256": "5d909d0b3804f985b7328b9ea4fec0b599aea9f63b04c1b7ec3881476605759b",
+      "bytes": 20704,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4487,
+      "width": 901,
+      "height": 677
+    },
+    {
+      "file": "BUF-NFL-1974-pres.png",
+      "start": 1974,
+      "end": null,
+      "title": "Buffalo Bills Primary Logo (1974 - Pres)",
+      "source_team_id": 3059,
+      "source_team_name": "Buffalo Bills (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/n0fd1z6xmhigb0eej3323ebwq/Buffalo-Bills-Logo/1974/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/149/thumbs/n0fd1z6xmhigb0eej3323ebwq.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/149/full/n0fd1z6xmhigb0eej3323ebwq.png",
+      "sha256": "adda60c854a8ae3e0e83de5645471936fd0c92b6008637fa08d6c19ae1f8cf88",
+      "bytes": 61784,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5705,
+      "width": 905,
+      "height": 585
+    }
+  ]
+}

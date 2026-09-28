@@ -1,0 +1,84 @@
+{
+  "abbr": "DAL",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 10,
+      "name": "Dallas Stars"
+    }
+  ],
+  "logos": [
+    {
+      "file": "DAL-NHL-1994-1994.png",
+      "start": 1994,
+      "end": 1994,
+      "title": "Dallas Stars Primary Logo (1994 - 1994)",
+      "source_team_id": 10,
+      "source_team_name": "Dallas Stars",
+      "view_url": "https://www.sportslogos.net/logos/view/jfp4fwck6nkqi4ygxrp23foz2/Dallas-Stars-Logo/1994/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/10/thumbs/jfp4fwck6nkqi4ygxrp23foz2.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/10/full/jfp4fwck6nkqi4ygxrp23foz2.png",
+      "sha256": "d4c655423095bf891f0f55dda155178daa90409b58822bbf2fbaf38738086c45",
+      "bytes": 83062,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6025,
+      "width": 705,
+      "height": 450
+    },
+    {
+      "file": "DAL-NHL-1995-2013.png",
+      "start": 1995,
+      "end": 2013,
+      "title": "Dallas Stars Primary Logo (1995 - 2013)",
+      "source_team_id": 10,
+      "source_team_name": "Dallas Stars",
+      "view_url": "https://www.sportslogos.net/logos/view/oxahxcheae4mgu4wopqj9ydhy/Dallas-Stars-Logo/1995/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/10/thumbs/oxahxcheae4mgu4wopqj9ydhy.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/10/full/oxahxcheae4mgu4wopqj9ydhy.png",
+      "sha256": "ed9c170cf02239c1a1b520b88e6a2a41ab0388fa6d9a73ebbd4c337772ce8314",
+      "bytes": 82471,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6039,
+      "width": 705,
+      "height": 450
+    },
+    {
+      "file": "DAL-NHL-2014-2021.png",
+      "start": 2014,
+      "end": 2021,
+      "title": "Dallas Stars Primary Logo (2014 - 2021)",
+      "source_team_id": 10,
+      "source_team_name": "Dallas Stars",
+      "view_url": "https://www.sportslogos.net/logos/view/1079172014/Dallas-Stars-Logo/2014/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/10/thumbs/1079172014.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/10/full/dallas_stars_logo_primary_20149135.png",
+      "sha256": "1dcb4449a0687db0976503474495ddd425e77a6c2d3c57ddba0f0d4202e0e556",
+      "bytes": 7079,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7092,
+      "width": 905,
+      "height": 745
+    },
+    {
+      "file": "DAL-NHL-2022-pres.png",
+      "start": 2022,
+      "end": null,
+      "title": "Dallas Stars Primary Logo (2022 - Pres)",
+      "source_team_id": 10,
+      "source_team_name": "Dallas Stars",
+      "view_url": "https://www.sportslogos.net/logos/view/1043322022/Dallas-Stars-Logo/2022/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/10/thumbs/1043322022.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/10/full/dallas_stars_logo_primary_2022_sportslogosnet-4332.png",
+      "sha256": "fb62fda419fc0365fa73f3b78c4881ca7087491fc47e1dc6e30a7fe13c9b005e",
+      "bytes": 7073,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.7094,
+      "width": 905,
+      "height": 745
+    }
+  ]
+}

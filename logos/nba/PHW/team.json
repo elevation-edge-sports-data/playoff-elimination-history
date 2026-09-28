@@ -1,0 +1,48 @@
+{
+  "abbr": "PHW",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 249,
+      "name": "Philadelphia Warriors"
+    }
+  ],
+  "logos": [
+    {
+      "file": "PHW-NBA-1947-1951.png",
+      "start": 1947,
+      "end": 1951,
+      "title": "Philadelphia Warriors Primary Logo (1947 - 1951)",
+      "source_team_id": 249,
+      "source_team_name": "Philadelphia Warriors",
+      "view_url": "https://www.sportslogos.net/logos/view/5508/Philadelphia-Warriors-Logo/1947/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/249/thumbs/5508.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/249/full/5508.gif",
+      "sha256": "0d9da8f1c330229dccc68aff16a2a8a434000e720c81fb228031b83899dfe5bd",
+      "bytes": 49303,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 300,
+      "height": 418
+    },
+    {
+      "file": "PHW-NBA-1952-1962.png",
+      "start": 1952,
+      "end": 1962,
+      "title": "Philadelphia Warriors Primary Logo (1952 - 1962)",
+      "source_team_id": 249,
+      "source_team_name": "Philadelphia Warriors",
+      "view_url": "https://www.sportslogos.net/logos/view/5509/Philadelphia-Warriors-Logo/1952/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/249/thumbs/5509.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/249/full/5509.gif",
+      "sha256": "e8e679210f8d8286fa9c0e888a11785e056ff95beba73dfdf328757e36c7ba4c",
+      "bytes": 78026,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0098,
+      "width": 300,
+      "height": 325
+    }
+  ]
+}

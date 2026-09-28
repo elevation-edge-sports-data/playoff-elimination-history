@@ -1,0 +1,102 @@
+{
+  "abbr": "PHI",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 218,
+      "name": "Philadelphia 76ers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "PHI-NBA-1964-1977.png",
+      "start": 1964,
+      "end": 1977,
+      "title": "Philadelphia 76ers Primary Logo (1964 - 1977)",
+      "source_team_id": 218,
+      "source_team_name": "Philadelphia 76ers",
+      "view_url": "https://www.sportslogos.net/logos/view/fdcz2fc7f57i5f3ji8ifmf0mg/Philadelphia-76ers-Logo/1964/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/218/thumbs/fdcz2fc7f57i5f3ji8ifmf0mg.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/218/full/fdcz2fc7f57i5f3ji8ifmf0mg.gif",
+      "sha256": "f86d2fa060bda5103ae6d1d1216a7029ae75d65956e896309ad3444a0c16684f",
+      "bytes": 47947,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5999,
+      "width": 521,
+      "height": 683
+    },
+    {
+      "file": "PHI-NBA-1978-1997.png",
+      "start": 1978,
+      "end": 1997,
+      "title": "Philadelphia 76ers Primary Logo (1978 - 1997)",
+      "source_team_id": 218,
+      "source_team_name": "Philadelphia 76ers",
+      "view_url": "https://www.sportslogos.net/logos/view/b63l7nnxd3bl0cxemi3qahbbp/Philadelphia-76ers-Logo/1978/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/218/thumbs/b63l7nnxd3bl0cxemi3qahbbp.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/218/full/b63l7nnxd3bl0cxemi3qahbbp.gif",
+      "sha256": "db42e98eedcb8feb92130a38e4f48653d56afc96d84bfc0a7e1b21e983de331f",
+      "bytes": 56816,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3649,
+      "width": 700,
+      "height": 700
+    },
+    {
+      "file": "PHI-NBA-1998-2009.png",
+      "start": 1998,
+      "end": 2009,
+      "title": "Philadelphia 76ers Primary Logo (1998 - 2009)",
+      "source_team_id": 218,
+      "source_team_name": "Philadelphia 76ers",
+      "view_url": "https://www.sportslogos.net/logos/view/fge4lf9ridpgum631fb0gg9tt/Philadelphia-76ers-Logo/1998/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/218/thumbs/fge4lf9ridpgum631fb0gg9tt.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/218/full/fge4lf9ridpgum631fb0gg9tt.gif",
+      "sha256": "86cd630ecc47ec7ad99be8cb474b5ecd61ad7c174548ba3fefd95afd1d3ea1d0",
+      "bytes": 54456,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 700,
+      "height": 434
+    },
+    {
+      "file": "PHI-NBA-2010-2015.png",
+      "start": 2010,
+      "end": 2015,
+      "title": "Philadelphia 76ers Primary Logo (2010 - 2015)",
+      "source_team_id": 218,
+      "source_team_name": "Philadelphia 76ers",
+      "view_url": "https://www.sportslogos.net/logos/view/qlpk0etqwelv8artgc7tvqefu/Philadelphia-76ers-Logo/2010/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/218/thumbs/qlpk0etqwelv8artgc7tvqefu.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/218/full/qlpk0etqwelv8artgc7tvqefu.gif",
+      "sha256": "43f9d3ca1c894a927ba349b018b67775c13835da8d2fc3928009aa290aeea370",
+      "bytes": 99087,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0018,
+      "width": 620,
+      "height": 750
+    },
+    {
+      "file": "PHI-NBA-2016-pres.png",
+      "start": 2016,
+      "end": null,
+      "title": "Philadelphia 76ers Primary Logo (2016 - Pres)",
+      "source_team_id": 218,
+      "source_team_name": "Philadelphia 76ers",
+      "view_url": "https://www.sportslogos.net/logos/view/21870342016/Philadelphia-76ers-Logo/2016/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/218/thumbs/21870342016.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/218/full/7034_philadelphia_76ers-primary-2016.png",
+      "sha256": "220a19c1b99331bde4f550cd31cb79a6e91b29e60f7dacef6d8e91f4456efdd2",
+      "bytes": 67746,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5093,
+      "width": 750,
+      "height": 750
+    }
+  ]
+}

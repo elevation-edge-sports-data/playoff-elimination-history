@@ -1,0 +1,30 @@
+{
+  "abbr": "VAN",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 257,
+      "name": "Vancouver Grizzlies"
+    }
+  ],
+  "logos": [
+    {
+      "file": "VAN-NBA-1996-2001.png",
+      "start": 1996,
+      "end": 2001,
+      "title": "Vancouver Grizzlies Primary Logo (1996 - 2001)",
+      "source_team_id": 257,
+      "source_team_name": "Vancouver Grizzlies",
+      "view_url": "https://www.sportslogos.net/logos/view/7hc558rh9vls8j6fam4hly46n/Vancouver-Grizzlies-Logo/1996/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/257/thumbs/7hc558rh9vls8j6fam4hly46n.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/257/full/7hc558rh9vls8j6fam4hly46n.gif",
+      "sha256": "36d292a5fbf112c2b027295ba6d1f97055f49452b2134109ccf01554beb020a6",
+      "bytes": 155305,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2884,
+      "width": 729,
+      "height": 557
+    }
+  ]
+}

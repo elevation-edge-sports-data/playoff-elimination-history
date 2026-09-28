@@ -1,0 +1,48 @@
+{
+  "abbr": "QUE",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 33,
+      "name": "Quebec Nordiques"
+    }
+  ],
+  "logos": [
+    {
+      "file": "QUE-NHL-1973-1985.png",
+      "start": 1973,
+      "end": 1985,
+      "title": "Qu\u00e9bec Nordiques Primary Logo (1973 - 1985)",
+      "source_team_id": 33,
+      "source_team_name": "Quebec Nordiques",
+      "view_url": "https://www.sportslogos.net/logos/view/3363891980/Qu\u00e9bec-Nordiques-Logo/1973/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/33/thumbs/quebec-nordiques-logo-primary-1980-8115-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/33/full/quebec-nordiques-logo-primary-1980-8115.png",
+      "sha256": "2dc2af58b47dc667fbd395c2096de94ec7e549e90fe1e59f3d553fed1197fb53",
+      "bytes": 15431,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0215,
+      "width": 750,
+      "height": 750
+    },
+    {
+      "file": "QUE-NHL-1986-1995.png",
+      "start": 1986,
+      "end": 1995,
+      "title": "Qu\u00e9bec Nordiques Primary Logo (1986 - 1995)",
+      "source_team_id": 33,
+      "source_team_name": "Quebec Nordiques",
+      "view_url": "https://www.sportslogos.net/logos/view/270/Qu\u00e9bec-Nordiques-Logo/1986/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/33/thumbs/quebec-nordiques-logo-primary-1986-2111-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/33/full/quebec-nordiques-logo-primary-1986-2111.png",
+      "sha256": "4ffa3d9127e8da6211c7d75a4f66f5e5434358192cd87987af0a7bb4068616c6",
+      "bytes": 8344,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 490
+    }
+  ]
+}

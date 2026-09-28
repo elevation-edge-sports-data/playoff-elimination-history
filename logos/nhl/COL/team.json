@@ -1,0 +1,46 @@
+{
+  "abbr": "COL",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 8,
+      "name": "Colorado Avalanche"
+    }
+  ],
+  "logos": [
+    {
+      "file": "COL-NHL-1996-1999.png",
+      "start": 1996,
+      "end": 1999,
+      "title": "Colorado Avalanche Primary Logo (1996 - 1999)",
+      "source_team_id": 8,
+      "source_team_name": "Colorado Avalanche",
+      "view_url": "https://www.sportslogos.net/logos/view/1oivfh6muycjtg05q3e4e67j4/Colorado-Avalanche-Logo/1996/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/8/thumbs/colorado-avalanche-logo-primary-1996-6770-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/8/full/colorado-avalanche-logo-primary-1996-6770.png",
+      "sha256": "05cf0a394c85f4e7a555b48da0bca568da673928f897d9d028f2e24f457fbe4e",
+      "bytes": 191732,
+      "transparent": true,
+      "bg_removed": false,
+      "width": 750,
+      "height": 621
+    },
+    {
+      "file": "COL-NHL-2000-pres.png",
+      "start": 2000,
+      "end": null,
+      "title": "Colorado Avalanche Primary Logo (2000 - Pres)",
+      "source_team_id": 8,
+      "source_team_name": "Colorado Avalanche",
+      "view_url": "https://www.sportslogos.net/logos/view/64/Colorado-Avalanche-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/8/thumbs/colorado-avalanche-logo-primary-2000-9420-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/8/full/colorado-avalanche-logo-primary-2000-9420.png",
+      "sha256": "309a0765fd57871b4aa2d410c745124275cd00847dd0c720d5d437534c1f4583",
+      "bytes": 193425,
+      "transparent": true,
+      "bg_removed": false,
+      "width": 750,
+      "height": 621
+    }
+  ]
+}

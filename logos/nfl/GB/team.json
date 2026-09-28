@@ -1,0 +1,48 @@
+{
+  "abbr": "GB",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 171,
+      "name": "Green Bay Packers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "GB-NFL-1961-1979.png",
+      "start": 1961,
+      "end": 1979,
+      "title": "Green Bay Packers Primary Logo (1961 - 1979)",
+      "source_team_id": 171,
+      "source_team_name": "Green Bay Packers",
+      "view_url": "https://www.sportslogos.net/logos/view/560/Green-Bay-Packers-Logo/1961/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/171/thumbs/560.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/171/full/560.gif",
+      "sha256": "af3e1ab1889f18466924060e85e3d0dc54011283f4cc747b018e4812889a2a42",
+      "bytes": 9972,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0663,
+      "width": 545,
+      "height": 358
+    },
+    {
+      "file": "GB-NFL-1980-pres.png",
+      "start": 1980,
+      "end": null,
+      "title": "Green Bay Packers Primary Logo (1980 - Pres)",
+      "source_team_id": 171,
+      "source_team_name": "Green Bay Packers",
+      "view_url": "https://www.sportslogos.net/logos/view/dcy03myfhffbki5d7il3/Green-Bay-Packers-Logo/1980/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/171/thumbs/dcy03myfhffbki5d7il3.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/171/full/dcy03myfhffbki5d7il3.png",
+      "sha256": "3ade39cf74d09f46e3e6afcf390ac880902adefc1fbc536c7a5526d1fc8384fa",
+      "bytes": 73873,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2249,
+      "width": 905,
+      "height": 595
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "abbr": "MEM",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 231,
+      "name": "Memphis Grizzlies"
+    }
+  ],
+  "logos": [
+    {
+      "file": "MEM-NBA-2002-2004.png",
+      "start": 2002,
+      "end": 2004,
+      "title": "Memphis Grizzlies Primary Logo (2002 - 2004)",
+      "source_team_id": 231,
+      "source_team_name": "Memphis Grizzlies",
+      "view_url": "https://www.sportslogos.net/logos/view/efgmdqnx7x9vie7e1zkzecqv3/Memphis-Grizzlies-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/231/thumbs/efgmdqnx7x9vie7e1zkzecqv3.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/231/full/efgmdqnx7x9vie7e1zkzecqv3.png",
+      "sha256": "1449eb512d6cfd820607d6c41cc11b10b590ca4dbf9cc0403b57f15a40001025",
+      "bytes": 122308,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 900,
+      "height": 688
+    },
+    {
+      "file": "MEM-NBA-2005-2018.png",
+      "start": 2005,
+      "end": 2018,
+      "title": "Memphis Grizzlies Primary Logo (2005 - 2018)",
+      "source_team_id": 231,
+      "source_team_name": "Memphis Grizzlies",
+      "view_url": "https://www.sportslogos.net/logos/view/793/Memphis-Grizzlies-Logo/2005/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/231/thumbs/793.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/231/full/793.png",
+      "sha256": "5c389ef2ca842beb9025c489b4890e3575cf1af7eaa1e47f3263a59a3fd87d3b",
+      "bytes": 53872,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 724,
+      "height": 900
+    },
+    {
+      "file": "MEM-NBA-2019-pres.png",
+      "start": 2019,
+      "end": null,
+      "title": "Memphis Grizzlies Primary Logo (2019 - Pres)",
+      "source_team_id": 231,
+      "source_team_name": "Memphis Grizzlies",
+      "view_url": "https://www.sportslogos.net/logos/view/23143732019/Memphis-Grizzlies-Logo/2019/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/231/thumbs/23143732019.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/231/full/4373_memphis_grizzlies-primary-2019.png",
+      "sha256": "6c7808ab8bd738568a4213d4db981bb7b4ec78f6002b1cef9ae7f2e256700614",
+      "bytes": 54451,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6514,
+      "width": 746,
+      "height": 900
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "abbr": "WSH",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 30,
+      "name": "Washington Capitals"
+    }
+  ],
+  "logos": [
+    {
+      "file": "WSH-NHL-1975-1995.png",
+      "start": 1975,
+      "end": 1995,
+      "title": "Washington Capitals Primary Logo (1975 - 1995)",
+      "source_team_id": 30,
+      "source_team_name": "Washington Capitals",
+      "view_url": "https://www.sportslogos.net/logos/view/284/Washington-Capitals-Logo/1975/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/30/thumbs/284.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/30/full/284.png",
+      "sha256": "d570f0cd6f36d8bb502b40364bdc12e3b045fb496b8c569ee71fa19bdabf7a5a",
+      "bytes": 40118,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.767,
+      "width": 569,
+      "height": 318
+    },
+    {
+      "file": "WSH-NHL-1996-1997.png",
+      "start": 1996,
+      "end": 1997,
+      "title": "Washington Capitals Primary Logo (1996 - 1997)",
+      "source_team_id": 30,
+      "source_team_name": "Washington Capitals",
+      "view_url": "https://www.sportslogos.net/logos/view/214/Washington-Capitals-Logo/1996/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/30/thumbs/214.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/30/full/214.png",
+      "sha256": "276999c685c538416a139a648dfb9e1abcd5bd0354c983f7470492e495ebdc1e",
+      "bytes": 63957,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5415,
+      "width": 555,
+      "height": 530
+    },
+    {
+      "file": "WSH-NHL-1998-2002.png",
+      "start": 1998,
+      "end": 2002,
+      "title": "Washington Capitals Primary Logo (1998 - 2002)",
+      "source_team_id": 30,
+      "source_team_name": "Washington Capitals",
+      "view_url": "https://www.sportslogos.net/logos/view/215/Washington-Capitals-Logo/1998/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/30/thumbs/215.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/30/full/215.png",
+      "sha256": "90a8f2124983d4e9e00cdf37fed5802487abd550ba7fddfd1af3e20c64d1803c",
+      "bytes": 44228,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6231,
+      "width": 555,
+      "height": 530
+    },
+    {
+      "file": "WSH-NHL-2003-2007.png",
+      "start": 2003,
+      "end": 2007,
+      "title": "Washington Capitals Primary Logo (2003 - 2007)",
+      "source_team_id": 30,
+      "source_team_name": "Washington Capitals",
+      "view_url": "https://www.sportslogos.net/logos/view/paefgo9d0nm54u2nlzts/Washington-Capitals-Logo/2003/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/30/thumbs/paefgo9d0nm54u2nlzts.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/30/full/paefgo9d0nm54u2nlzts.png",
+      "sha256": "902a1a55202d56c98fead8ce913862f1f849f10261fbd2f120777859cf9d791b",
+      "bytes": 36014,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.3062,
+      "width": 530,
+      "height": 495
+    },
+    {
+      "file": "WSH-NHL-2008-pres.png",
+      "start": 2008,
+      "end": null,
+      "title": "Washington Capitals Primary Logo (2008 - Pres)",
+      "source_team_id": 30,
+      "source_team_name": "Washington Capitals",
+      "view_url": "https://www.sportslogos.net/logos/view/llrs2zxi127vkqgcsvfb/Washington-Capitals-Logo/2008/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/30/thumbs/washington-capitals-logo-primary-2008-5033-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/30/full/washington-capitals-logo-primary-2008-5033.png",
+      "sha256": "c287d4bccb05c4dabcc2094de1ca7b5b237f82a267c90e0310382fa3748e7946",
+      "bytes": 13567,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1276,
+      "width": 750,
+      "height": 476
+    }
+  ]
+}

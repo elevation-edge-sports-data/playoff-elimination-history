@@ -1,0 +1,30 @@
+{
+  "abbr": "CHI",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 221,
+      "name": "Chicago Bulls"
+    }
+  ],
+  "logos": [
+    {
+      "file": "CHI-NBA-1967-pres.png",
+      "start": 1967,
+      "end": null,
+      "title": "Chicago Bulls Primary Logo (1967 - Pres)",
+      "source_team_id": 221,
+      "source_team_name": "Chicago Bulls",
+      "view_url": "https://www.sportslogos.net/logos/view/hj3gmh82w9hffmeh3fjm5h874/Chicago-Bulls-Logo/1967/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/221/thumbs/hj3gmh82w9hffmeh3fjm5h874.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/221/full/hj3gmh82w9hffmeh3fjm5h874.png",
+      "sha256": "0b7d36e2f58b91a35fa1cdf87fe593f2e26d9f068a1e5aaebdce92c63311d4e0",
+      "bytes": 76742,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 825,
+      "height": 830
+    }
+  ]
+}

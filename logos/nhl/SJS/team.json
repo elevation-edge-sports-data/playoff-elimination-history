@@ -1,0 +1,84 @@
+{
+  "abbr": "SJS",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 26,
+      "name": "San Jose Sharks"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SJS-NHL-1992-1998.png",
+      "start": 1992,
+      "end": 1998,
+      "title": "San Jose Sharks Primary Logo (1992 - 1998)",
+      "source_team_id": 26,
+      "source_team_name": "San Jose Sharks",
+      "view_url": "https://www.sportslogos.net/logos/view/181/San-Jose-Sharks-Logo/1992/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/26/thumbs/181.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/26/full/181.png",
+      "sha256": "3f8822aa339fa6a9286e44f7b983689dfa9f53ccef46fd9212cefe28464182b7",
+      "bytes": 33541,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5116,
+      "width": 552,
+      "height": 524
+    },
+    {
+      "file": "SJS-NHL-1999-2007.png",
+      "start": 1999,
+      "end": 2007,
+      "title": "San Jose Sharks Primary Logo (1999 - 2007)",
+      "source_team_id": 26,
+      "source_team_name": "San Jose Sharks",
+      "view_url": "https://www.sportslogos.net/logos/view/2671521999/San-Jose-Sharks-Logo/1999/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/26/thumbs/2671521999.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/26/full/7152_san_jose_sharks-primary-19991.png",
+      "sha256": "03e5c18532fe1f1e360fa66bba8635b12df4911c17d21af9870d9d233c9329a1",
+      "bytes": 6866,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6482,
+      "width": 755,
+      "height": 730
+    },
+    {
+      "file": "SJS-NHL-2008-2008.png",
+      "start": 2008,
+      "end": 2008,
+      "title": "San Jose Sharks Primary Logo (2008 - 2008)",
+      "source_team_id": 26,
+      "source_team_name": "San Jose Sharks",
+      "view_url": "https://www.sportslogos.net/logos/view/2663792008/San-Jose-Sharks-Logo/2008/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/26/thumbs/2663792008.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/26/full/6379_san_jose_sharks-primary-20081.png",
+      "sha256": "3f723c4ff446a06a3b88d3b0af943af0eb8b50d4be7064b524e48cf552eae87a",
+      "bytes": 5940,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6696,
+      "width": 750,
+      "height": 627
+    },
+    {
+      "file": "SJS-NHL-2009-pres.png",
+      "start": 2009,
+      "end": null,
+      "title": "San Jose Sharks Primary Logo (2009 - Pres)",
+      "source_team_id": 26,
+      "source_team_name": "San Jose Sharks",
+      "view_url": "https://www.sportslogos.net/logos/view/dmo1xf3z4pph27vmg3gf/San-Jose-Sharks-Logo/2009/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/26/thumbs/dmo1xf3z4pph27vmg3gf.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/26/full/dmo1xf3z4pph27vmg3gf.png",
+      "sha256": "dc5f6cf7d5e7b99f907e96eb3311cdaaddb1e97700997a987c422d18f376f3c0",
+      "bytes": 47749,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6143,
+      "width": 800,
+      "height": 650
+    }
+  ]
+}

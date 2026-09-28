@@ -1,0 +1,30 @@
+{
+  "abbr": "TRH",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 1118,
+      "name": "Toronto Huskies"
+    }
+  ],
+  "logos": [
+    {
+      "file": "TRH-NBA-1947-1947.png",
+      "start": 1947,
+      "end": 1947,
+      "title": "Toronto Huskies Primary Logo (1947 - 1947)",
+      "source_team_id": 1118,
+      "source_team_name": "Toronto Huskies",
+      "view_url": "https://www.sportslogos.net/logos/view/5040/Toronto-Huskies-Logo/1947/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/1118/thumbs/5040.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/1118/full/5040.gif",
+      "sha256": "402d6fb64888b84b81775309c087f62fec0a394ab341db2b7f15b7420087c6be",
+      "bytes": 3225,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 300,
+      "height": 396
+    }
+  ]
+}

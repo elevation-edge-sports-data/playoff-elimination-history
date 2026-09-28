@@ -1,0 +1,66 @@
+{
+  "abbr": "PHI",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 22,
+      "name": "Philadelphia Flyers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "PHI-NHL-1968-1999.png",
+      "start": 1968,
+      "end": 1999,
+      "title": "Philadelphia Flyers Primary Logo (1968 - 1999)",
+      "source_team_id": 22,
+      "source_team_name": "Philadelphia Flyers",
+      "view_url": "https://www.sportslogos.net/logos/view/2246591968/Philadelphia-Flyers-Logo/1968/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/22/thumbs/2246591968.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/22/full/philadelphia_flyers_logo_primary_19684892.png",
+      "sha256": "a856d11ce9bf80753a476bd7d2fd61af2f799b8e40b00b42606ee4ceb9a12225",
+      "bytes": 5976,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1995,
+      "width": 905,
+      "height": 635
+    },
+    {
+      "file": "PHI-NHL-2000-2023.png",
+      "start": 2000,
+      "end": 2023,
+      "title": "Philadelphia Flyers Primary Logo (2000 - 2023)",
+      "source_team_id": 22,
+      "source_team_name": "Philadelphia Flyers",
+      "view_url": "https://www.sportslogos.net/logos/view/161/Philadelphia-Flyers-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/22/thumbs/161.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/22/full/161.png",
+      "sha256": "4362cb3f5662721e2cc534ce0d0fe9c7b80a32c0d6158ffe38d80ad76043a329",
+      "bytes": 41872,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.1544,
+      "width": 1050,
+      "height": 736
+    },
+    {
+      "file": "PHI-NHL-2024-pres.png",
+      "start": 2024,
+      "end": null,
+      "title": "Philadelphia Flyers Primary Logo (2024 - Pres)",
+      "source_team_id": 22,
+      "source_team_name": "Philadelphia Flyers",
+      "view_url": "https://www.sportslogos.net/logos/view/2231452024/Philadelphia-Flyers-Logo/2024/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/22/thumbs/2231452024.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/22/full/philadelphia_flyers_logo_primary_2024_sportslogosnet-3145.png",
+      "sha256": "4bf2c2e09b28076c2ab64a80445f862d7bb10b71382c655a9d31761f71aedc3f",
+      "bytes": 6395,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.2055,
+      "width": 905,
+      "height": 640
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "abbr": "TB",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 176,
+      "name": "Tampa Bay Buccaneers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "TB-NFL-1976-1996.png",
+      "start": 1976,
+      "end": 1996,
+      "title": "Tampa Bay Buccaneers Primary Logo (1976 - 1996)",
+      "source_team_id": 176,
+      "source_team_name": "Tampa Bay Buccaneers",
+      "view_url": "https://www.sportslogos.net/logos/view/1041/Tampa-Bay-Buccaneers-Logo/1976/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/176/thumbs/1041.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/176/full/1041.gif",
+      "sha256": "01be67cf027785ffdba5f81421ecd7440a411e67ae825838f4289cacc61f633d",
+      "bytes": 14810,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4983,
+      "width": 509,
+      "height": 541
+    },
+    {
+      "file": "TB-NFL-1997-2013.png",
+      "start": 1997,
+      "end": 2013,
+      "title": "Tampa Bay Buccaneers Primary Logo (1997 - 2013)",
+      "source_team_id": 176,
+      "source_team_name": "Tampa Bay Buccaneers",
+      "view_url": "https://www.sportslogos.net/logos/view/1046/Tampa-Bay-Buccaneers-Logo/1997/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/176/thumbs/1046.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/176/full/1046.gif",
+      "sha256": "5c84c82efa909fd8d482a3828ac0226ad607dae63c629531c242378117f1b823",
+      "bytes": 24139,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0732,
+      "width": 545,
+      "height": 501
+    },
+    {
+      "file": "TB-NFL-2014-2019.png",
+      "start": 2014,
+      "end": 2019,
+      "title": "Tampa Bay Buccaneers Primary Logo (2014 - 2019)",
+      "source_team_id": 176,
+      "source_team_name": "Tampa Bay Buccaneers",
+      "view_url": "https://www.sportslogos.net/logos/view/17636702014/Tampa-Bay-Buccaneers-Logo/2014/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/176/thumbs/17636702014.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/176/full/3670_tampa_bay_buccaneers-primary-2014.png",
+      "sha256": "fa0b228495474f68ac5899cf1f51c69cc6b9e39d34df720861e18c3587deaad3",
+      "bytes": 8743,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6517,
+      "width": 905,
+      "height": 805
+    },
+    {
+      "file": "TB-NFL-2020-pres.png",
+      "start": 2020,
+      "end": null,
+      "title": "Tampa Bay Buccaneers Primary Logo (2020 - Pres)",
+      "source_team_id": 176,
+      "source_team_name": "Tampa Bay Buccaneers",
+      "view_url": "https://www.sportslogos.net/logos/view/17683632020/Tampa-Bay-Buccaneers-Logo/2020/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/176/thumbs/17683632020.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/176/full/8363_tampa_bay_buccaneers-primary-2020.png",
+      "sha256": "9b9d60b7f2d5ec2833d814761080d7285eea54e63bb80918d6ea15048d32fe0f",
+      "bytes": 8513,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6507,
+      "width": 905,
+      "height": 805
+    }
+  ]
+}

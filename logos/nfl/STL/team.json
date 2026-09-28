@@ -1,0 +1,48 @@
+{
+  "abbr": "STL",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 178,
+      "name": "St. Louis Rams"
+    }
+  ],
+  "logos": [
+    {
+      "file": "STL-NFL-1995-1999.png",
+      "start": 1995,
+      "end": 1999,
+      "title": "St. Louis Rams Primary Logo (1995 - 1999)",
+      "source_team_id": 178,
+      "source_team_name": "St. Louis Rams",
+      "view_url": "https://www.sportslogos.net/logos/view/4603/St-Louis-Rams-Logo/1995/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/178/thumbs/4603.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/178/full/4603.gif",
+      "sha256": "d0d5a8f6882abb6539d2ba6084e7b6f9a1a76315b033836a8219a58d13dfa091",
+      "bytes": 22026,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 813,
+      "height": 300
+    },
+    {
+      "file": "STL-NFL-2000-2015.png",
+      "start": 2000,
+      "end": 2015,
+      "title": "St. Louis Rams Primary Logo (2000 - 2015)",
+      "source_team_id": 178,
+      "source_team_name": "St. Louis Rams",
+      "view_url": "https://www.sportslogos.net/logos/view/1029/St-Louis-Rams-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/178/thumbs/1029.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/178/full/1029.png",
+      "sha256": "c268ae3433f67a7c92cb8ce2e2ed65c2125fb1abdb6a9ee85c9a648b8a885fe4",
+      "bytes": 92461,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4768,
+      "width": 905,
+      "height": 655
+    }
+  ]
+}

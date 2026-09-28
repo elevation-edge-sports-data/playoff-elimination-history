@@ -1,0 +1,150 @@
+{
+  "abbr": "TEN",
+  "sport": "nfl",
+  "sources": [
+    {
+      "id": 3065,
+      "name": "Houston Oilers (AFL)"
+    },
+    {
+      "id": 186,
+      "name": "Houston Oilers"
+    },
+    {
+      "id": 1002,
+      "name": "Tennessee Oilers"
+    },
+    {
+      "id": 160,
+      "name": "Tennessee Titans"
+    }
+  ],
+  "logos": [
+    {
+      "file": "TEN-NFL-1961-1968.png",
+      "start": 1961,
+      "end": 1968,
+      "title": "Houston Oilers Primary Logo (1961 - 1968)",
+      "source_team_id": 3065,
+      "source_team_name": "Houston Oilers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/ojbtoggcku8s3iq2mh9e/Houston-Oilers-Logo/1961/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/99/3065/thumbs/ojbtoggcku8s3iq2mh9e.gif",
+      "download_url": "https://content.sportslogos.net/logos/99/3065/full/ojbtoggcku8s3iq2mh9e.gif",
+      "sha256": "42b13d53a6b376957728ba5cdf017f6583f91b0df19f24e92cc8914dfb5361be",
+      "bytes": 134007,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6302,
+      "width": 445,
+      "height": 489
+    },
+    {
+      "file": "TEN-NFL-1969-1971.png",
+      "start": 1969,
+      "end": 1971,
+      "title": "Houston Oilers Primary Logo (1969 - 1971)",
+      "source_team_id": 3065,
+      "source_team_name": "Houston Oilers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/lbkqzhosnpwkln4hix3ivocg9/Houston-Oilers-Logo/1969/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/99/3065/thumbs/lbkqzhosnpwkln4hix3ivocg9.gif",
+      "download_url": "https://content.sportslogos.net/logos/99/3065/full/lbkqzhosnpwkln4hix3ivocg9.gif",
+      "sha256": "63916d81ac23a787c0cf9f43470f6ef51ff6862f517b6b5a0d1ab8eba0aba05c",
+      "bytes": 11738,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6096,
+      "width": 306,
+      "height": 300
+    },
+    {
+      "file": "TEN-NFL-1972-1979.png",
+      "start": 1972,
+      "end": 1979,
+      "title": "Houston Oilers Primary Logo (1972 - 1979)",
+      "source_team_id": 3065,
+      "source_team_name": "Houston Oilers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/tnkpgkrgukbcsc2m9wh5umw18/Houston-Oilers-Logo/1972/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/186/thumbs/tnkpgkrgukbcsc2m9wh5umw18.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/186/full/tnkpgkrgukbcsc2m9wh5umw18.gif",
+      "sha256": "f64c4bb095c7150188df434dd649377b8515a4aa88c24fb3e0bcc1c09b115f45",
+      "bytes": 14354,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.6583,
+      "width": 310,
+      "height": 305
+    },
+    {
+      "file": "TEN-NFL-1980-1996.png",
+      "start": 1980,
+      "end": 1996,
+      "title": "Houston Oilers Primary Logo (1980 - 1996)",
+      "source_team_id": 3065,
+      "source_team_name": "Houston Oilers (AFL)",
+      "view_url": "https://www.sportslogos.net/logos/view/581/Houston-Oilers-Logo/1980/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/186/thumbs/581.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/186/full/581.gif",
+      "sha256": "04464e9fe22e658e669bcb032ec37a3e24fa7de6a0ef73c919af64dd52f6d4e0",
+      "bytes": 17921,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.399,
+      "width": 300,
+      "height": 509
+    },
+    {
+      "file": "TEN-NFL-1997-1998.png",
+      "start": 1997,
+      "end": 1998,
+      "title": "Tennessee Oilers Primary Logo (1997 - 1998)",
+      "source_team_id": 1002,
+      "source_team_name": "Tennessee Oilers",
+      "view_url": "https://www.sportslogos.net/logos/view/1054/Tennessee-Oilers-Logo/1997/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/1002/thumbs/1054.gif",
+      "download_url": "https://content.sportslogos.net/logos/7/1002/full/1054.gif",
+      "sha256": "04464e9fe22e658e669bcb032ec37a3e24fa7de6a0ef73c919af64dd52f6d4e0",
+      "bytes": 17921,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.399,
+      "width": 300,
+      "height": 509
+    },
+    {
+      "file": "TEN-NFL-1999-2001.png",
+      "start": 1999,
+      "end": 2001,
+      "title": "Tennessee Titans Primary Logo (1999 - 2001)",
+      "source_team_id": 160,
+      "source_team_name": "Tennessee Titans",
+      "view_url": "https://www.sportslogos.net/logos/view/16085651999/Tennessee-Titans-Logo/1999/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/160/thumbs/tennessee-titans-logo-primary-1999-16085651999-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/7/160/full/tennessee-titans-logo-primary-1999-16085651999.png",
+      "sha256": "52558a39b75604f0b43cfeb70c2b80ddcdea4e31f7c55b40328ab3d2fec459d8",
+      "bytes": 17856,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 539
+    },
+    {
+      "file": "TEN-NFL-2002-2025.png",
+      "start": 2002,
+      "end": 2025,
+      "title": "Tennessee Titans Primary Logo (2002 - 2025)",
+      "source_team_id": 160,
+      "source_team_name": "Tennessee Titans",
+      "view_url": "https://www.sportslogos.net/logos/view/1053/Tennessee-Titans-Logo/2002/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/7/160/thumbs/tennessee-titans-logo-primary-1999-6125-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/7/160/full/tennessee-titans-logo-primary-1999-6125.png",
+      "sha256": "4ecf768ec92c61b53d0e93afa26bc89b53ff95b31c099ed53ca40a11e2c7a70c",
+      "bytes": 17986,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 539
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "abbr": "FLA",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 13,
+      "name": "Florida Panthers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "FLA-NHL-1994-1999.png",
+      "start": 1994,
+      "end": 1999,
+      "title": "Florida Panthers Primary Logo (1994 - 1999)",
+      "source_team_id": 13,
+      "source_team_name": "Florida Panthers",
+      "view_url": "https://www.sportslogos.net/logos/view/7izs3ydvvnkji60gmggzgkufj/Florida-Panthers-Logo/1994/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/13/thumbs/7izs3ydvvnkji60gmggzgkufj.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/13/full/7izs3ydvvnkji60gmggzgkufj.png",
+      "sha256": "996337f1aa7281bce57ba194d71eb06868f2c779773fc467d66189d9bd50fd54",
+      "bytes": 300603,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.063,
+      "width": 2078,
+      "height": 2068
+    },
+    {
+      "file": "FLA-NHL-2000-2016.png",
+      "start": 2000,
+      "end": 2016,
+      "title": "Florida Panthers Primary Logo (2000 - 2016)",
+      "source_team_id": 13,
+      "source_team_name": "Florida Panthers",
+      "view_url": "https://www.sportslogos.net/logos/view/94/Florida-Panthers-Logo/2000/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/13/thumbs/94.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/13/full/94.png",
+      "sha256": "31827d6a1b49107111330f25fcfacce631c6d9c5d44c404569d0887ef1158540",
+      "bytes": 354181,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0632,
+      "width": 2078,
+      "height": 2068
+    },
+    {
+      "file": "FLA-NHL-2017-pres.png",
+      "start": 2017,
+      "end": null,
+      "title": "Florida Panthers Primary Logo (2017 - Pres)",
+      "source_team_id": 13,
+      "source_team_name": "Florida Panthers",
+      "view_url": "https://www.sportslogos.net/logos/view/1380782017/Florida-Panthers-Logo/2017/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/13/thumbs/1380782017.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/13/full/florida_panthers_logo_primary_20174924.png",
+      "sha256": "5c6d517980183998a042a2d8c5d79af2ca0ddefc21798d5ac5e390290c6e0dd7",
+      "bytes": 181983,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5416,
+      "width": 810,
+      "height": 905
+    }
+  ]
+}

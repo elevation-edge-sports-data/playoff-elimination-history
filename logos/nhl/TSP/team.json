@@ -1,0 +1,84 @@
+{
+  "abbr": "TSP",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 997,
+      "name": "Toronto St. Pats"
+    }
+  ],
+  "logos": [
+    {
+      "file": "TSP-NHL-1920-1922.png",
+      "start": 1920,
+      "end": 1922,
+      "title": "Toronto St. Pats Primary Logo (1920 - 1922)",
+      "source_team_id": 997,
+      "source_team_name": "Toronto St. Pats",
+      "view_url": "https://www.sportslogos.net/logos/view/6438/Toronto-St-Pats-Logo/1920/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/997/thumbs/6438.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/997/full/6438.gif",
+      "sha256": "4314b80c5953d411753acacb6244ed11fc2625aba1858f078446d86eab5b4b2a",
+      "bytes": 17907,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 867,
+      "height": 300
+    },
+    {
+      "file": "TSP-NHL-1923-1925.png",
+      "start": 1923,
+      "end": 1925,
+      "title": "Toronto St. Pats Primary Logo (1923 - 1925)",
+      "source_team_id": 997,
+      "source_team_name": "Toronto St. Pats",
+      "view_url": "https://www.sportslogos.net/logos/view/280/Toronto-St-Pats-Logo/1923/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/997/thumbs/280.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/997/full/280.png",
+      "sha256": "7d0fc29e3d00f22e00017c3912db08330cf93d8a4eb775f6a028079c169726e4",
+      "bytes": 26770,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0028,
+      "width": 786,
+      "height": 300
+    },
+    {
+      "file": "TSP-NHL-1926-1926.png",
+      "start": 1926,
+      "end": 1926,
+      "title": "Toronto St. Pats Primary Logo (1926 - 1926)",
+      "source_team_id": 997,
+      "source_team_name": "Toronto St. Pats",
+      "view_url": "https://www.sportslogos.net/logos/view/2c1nvj3dym87s20wa0hx6vuhv/Toronto-St-Pats-Logo/1926/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/997/thumbs/2c1nvj3dym87s20wa0hx6vuhv.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/997/full/2c1nvj3dym87s20wa0hx6vuhv.gif",
+      "sha256": "4314b80c5953d411753acacb6244ed11fc2625aba1858f078446d86eab5b4b2a",
+      "bytes": 17907,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 867,
+      "height": 300
+    },
+    {
+      "file": "TSP-NHL-1927-1927.png",
+      "start": 1927,
+      "end": 1927,
+      "title": "Toronto St. Pats Primary Logo (1927 - 1927)",
+      "source_team_id": 997,
+      "source_team_name": "Toronto St. Pats",
+      "view_url": "https://www.sportslogos.net/logos/view/279/Toronto-St-Pats-Logo/1927/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/997/thumbs/279.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/997/full/279.png",
+      "sha256": "66d8bed45fbb9571d3fcf349719d01df3b7b2265b33ebe7629436cb22f4f0319",
+      "bytes": 76632,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5598,
+      "width": 905,
+      "height": 350
+    }
+  ]
+}

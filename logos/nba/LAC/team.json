@@ -1,0 +1,102 @@
+{
+  "abbr": "LAC",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 236,
+      "name": "Los Angeles Clippers"
+    }
+  ],
+  "logos": [
+    {
+      "file": "LAC-NBA-1985-2010.png",
+      "start": 1985,
+      "end": 2010,
+      "title": "Los Angeles Clippers Primary Logo (1985 - 2010)",
+      "source_team_id": 236,
+      "source_team_name": "Los Angeles Clippers",
+      "view_url": "https://www.sportslogos.net/logos/view/ioxjye9im9phdgfyfxvj1xb71/Los-Angeles-Clippers-Logo/1985/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/236/thumbs/ioxjye9im9phdgfyfxvj1xb71.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/236/full/ioxjye9im9phdgfyfxvj1xb71.png",
+      "sha256": "64e9c0c82419a6419d6a9eebb103337752c2bbfb621991ab212a4a6fe2eb3813",
+      "bytes": 100910,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 1210,
+      "height": 845
+    },
+    {
+      "file": "LAC-NBA-2011-2015.png",
+      "start": 2011,
+      "end": 2015,
+      "title": "Los Angeles Clippers Primary Logo (2011 - 2015)",
+      "source_team_id": 236,
+      "source_team_name": "Los Angeles Clippers",
+      "view_url": "https://www.sportslogos.net/logos/view/bvv028jd1hhr8ee8ii7a0fg4i/Los-Angeles-Clippers-Logo/2011/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/236/thumbs/bvv028jd1hhr8ee8ii7a0fg4i.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/236/full/bvv028jd1hhr8ee8ii7a0fg4i.png",
+      "sha256": "3787261eed7bb4c8e09d88edc8c697724c806964b45655ad8f19d8f440f50e45",
+      "bytes": 90849,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0,
+      "width": 1060,
+      "height": 740
+    },
+    {
+      "file": "LAC-NBA-2016-2018.png",
+      "start": 2016,
+      "end": 2018,
+      "title": "Los Angeles Clippers Primary Logo (2016 - 2018)",
+      "source_team_id": 236,
+      "source_team_name": "Los Angeles Clippers",
+      "view_url": "https://www.sportslogos.net/logos/view/23654622016/Los-Angeles-Clippers-Logo/2016/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/236/thumbs/23654622016.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/236/full/los_angeles_clippers_logo_primary_20161514.png",
+      "sha256": "3b01f43182e3ccd7b10539bb58c373ce8a206aefd1782501e37d17d47724be27",
+      "bytes": 36055,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5647,
+      "width": 905,
+      "height": 690
+    },
+    {
+      "file": "LAC-NBA-2019-2024.png",
+      "start": 2019,
+      "end": 2024,
+      "title": "Los Angeles Clippers Primary Logo (2019 - 2024)",
+      "source_team_id": 236,
+      "source_team_name": "Los Angeles Clippers",
+      "view_url": "https://www.sportslogos.net/logos/view/23637762019/Los-Angeles-Clippers-Logo/2019/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/236/thumbs/23637762019.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/236/full/los_angeles_clippers_logo_primary_2019_sportslogosnet-3776.png",
+      "sha256": "d51b9df9a1d05ebf1963c47bd76871fd4e7075206d1271d93440a8a504277990",
+      "bytes": 61432,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.5463,
+      "width": 905,
+      "height": 690
+    },
+    {
+      "file": "LAC-NBA-2025-pres.png",
+      "start": 2025,
+      "end": null,
+      "title": "Los Angeles Clippers Primary Logo (2025 - Pres)",
+      "source_team_id": 236,
+      "source_team_name": "Los Angeles Clippers",
+      "view_url": "https://www.sportslogos.net/logos/view/23655422025/Los-Angeles-Clippers-Logo/2025/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/236/thumbs/23655422025.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/236/full/los_angeles_clippers_logo_primary_2025_sportslogosnet-5542.png",
+      "sha256": "84dbf56b4323fc4910dbdedbc3f587a687b2e9340e8653363a63de96182cd3e9",
+      "bytes": 213649,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4757,
+      "width": 905,
+      "height": 905
+    }
+  ]
+}

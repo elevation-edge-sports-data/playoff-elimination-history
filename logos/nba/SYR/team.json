@@ -1,0 +1,48 @@
+{
+  "abbr": "SYR",
+  "sport": "nba",
+  "sources": [
+    {
+      "id": 250,
+      "name": "Syracuse Nationals"
+    }
+  ],
+  "logos": [
+    {
+      "file": "SYR-NBA-1947-1949.png",
+      "start": 1947,
+      "end": 1949,
+      "title": "Syracuse Nationals Primary Logo (1947 - 1949)",
+      "source_team_id": 250,
+      "source_team_name": "Syracuse Nationals",
+      "view_url": "https://www.sportslogos.net/logos/view/5959/Syracuse-Nationals-Logo/1947/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/250/thumbs/5959.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/250/full/5959.gif",
+      "sha256": "c8042dc073aa2c0ddb04bb0cbb818053dfff5b73eb04af872071ea5ae7ae70d7",
+      "bytes": 33864,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 336,
+      "height": 350
+    },
+    {
+      "file": "SYR-NBA-1950-1963.png",
+      "start": 1950,
+      "end": 1963,
+      "title": "Syracuse Nationals Primary Logo (1950 - 1963)",
+      "source_team_id": 250,
+      "source_team_name": "Syracuse Nationals",
+      "view_url": "https://www.sportslogos.net/logos/view/4600/Syracuse-Nationals-Logo/1950/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/6/250/thumbs/4600.gif",
+      "download_url": "https://content.sportslogos.net/logos/6/250/full/4600.gif",
+      "sha256": "0b672567217b7a327f7a866c97bdce528b937611327ee8d2f4cc9b06ece1c922",
+      "bytes": 34850,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.0002,
+      "width": 300,
+      "height": 333
+    }
+  ]
+}

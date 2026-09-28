@@ -1,0 +1,52 @@
+{
+  "abbr": "UTA",
+  "sport": "nhl",
+  "sources": [
+    {
+      "id": 6902,
+      "name": "Utah Hockey Club"
+    },
+    {
+      "id": 6944,
+      "name": "Utah Mammoth"
+    }
+  ],
+  "logos": [
+    {
+      "file": "UTA-NHL-2025-2025.png",
+      "start": 2025,
+      "end": 2025,
+      "title": "Utah Hockey Club Primary Logo (2025 - 2025)",
+      "source_team_id": 6902,
+      "source_team_name": "Utah Hockey Club",
+      "view_url": "https://www.sportslogos.net/logos/view/690280952025/Utah-Hockey-Club-Logo/2025/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/6902/thumbs/690280952025.gif",
+      "download_url": "https://content.sportslogos.net/logos/1/6902/full/utah_hockey_club_logo_primary_2025_sportslogosnet-8095.png",
+      "sha256": "9aa4078b9ef81e6300ff51a8caaba9986d0feb5318ea1a64b3a4b8a122b221f3",
+      "bytes": 9172,
+      "transparent": true,
+      "bg_removed": true,
+      "bg_frac": 0.4749,
+      "width": 905,
+      "height": 905
+    },
+    {
+      "file": "UTA-NHL-2026-pres.png",
+      "start": 2026,
+      "end": null,
+      "title": "Utah Mammoth Primary Logo (2026 - Pres)",
+      "source_team_id": 6902,
+      "source_team_name": "Utah Hockey Club",
+      "view_url": "https://www.sportslogos.net/logos/view/694433562026/Utah-Mammoth-Logo/2026/Primary-Logo",
+      "thumb_url": "https://content.sportslogos.net/logos/1/6944/thumbs/utah-mammoth-logo-primary-2026-694433562026-thumb.png",
+      "download_url": "https://content.sportslogos.net/logos/1/6944/full/utah-mammoth-logo-primary-2026-694433562026.png",
+      "sha256": "baf86db13fa86052b55e37db19d38442fa3fe1879faf994a55d0069c6877dc3f",
+      "bytes": 12689,
+      "transparent": true,
+      "bg_removed": false,
+      "bg_frac": 0.0,
+      "width": 750,
+      "height": 555
+    }
+  ]
+}
