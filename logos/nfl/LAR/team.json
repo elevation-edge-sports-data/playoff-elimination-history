@@ -119,6 +119,22 @@
       "bg_frac": 0.6024,
       "width": 905,
       "height": 655
+    },
+    {
+      "file": "LAR-NFL-2026-pres.png",
+      "start": 2026,
+      "end": null,
+      "title": "Los Angeles Rams Primary Logo (2026 - Pres)",
+      "source_team_id": 5941,
+      "source_team_name": "Los Angeles Rams",
+      "view_url": "https://www.sportslogos.net/logos/view/594120282026/Los-Angeles-Rams-Logo/2026/Primary-Logo",
+      "download_url": "https://content.sportslogos.net/logos/7/5941/full/los-angeles-rams-logo-primary-2026-594120282026.png",
+      "sha256": "f5b4dbcd5d3ddcd8d37917721fbbbedb322338db73a6e1509edac0dd011f0a93",
+      "bytes": 28734,
+      "width": 750,
+      "height": 541,
+      "transparent": true,
+      "bg_removed": true
     }
   ]
 }

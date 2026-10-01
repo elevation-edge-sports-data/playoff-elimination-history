@@ -115,6 +115,22 @@
       "bg_frac": 0.0,
       "width": 750,
       "height": 567
+    },
+    {
+      "file": "HOU-NBA-2027-pres.png",
+      "start": 2027,
+      "end": null,
+      "title": "Houston Rockets Primary Logo (2026/27 - Pres)",
+      "source_team_id": 230,
+      "source_team_name": "Houston Rockets",
+      "view_url": "https://www.sportslogos.net/logos/view/23098672027/Houston-Rockets-Logo/2027/Primary-Logo",
+      "download_url": "https://content.sportslogos.net/logos/6/230/full/houston-rockets-logo-primary-2027-23098672027.png",
+      "sha256": "cd21fee845dc56a714f28b8b65956cefdb74baf52197eec74077de3468877074",
+      "bytes": 100072,
+      "width": 750,
+      "height": 702,
+      "transparent": true,
+      "bg_removed": true
     }
   ]
 }

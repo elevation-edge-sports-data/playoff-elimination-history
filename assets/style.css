@@ -7,4 +7,5 @@
 header .header-row{flex-wrap:nowrap}
 header .lab-versions{gap:4px}
 header .lab-versions a{min-height:28px;padding:2px 6px}
-@media (width < 40rem){header>.items-start{flex-wrap:wrap}header .lab-versions{flex:1 1 100%;justify-content:flex-end;margin-left:0;max-width:100%}}
+@media (width < 72rem){header .header-row:first-child{flex-wrap:wrap;row-gap:.5rem}header .header-tools{flex:1 1 100%;flex-wrap:wrap}header .header-tools h1{flex:0 1 auto;min-width:8rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}header .season-direction,header .sport-switch,header .sport-cycle{flex:0 0 auto}header .lab-versions{flex:1 1 100%;justify-content:flex-end;margin-left:0;max-width:100%}}
+@media (width < 40rem){header>.items-start{flex-wrap:wrap}header .header-tools h1{flex:1 1 100%;min-width:0}}

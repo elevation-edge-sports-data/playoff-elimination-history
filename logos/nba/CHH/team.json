@@ -18,10 +18,10 @@
       "view_url": "https://www.sportslogos.net/logos/view/3097/Charlotte-Hornets-Logo/1989/Primary-Logo",
       "thumb_url": "https://content.sportslogos.net/logos/6/256/thumbs/3097.gif",
       "download_url": "https://content.sportslogos.net/logos/6/256/full/3097.png",
-      "sha256": "32e9a4abf2d48fce2c88fb3ab3e2de9b24dd65ca925e51fec160165da669fa64",
-      "bytes": 120941,
+      "sha256": "25fc092a91fa27c45101d137262bcfa5dfe114c8672f2650bf96cc69484b51cf",
+      "bytes": 124210,
       "transparent": true,
-      "bg_removed": false,
+      "bg_removed": true,
       "bg_frac": 0.0,
       "width": 460,
       "height": 595

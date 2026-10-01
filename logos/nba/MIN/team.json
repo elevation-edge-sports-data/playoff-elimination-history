@@ -79,6 +79,22 @@
       "bg_frac": 0.0,
       "width": 750,
       "height": 750
+    },
+    {
+      "file": "MIN-NBA-2027-pres.png",
+      "start": 2027,
+      "end": null,
+      "title": "Minnesota Timberwolves Primary Logo (2026/27 - Pres)",
+      "source_team_id": 232,
+      "source_team_name": "Minnesota Timberwolves",
+      "view_url": "https://www.sportslogos.net/logos/view/23230982027/Minnesota-Timberwolves-Logo/2027/Primary-Logo",
+      "download_url": "https://content.sportslogos.net/logos/6/232/full/minnesota-timberwolves-logo-primary-2027-23230982027.png",
+      "sha256": "9afc04ff55cad1580865a96e4c7a959bc1c1303754101253ed62174b5199f1c5",
+      "bytes": 171617,
+      "width": 750,
+      "height": 750,
+      "transparent": true,
+      "bg_removed": true
     }
   ]
 }
